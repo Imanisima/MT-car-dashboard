@@ -1,0 +1,67 @@
+:root {
+
+/* Titles and Headers
+--------------------- */
+    /* Colors */
+    --title: #f5f3f4;
+    --subtext: #b5179e;
+    --grtext: #f72585;
+
+    --background: #03071e;
+
+    /* Text Font */
+    --titleText: 48px;
+    --titleDesc: 20px;
+
+}
+
+/* END of ROOT */
+
+/* Background
+---------------*/
+.background-color{
+    background: var(--background);
+}
+
+
+/* Header
+---------------*/
+.header-title{
+    font-size: var(--titleText);
+    color: var(--title);
+    margin: 4px auto;
+    text-align: center;
+    text-shadow: 3px 4px 2px #495057;
+    max-width: 400px;
+}
+
+.header-description {
+    color: var(--subtext);
+    font-size: var(--titleDesc);
+    margin: 4px auto;
+    text-align: center;
+    text-shadow: 0 0 1px #FF0000;
+    max-width: 384px;
+    padding: 10px;
+}
+
+.header-emoji {
+    margin: 4px auto;
+}
+
+/* Body
+--------*/
+.body-text{
+    color: var(--subtext);
+}
+
+
+/* Graphs
+-------------*/
+.card-container {
+    margin: 10px;
+}
+
+.card-container:hover {
+  transform: scale(0.98); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}

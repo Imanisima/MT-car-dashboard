@@ -1,0 +1,9 @@
+vin_num,year,make,model,trim,body_style,ext_color,int_color,transmission,city_mpg,hwy_mpg,mileage,price,dealership,alert_dt
+KNDJN2A23J7560749,2018,Kia,Soul,Base,Hatchback,Shadow Black,Black,Manual,24,30,48760,14491,Ancira Kia,2021-08-28
+1FADP3L92FL334066,2015,Ford,Focus,ST,Hatchback,Oxford White,Charcoal Black,Manual,23,32,109127,14562,Ancira Chrysler Jeep Dodge Ram,2021-08-28
+KMHD04LB2HU354138,2017,Hyundai,Elantra,Sport,4dr Car,Galactic Gray,Black,Manual,22,30,54124,16991,Ancira Buick GMC,2021-08-28
+1C4BJWDG4GL279994,2016,Jeep,Wrangler Unlimited,Sport,Convertible,Bright White Clearcoat,Black,Manual,16,21,142239,23998,Ancira Chrysler Jeep Dodge Ram,2021-08-28
+JM1NDAD76H0124521,2017,Mazda,Mazda MX-5 Miata,Grand Touring,Convertible,Blue Reflex Mica,Black,Manual,26,33,25981,24892,Ancira Buick GMC,2021-08-28
+1C4HJWEG2EL272208,2014,Jeep,Wrangler Unlimited,Sahara,SUV,Anvil Clear Coat,Dark Saddle/Black,Manual,16,21,94103,28991,Ancira Nissan,2021-08-28
+1C4AJWBG7GL296187,2016,Jeep,Wrangler,Sahara,Convertible,Granite Crystal Metallic Clearcoat,Black,Manual,17,21,46205,31497,Ancira Chrysler Jeep Dodge Ram,2021-08-28
+1C4BJWFG9FL739484,2015,Jeep,Wrangler Unlimited,Rubicon,Convertible,Black Clearcoat,Dark Saddle/Black,Manual,16,21,40822,37998,Ancira Chrysler Jeep Dodge Ram,2021-08-28
