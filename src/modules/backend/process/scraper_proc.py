@@ -4,18 +4,19 @@
 Contains main methods for running each job.
 
 """
-
+import pandas as pd
 from bs4 import BeautifulSoup
 import requests
+import time
 
-from backend.utility_ops.anc_utility import check_pagination, retrieve_vehicles
-from backend.utility_ops.utility import check_path, write_to_log
+from modules.backend.utility_ops.anc_utility import check_pagination, retrieve_vehicles
+from modules.backend.utility_ops.utility import check_path, write_to_log
 
 
 def web_scraping_proc(job_name="Car Web-Scraper",
-                dataset_dir="ancira_dataset/",
-                all_used_dataset="ancira_car_listing.csv",
-                mt_dataset="ancira_manual_cars.csv"):
+                      dataset_dir="modules/frontend/",
+                      car_csv_file="ancira_car_listing.csv"):
+
     """
 	Web scraper that pulls data and creates a dataset to track manual transmission and automatic transmission cars.
 
@@ -32,6 +33,9 @@ def web_scraping_proc(job_name="Car Web-Scraper",
 	RETURNS
 		Nothing
 	"""
+
+
+    print("----------SCRAPPER.PY----------")
 
     write_to_log(msg=f"Now starting {job_name} process")
 
@@ -53,27 +57,20 @@ def web_scraping_proc(job_name="Car Web-Scraper",
     write_to_log(msg=f"Retrieving vehicle information")
     veh_df = retrieve_vehicles(page_list, domain)
 
+    veh_df.loc[veh_df["transmission"].str.lower() != "manual", "transmission"] = "automatic"
+
     write_to_log(msg=f"{veh_df.shape[0]} rows retrieved.")
     write_to_log(msg=f"{veh_df.shape[1]} columns retrieved.")
     write_to_log(msg=f"Column names are {veh_df.columns}")
 
-    check_path(dataset_dir)
-    dataset_path = dataset_dir + all_used_dataset
+    # check_path(dataset_dir)
+    dataset_path = dataset_dir + car_csv_file
     veh_df.to_csv(dataset_path, index=False)
     write_to_log(msg=f"{veh_df.shape[0]} rows saved.")
     write_to_log(msg=f"{veh_df.shape[1]} columns saved.")
 
-    # manual transmission cars only
-    write_to_log(msg=f"Retrieving manual transmission data")
-    mt_vehicles = veh_df[veh_df["transmission"].str.lower() == "manual"]
 
-    write_to_log(msg=f"{mt_vehicles.shape[0]} rows retrieved.")
-    write_to_log(msg=f"{mt_vehicles.shape[1]} columns retrieved.")
-    write_to_log(msg=f"Column names are {mt_vehicles.columns}")
-
-    dataset_path = dataset_dir + mt_dataset
-    mt_vehicles.to_csv(dataset_path, index=False)
-    write_to_log(msg=f"{mt_vehicles.shape[0]} rows saved.")
-    write_to_log(msg=f"{mt_vehicles.shape[1]} columns saved.")
 
     write_to_log(msg=f"Process finished running! \n")
+
+    time.sleep(120)

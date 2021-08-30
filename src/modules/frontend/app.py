@@ -2,6 +2,7 @@
 Creates the dash application.
 """
 
+
 import dash
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
@@ -14,6 +15,18 @@ import plotly.express as px
 
 import time
 
+print("----------APP.PY----------")
+
+# load data
+dataset = pd.read_csv("modules/frontend/ancira_car_listing.csv")
+
+# preprocess data for dashboard use
+dataset = dataset[dataset.price != "-1"]
+dataset["make"].str.lower()
+dataset.sort_values("alert_dt", inplace=True)
+
+
+# create dash class instance
 # external stylesheets
 external_stylesheets = [
     {
@@ -23,15 +36,6 @@ external_stylesheets = [
     },
 ]
 
-# preprocess data for dashboard use
-dataset = pd.read_csv("ancira_dataset/ancira_car_listing.csv")
-dataset = dataset[dataset.price != "-1"]
-dataset["make"].str.lower()
-
-# dataset.query("transmission == 'manual' and dealership == 'Ancira Nissan'")
-dataset.sort_values("alert_dt", inplace=True)
-
-# create dash class instance
 app = dash.Dash(__name__,
                 external_stylesheets=[
                     dbc.themes.BOOTSTRAP,
@@ -229,6 +233,9 @@ app.layout = dbc.Container(
 #     time.sleep(1)
 #     return value
 
-
-if __name__ == "__main__":
+def run_server():
     app.run_server(debug=True)
+
+
+# if __name__ == "__main__":
+#     app.run_server(debug=True)

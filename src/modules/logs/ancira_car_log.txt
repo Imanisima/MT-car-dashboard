@@ -1,52 +1,16 @@
-2021-08-28 21:38:00.580926 : Now starting Car Web-Scraper process 
-2021-08-28 21:38:00.581672 : Requesting https://www.ancira.com/used-car-truck-suv-for-sale-san-antonio-tx.html?pn=100 
-2021-08-28 21:38:03.038157 : Request message - <Response [200]> 
-2021-08-28 21:38:03.038612 : Getting content using BeautifulSoup 
-2021-08-28 21:38:03.768046 : Checking pagination links 
-2021-08-28 21:38:03.868873 : Retrieving vehicle information 
-2021-08-28 21:38:20.037354 : 419 rows retrieved. 
-2021-08-28 21:38:20.037785 : 15 columns retrieved. 
-2021-08-28 21:38:20.038910 : Column names are Index(['vin_num', 'year', 'make', 'model', 'trim', 'body_style', 'ext_color',
+2021-08-30 17:35:18.660158 : Now starting Car Web-Scraper process 
+2021-08-30 17:35:18.660879 : Requesting https://www.ancira.com/used-car-truck-suv-for-sale-san-antonio-tx.html?pn=100 
+2021-08-30 17:35:21.114806 : Request message - <Response [200]> 
+2021-08-30 17:35:21.115197 : Getting content using BeautifulSoup 
+2021-08-30 17:35:22.047331 : Checking pagination links 
+2021-08-30 17:35:22.162926 : Retrieving vehicle information 
+2021-08-30 17:35:38.994790 : 408 rows retrieved. 
+2021-08-30 17:35:38.995110 : 15 columns retrieved. 
+2021-08-30 17:35:38.996671 : Column names are Index(['vin_num', 'year', 'make', 'model', 'trim', 'body_style', 'ext_color',
        'int_color', 'transmission', 'city_mpg', 'hwy_mpg', 'mileage', 'price',
        'dealership', 'alert_dt'],
       dtype='object') 
-2021-08-28 21:38:20.047870 : 419 rows saved. 
-2021-08-28 21:38:20.048211 : 15 columns saved. 
-2021-08-28 21:38:20.048433 : Retrieving manual transmission data 
-2021-08-28 21:38:20.050803 : 8 rows retrieved. 
-2021-08-28 21:38:20.051114 : 15 columns retrieved. 
-2021-08-28 21:38:20.051625 : Column names are Index(['vin_num', 'year', 'make', 'model', 'trim', 'body_style', 'ext_color',
-       'int_color', 'transmission', 'city_mpg', 'hwy_mpg', 'mileage', 'price',
-       'dealership', 'alert_dt'],
-      dtype='object') 
-2021-08-28 21:38:20.053059 : 8 rows saved. 
-2021-08-28 21:38:20.053299 : 15 columns saved. 
-2021-08-28 21:38:20.053528 : Process finished running! 
- 
-2021-08-28 21:38:30.581635 : Now starting Car Web-Scraper process 
-2021-08-28 21:38:30.582359 : Requesting https://www.ancira.com/used-car-truck-suv-for-sale-san-antonio-tx.html?pn=100 
-2021-08-28 21:38:30.828231 : Request message - <Response [200]> 
-2021-08-28 21:38:30.828599 : Getting content using BeautifulSoup 
-2021-08-28 21:38:31.711452 : Checking pagination links 
-2021-08-28 21:38:31.813535 : Retrieving vehicle information 
-2021-08-28 21:38:39.502243 : 419 rows retrieved. 
-2021-08-28 21:38:39.502571 : 15 columns retrieved. 
-2021-08-28 21:38:39.503815 : Column names are Index(['vin_num', 'year', 'make', 'model', 'trim', 'body_style', 'ext_color',
-       'int_color', 'transmission', 'city_mpg', 'hwy_mpg', 'mileage', 'price',
-       'dealership', 'alert_dt'],
-      dtype='object') 
-2021-08-28 21:38:39.510655 : 419 rows saved. 
-2021-08-28 21:38:39.510882 : 15 columns saved. 
-2021-08-28 21:38:39.511131 : Retrieving manual transmission data 
-2021-08-28 21:38:39.512935 : 8 rows retrieved. 
-2021-08-28 21:38:39.513182 : 15 columns retrieved. 
-2021-08-28 21:38:39.513669 : Column names are Index(['vin_num', 'year', 'make', 'model', 'trim', 'body_style', 'ext_color',
-       'int_color', 'transmission', 'city_mpg', 'hwy_mpg', 'mileage', 'price',
-       'dealership', 'alert_dt'],
-      dtype='object') 
-2021-08-28 21:38:39.514940 : 8 rows saved. 
-2021-08-28 21:38:39.515128 : 15 columns saved. 
-2021-08-28 21:38:39.515282 : Process finished running! 
- 
-2021-08-28 21:38:46.678952 :  
+2021-08-30 17:35:39.003273 : 408 rows saved. 
+2021-08-30 17:35:39.003500 : 15 columns saved. 
+2021-08-30 17:35:39.003717 : Process finished running! 
  

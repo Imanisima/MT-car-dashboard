@@ -26,7 +26,7 @@ def check_path(file_path):
 
 
 def write_to_log(msg,
-                 log_file_dir="logs/",
+                 log_file_dir="modules/logs/",
                  log_text_file="ancira_car_log.txt"):
     """
     Document operations within a process.
