@@ -7,12 +7,18 @@ Contains main methods for running each job.
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
+
+from timeloop import Timeloop
+from datetime import timedelta
+
 import time
 
 from modules.backend.utility_ops.anc_utility import check_pagination, retrieve_vehicles
 from modules.backend.utility_ops.utility import check_path, write_to_log
 
+# tl = Timeloop()
 
+# @tl.job(interval=timedelta(seconds=10))
 def web_scraping_proc(job_name="Car Web-Scraper",
                       dataset_dir="modules/frontend/",
                       car_csv_file="ancira_car_listing.csv"):
@@ -69,8 +75,6 @@ def web_scraping_proc(job_name="Car Web-Scraper",
     write_to_log(msg=f"{veh_df.shape[0]} rows saved.")
     write_to_log(msg=f"{veh_df.shape[1]} columns saved.")
 
-
-
     write_to_log(msg=f"Process finished running! \n")
 
-    time.sleep(120)
+    time.sleep(10)
