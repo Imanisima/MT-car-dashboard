@@ -14,8 +14,6 @@ import dash_html_components as html
 import numpy as np
 import pandas as pd
 
-print("----------APP.PY----------")
-
 
 def data_preprocess(data_file="modules/frontend/ancira_car_listing.csv"):
     """
@@ -25,16 +23,15 @@ def data_preprocess(data_file="modules/frontend/ancira_car_listing.csv"):
             path to store csv file
 
     RETURNS
-        dataset : dataframe
+        df : dataframe
     """
-    dataset = pd.read_csv(data_file)
 
-    # preprocess data for dashboard use
-    dataset = dataset[dataset.price != "-1"]
-    dataset["make"].str.lower()
-    dataset.sort_values("alert_dt", inplace=True)
+    df = pd.read_csv(data_file)
+    df = df[df.price != "-1"]
+    df["make"].str.lower()
+    df.sort_values("alert_dt", inplace=True)
 
-    return dataset
+    return df
 
 
 # UI
@@ -228,21 +225,21 @@ def create_app():
 
     # create dash class instance
     dash_app = dash.Dash(__name__,
-                    external_stylesheets=[
-                        dbc.themes.BOOTSTRAP,
-                        external_stylesheets
-                        ]
-                    )
+                         external_stylesheets=[
+                             dbc.themes.BOOTSTRAP,
+                            external_stylesheets
+                         ]
+                         )
 
     return dash_app
 
 
 if __name__ == "__main__":
-    app = create_app()
+    d_app = create_app()
 
     while True:
         web_scraping_proc()
-        dataset = data_preprocess()
-        create_app_layout(app, dataset)
+        car_data = data_preprocess()
+        create_app_layout(d_app, car_data)
 
-        app.run_server(debug=True)
+        d_app.run_server(debug=True)
