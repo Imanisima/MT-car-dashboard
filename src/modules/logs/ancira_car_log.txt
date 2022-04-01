@@ -938,3 +938,41 @@
  
 2021-08-30 19:24:24.222052 : Now starting Car Web-Scraper process 
 2021-08-30 19:24:24.223355 : Requesting https://www.ancira.com/used-car-truck-suv-for-sale-san-antonio-tx.html?pn=100 
+2021-08-30 19:35:46.207595 : Now starting Car Web-Scraper process 
+2021-08-30 19:35:46.208385 : Requesting https://www.ancira.com/used-car-truck-suv-for-sale-san-antonio-tx.html?pn=100 
+2021-08-30 19:35:48.620786 : Request message - <Response [200]> 
+2021-08-30 19:35:48.621174 : Getting content using BeautifulSoup 
+2021-08-30 19:35:49.632997 : Checking pagination links 
+2021-08-30 19:35:49.780071 : Retrieving vehicle information 
+2021-08-30 19:36:31.414966 : Now starting Car Web-Scraper process 
+2021-08-30 19:36:31.415666 : Requesting https://www.ancira.com/used-car-truck-suv-for-sale-san-antonio-tx.html?pn=100 
+2021-08-30 19:36:31.699912 : Request message - <Response [200]> 
+2021-08-30 19:36:31.700322 : Getting content using BeautifulSoup 
+2021-08-30 19:36:32.884247 : Checking pagination links 
+2021-08-30 19:36:33.026346 : Retrieving vehicle information 
+2021-08-30 19:36:49.430454 : 409 rows retrieved. 
+2021-08-30 19:36:49.430794 : 15 columns retrieved. 
+2021-08-30 19:36:49.431528 : Column names are Index(['vin_num', 'year', 'make', 'model', 'trim', 'body_style', 'ext_color',
+       'int_color', 'transmission', 'city_mpg', 'hwy_mpg', 'mileage', 'price',
+       'dealership', 'alert_dt'],
+      dtype='object') 
+2021-08-30 19:36:49.439043 : 409 rows saved. 
+2021-08-30 19:36:49.439286 : 15 columns saved. 
+2021-08-30 19:36:49.439455 : Process finished running! 
+ 
+2021-08-30 19:36:51.518459 : Now starting Car Web-Scraper process 
+2021-08-30 19:36:51.518948 : Requesting https://www.ancira.com/used-car-truck-suv-for-sale-san-antonio-tx.html?pn=100 
+2021-08-30 19:36:51.730205 : Request message - <Response [200]> 
+2021-08-30 19:36:51.730556 : Getting content using BeautifulSoup 
+2021-08-30 19:36:52.759018 : Checking pagination links 
+2021-08-30 19:36:52.891117 : Retrieving vehicle information 
+2021-08-30 19:37:03.391467 : 409 rows retrieved. 
+2021-08-30 19:37:03.391841 : 15 columns retrieved. 
+2021-08-30 19:37:03.392807 : Column names are Index(['vin_num', 'year', 'make', 'model', 'trim', 'body_style', 'ext_color',
+       'int_color', 'transmission', 'city_mpg', 'hwy_mpg', 'mileage', 'price',
+       'dealership', 'alert_dt'],
+      dtype='object') 
+2021-08-30 19:37:03.417900 : 409 rows saved. 
+2021-08-30 19:37:03.418644 : 15 columns saved. 
+2021-08-30 19:37:03.418999 : Process finished running! 
+ 

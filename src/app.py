@@ -1,5 +1,8 @@
 """
 Creates the dash application.
+
+Features to add:
+* check that all packages have been installed. If not, automatically run the install.
 """
 
 from modules.backend.process.scraper_proc import web_scraping_proc
@@ -11,8 +14,28 @@ import dash_core_components as dcc
 from dash.dependencies import Input, Output
 import dash_html_components as html
 
+import time
+
 import numpy as np
 import pandas as pd
+
+
+external_stylesheets = [
+        {
+            "href": "https://fonts.googleapis.com/css2?family=Lato&family=Titillium+Web&display=swap",
+            "rel": "stylesheet",
+
+        },
+]
+
+# create dash class instance
+app = dash.Dash(__name__,
+                external_stylesheets=[
+                    dbc.themes.BOOTSTRAP,
+                    external_stylesheets
+                    ]
+                )
+
 
 
 def data_preprocess(data_file="modules/frontend/ancira_car_listing.csv"):
@@ -29,13 +52,14 @@ def data_preprocess(data_file="modules/frontend/ancira_car_listing.csv"):
     df = pd.read_csv(data_file)
     df = df[df.price != "-1"]
     df["make"].str.lower()
+    df["transmission"].str.lower()
     df.sort_values("alert_dt", inplace=True)
 
     return df
 
 
 # UI
-def create_app_layout(app, dataset):
+def dash_app_layout(app, dataset):
     """
     Responsible for the dashboard layout.
     PARAMETERS
@@ -75,6 +99,7 @@ def create_app_layout(app, dataset):
 
             # filter
             html.Div(
+                className="card",
                 children=[
                     # drop down menu option 1
                     html.Div(
@@ -86,7 +111,7 @@ def create_app_layout(app, dataset):
                                     {"label": make, "value": make}
                                     for make in np.sort(dataset.make.unique())
                                 ],
-                                value="Ford",
+                                # value="Select one",
                                 clearable=False,
                                 className="dropdown",
                             ),
@@ -96,14 +121,14 @@ def create_app_layout(app, dataset):
                     # drop down
                     html.Div(
                         children=[
-                            html.Div(children="Transmission", className="menu-title"),
+                            html.Div(children="Transmission Type", className="menu-title"),
                             dcc.Dropdown(
                                 id="trans-filter",
                                 options=[
                                     {"label": transmission, "value": transmission}
                                     for transmission in np.sort(dataset.transmission.unique())
                                 ],
-                                value="manual",
+                                # value="manual",
                                 clearable=False,
                                 searchable=False,
                                 className="dropdown",
@@ -164,7 +189,7 @@ def create_app_layout(app, dataset):
                                                     },
 
                                                     "font": {
-                                                        "color": "#f72585"
+                                                        "color": "#b5179e"
                                                     },
 
                                                     "xaxis": {
@@ -206,40 +231,12 @@ def create_app_layout(app, dataset):
     #     return value
 
 
-def create_app():
-    """
-    Create dash class instance
-
-    PARAMETERS
-        none
-    RETURN
-        dash app obj (dash.Dash)
-    """
-    external_stylesheets = [
-        {
-            "href": "https://fonts.googleapis.com/css2?family=Lato&family=Titillium+Web&display=swap",
-            "rel": "stylesheet",
-
-        },
-    ]
-
-    # create dash class instance
-    dash_app = dash.Dash(__name__,
-                         external_stylesheets=[
-                             dbc.themes.BOOTSTRAP,
-                            external_stylesheets
-                         ]
-                         )
-
-    return dash_app
-
-
 if __name__ == "__main__":
-    d_app = create_app()
+    # while True:
+    web_scraping_proc()
+    
+    car_data = data_preprocess()
+    dash_app_layout(app, car_data)
 
-    while True:
-        web_scraping_proc()
-        car_data = data_preprocess()
-        create_app_layout(d_app, car_data)
-
-        d_app.run_server(debug=True)
+    app.run_server(debug=True)
+        # time.sleep(300)

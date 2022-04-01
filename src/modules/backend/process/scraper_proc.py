@@ -8,7 +8,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 
-from timeloop import Timeloop
+# from timeloop import Timeloop
 from datetime import timedelta
 
 import time
@@ -77,4 +77,4 @@ def web_scraping_proc(job_name="Car Web-Scraper",
 
     write_to_log(msg=f"Process finished running! \n")
 
-    time.sleep(10)
+    # time.sleep(300)

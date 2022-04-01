@@ -7,7 +7,7 @@
     --subtext: #b5179e;
     --grtext: #f72585;
 
-    --background: #03071e;
+    --background: linear-gradient(173deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 
     /* Text Font */
     --titleText: 48px;
@@ -16,6 +16,11 @@
 }
 
 /* END of ROOT */
+
+* {
+    font-family: 'Lato', sans-serif;
+
+}
 
 /* Background
 ---------------*/
@@ -27,6 +32,7 @@
 /* Header
 ---------------*/
 .header-title{
+    font-family: 'Titillium Web', sans-serif;
     font-size: var(--titleText);
     color: var(--title);
     margin: 4px auto;
@@ -37,6 +43,7 @@
 
 .header-description {
     color: var(--subtext);
+    font-family: 'Lato', sans-serif;
     font-size: var(--titleDesc);
     margin: 4px auto;
     text-align: center;
@@ -53,6 +60,7 @@
 --------*/
 .body-text{
     color: var(--subtext);
+    font-family: 'Lato', sans-serif;
 }
 
 
