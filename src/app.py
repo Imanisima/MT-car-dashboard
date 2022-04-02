@@ -1,234 +1,254 @@
 """
 Creates the dash application.
+
+Features to add:
+* add link to car listing
+* adjust for listings containing 'manual' instead of explicitly manual
 """
 
-import dash
+from modules.backend.process.scraper_proc import web_scraping_proc
+from modules.frontend.dashboard_figures import *
+
+import dash, dash_table
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 from dash.dependencies import Input, Output
 import dash_html_components as html
 
-import numpy as np
-import pandas as pd
-import plotly.express as px
-
 import time
 
-# external stylesheets
+import numpy as np
+import pandas as pd
+
+import plotly.express as px
+
+import webbrowser
+
 external_stylesheets = [
-    {
-        "href": "https://fonts.googleapis.com/css2?family=Lato&family=Titillium+Web&display=swap",
-        "rel": "stylesheet",
+        {
+            "href": "https://fonts.googleapis.com/css2?family=Lato&family=Titillium+Web&display=swap",
+            "rel": "stylesheet",
 
-    },
+        },
 ]
-
-# preprocess data for dashboard use
-dataset = pd.read_csv("ancira_dataset/ancira_car_listing.csv")
-dataset = dataset[dataset.price != "-1"]
-dataset["make"].str.lower()
-
-# dataset.query("transmission == 'manual' and dealership == 'Ancira Nissan'")
-dataset.sort_values("alert_dt", inplace=True)
 
 # create dash class instance
 app = dash.Dash(__name__,
                 external_stylesheets=[
                     dbc.themes.BOOTSTRAP,
                     external_stylesheets
-                ])
+                    ]
+                )
 
-# figures
-# Price to Miles
-mil_to_price_fig = px.scatter(dataset,
-                              x=dataset["mileage"],
-                              y=dataset["price"],
-                              color="year",
-                              title="Price of Used Cars"
-                              )
+app.title = "MT Tracker"
 
-mil_to_price_fig.update_layout(
-    title_x=0.5,
-    font_color="#f72585",
-    width=750
-)
 
-mil_to_price_fig.update_xaxes(title="total mileage (in miles)", showline=True, linewidth=2, linecolor='black')
-mil_to_price_fig.update_yaxes(title="price ($)", tickprefix="$", showline=True, linewidth=2, linecolor='black')
+PAGE_SIZE = 15
 
-# make to volume graph
-vol_to_make_fig = px.bar(dataset["make"].value_counts(), title="Volume by Make", orientation='h')
-vol_to_make_fig.update_layout(
-    title_x=0.5,
-    font_color="#f72585",
-    showlegend=False
-)
-vol_to_make_fig.update_traces(marker_color='#6930c3')
-vol_to_make_fig.update_xaxes(title="volume", showline=True, linewidth=2, linecolor='black')
-vol_to_make_fig.update_yaxes(title="make", showline=True, linewidth=2, linecolor='black')
+
+def data_preprocess(car_csv="modules/frontend/ancira_car_listing.csv"):
+    """
+    Preprocesses data in preparation for dashboard
+    PARAMETERS
+        data_file : str
+            path to store csv file
+
+    RETURNS
+        df : dataframe
+    """
+
+    df = pd.read_csv(car_csv)
+
+    df = df[df.price != "not listed"]
+    df["make"].str.lower()
+    # df["transmission"].str.lower()
+    df.sort_values("alert_dt", inplace=True)
+
+    return df
+
 
 # UI
+def dash_app_layout(app, dataset, mdataset):
+    """
+    Responsible for the dashboard layout.
+    PARAMETERS
+        app : dash object
+        dataset : dataframe
 
-app.layout = dbc.Container(
-    fluid=True,
-    className="card background-color",
-    children=[
+    RETURNS
+        Nothing
+    """
 
-        # header
-        html.Div(
-            className="background-color",
-            children=[
-                html.Img(src="/assets/sport-car.png", className="header-emoji", width=80),
-                html.H1(
-                    children="Used Car Analytics",
-                    className="header-title",
-                ),
-                html.P(
-                    children="Analyzing the behavior of used cars from a local dealership.",
-                    className="header-description"
-                ),
+    app.layout = dbc.Container(
+        fluid=True,
+        className="card background-color",
+        children=[
 
-                html.Div(
-                    children=[
-                        dcc.Graph(figure=mil_to_price_fig, id="price-mile-chart"),
+            # header
+            html.Div(
+                className="background-color",
+                children=[
+                    html.Img(src="/assets/sport-car.png", className="header-emoji", width=80),
+                    html.H1(
+                        children="Manual Transmission Car Tracker",
+                        className="header-title",
+                    ),
+                    html.P(
+                        children="This application pulls all the car data from a chain of local San Antonio dealerships and outputs those that are selling manual transmission cars.",
+                        className="header-description"
+                    ),
 
-                    ], className="card card-container"
-                ),
-            ], style={'textAlign': 'center'}
-        ),  # end of header section
+                    # DataTable - Manual Transmission Cars
+                    html.Div(
+                        children=[
+                            dbc.Label('When you find a car you like, go to ancira.com and enter the VIN number into the searchbar.'),
+                            dash_table.DataTable(
 
-        # filter
-        html.Div(
-            children=[
-                # drop down menu option 1
-                html.Div(
-                    children=[
-                        html.Div(children="Make", className="menu-title"),
-                        dcc.Dropdown(
-                            id="make-filter",
-                            options=[
-                                {"label": make, "value": make}
-                                for make in np.sort(dataset.make.unique())
-                            ],
-                            value="Ford",
-                            clearable=False,
-                            className="dropdown",
-                        ),
-                    ]
-                ),
+                                # pagination
+                                id='datatable-paging-page-count',
+                                columns=[
+                                    {"name": i, "id": i} for i in sorted(mdataset.columns)
+                                ],
+                                page_current=0,
+                                page_size=PAGE_SIZE,
+                                page_action='custom',
 
-                # drop down
-                html.Div(
-                    children=[
-                        html.Div(children="Transmission", className="menu-title"),
-                        dcc.Dropdown(
-                            id="trans-filter",
-                            options=[
-                                {"label": transmission, "value": transmission}
-                                for transmission in np.sort(dataset.transmission.unique())
-                            ],
-                            value="manual",
-                            clearable=False,
-                            searchable=False,
-                            className="dropdown",
-                        ),
-                    ]
-                ),
+                                # styling
+                                # - default styling
+                                style_data={
+                                    'color': 'black',
+                                    'backgroundColor': 'white'
+                                },
 
-                # range slider menu
-                html.Div(
-                    children=[
-                        html.Div(children="Year", className="menu-title"),
-                        dcc.RangeSlider(
-                            id="year-filter",
-                            min=dataset["year"].min(),
-                            max=dataset["year"].max(),
-                            step=1,
-                            allowCross=False
-                        ),
-                    ]
-                ),
+                                style_table={'overflowX': 'auto'},
 
-            ]
-        ),
+                                # - alternating rows
+                                style_data_conditional=[
+                                    {
+                                        'if': {'row_index': 'odd'},
+                                        'backgroundColor': '#E7C8DD',
+                                    }
+                                ],
 
-        # Graphs
-        html.Div(
-            children=[
-                # dcc.Input(id="loading-input-1", value=''),
-                #     dcc.Loading(
-                #         id="loading-1",
-                #         type="default",
-                #         children=html.Div(id="loading-output-1")
-                #     ),
-                html.Div(
-                    [
-                        dbc.Row(
-                            [
-                                dbc.Col(html.Div(
-                                    dcc.Graph(
-                                        id="price-mpg-chart",
-                                        className="card card-container",
-                                        config={"displayModeBar": False},
-                                        figure={
-                                            "data": [
-                                                {"x": dataset["hwy_mpg"], "y": dataset["price"], "type": "bar",
-                                                 "name": "hwy", 'marker': {"color": "#6930c3"}
-                                                 },
-                                                {"x": dataset["city_mpg"], "y": dataset["price"], "type": "bar",
-                                                 "name": "city", 'marker': {"color": "#fb8b24"},
-                                                 }
-                                            ],
+                                # - header
+                                style_header={
+                                    'backgroundColor': '#E7C8DD',
+                                    'color': 'black',
+                                    'fontWeight': 'bold'
+                                },
 
-                                            "layout": {
-                                                "title": {
-                                                    "text": "Price by MPG Type",
-                                                    "x": 0.4,
-                                                    "xanchor": "left"
-                                                },
+                                # - cells
+                                style_cell={'textAlign': 'left', 'padding': '5px'},
+                                style_as_list_view=True,
 
-                                                "font": {
-                                                    "color": "#f72585"
-                                                },
+                            ),
 
-                                                "xaxis": {
-                                                    "title": "mileage (miles)",
-                                                    "fixedrange": True
-                                                },
+                            html.Br(),
 
-                                                "yaxis": {
-                                                    "title": "price ($)",
-                                                    "tickprefix": "$",
-                                                    "fixedrange": True
+                        ]
+                    ), # end of dataTable container
+
+                    html.Div(
+                        children=[
+                            dcc.Graph(figure=mil_to_price_fig, id="price-mile-chart"),
+
+                        ], className="card card-container"
+                    ),
+                ], style={'textAlign': 'center'}
+            ),  # end of header section
+
+            # Graphs
+            html.Div(
+                children=[
+                    html.Div(
+                        [
+                            dbc.Row(
+                                [
+                                    dbc.Col(html.Div(
+                                        dcc.Graph(
+                                            id="price-mpg-chart",
+                                            className="card card-container",
+                                            config={"displayModeBar": False},
+                                            figure={
+                                                "data": [
+                                                    {"x": dataset["hwy_mpg"], "y": dataset["price"], "type": "bar",
+                                                     "name": "hwy", 'marker': {"color": "#6930c3"}
+                                                     },
+                                                    {"x": dataset["city_mpg"], "y": dataset["price"], "type": "bar",
+                                                     "name": "city", 'marker': {"color": "#fb8b24"},
+                                                     }
+                                                ],
+
+                                                "layout": {
+                                                    "title": {
+                                                        "text": "Price by MPG Type",
+                                                        "x": 0.4,
+                                                        "xanchor": "left"
+                                                    },
+
+                                                    "font": {
+                                                        "color": "#b5179e"
+                                                    },
+
+                                                    "xaxis": {
+                                                        "title": "mileage (miles)",
+                                                        "fixedrange": True
+                                                    },
+
+                                                    "yaxis": {
+                                                        "title": "price ($)",
+                                                        "tickprefix": "$",
+                                                        "fixedrange": True
+                                                    },
                                                 },
                                             },
-                                        },
-                                    ),
-                                ),),
+                                        ),
+                                    ),),
 
-                                dbc.Col(
-                                    html.Div(
-                                        dcc.Graph(figure=vol_to_make_fig, id="make-vol-chart"),
-                                        className="card card-container"
-                                ),)  # end of Div and Col
+                                    dbc.Col(
+                                        html.Div(
+                                            dcc.Graph(figure=vol_to_make_fig, id="make-vol-chart"),
+                                            className="card card-container"
+                                    ),)  # end of Div and Col
 
-                            ]
-                        ),
-                    ]  # end of row div
+                                ]
+                            ),
+                        ]  # end of row div
 
-                )  # end of div
-            ]
-        ),  # end graphs section
-    ],
-)  # end of container
+                    ),  # end of div - first 3 charts
 
+                ]
+            ),  # end graphs section
 
-# callbacks
-# @app.callback(Output("loading-output-1", "children"), Input("loading-input-1"))
-# def input_triggers_spinner(value):
-#     time.sleep(1)
-#     return value
+            html.Br(),
+            html.Br(),
+            html.Br()
+
+        ],
+    )  # end of container
+
+    # DATATABLE CALLBACKS
+    @app.callback(
+        Output('datatable-paging-page-count', 'data'),
+        Input('datatable-paging-page-count', "page_current"),
+        Input('datatable-paging-page-count', "page_size")
+    )
+
+    def update_table(page_current,page_size):
+        return mdataset.iloc[
+            page_current*page_size:(page_current+ 1)*page_size
+        ].to_dict('records')
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    web_scraping_proc()
+
+    car_data = data_preprocess()
+    mcar_data = data_preprocess(car_csv="modules/frontend/ancira_mcar_listing.csv")
+
+    dash_app_layout(app, car_data, mcar_data)
+
+    url = "http://127.0.0.1:8050"
+    webbrowser.open(url, new = 0, autoraise=True)
+
+    app.run_server(debug=False)

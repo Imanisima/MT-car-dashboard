@@ -1,5 +1,27 @@
 # MT Car Dealership Scraper
-An application that monitors used manual transmission and automatic transmission cars from specific dealerships in near me.
+An application that monitors and pulls used __manual transmission__ and __automatic transmission__ car data from a chain of local dealerships in San Antonio, TX. List refreshes daily.
+
+### The Problem
+Dealerships do not always have a functional filter for stick-shift cars. Even when the transmission filtering option is available, it is quitee common that automatic cars are added to the results. This forces the user to double check that the car they are viewing is indeed a manual **despite** using the filter or entering the kywords `manual transmission cars` into the searchbar.
+
+### Technologies Used
+* Python
+* Flask
+* Bootstrap
+* Plotly Express
+
+### Instructions for Running via Terminal
+
+* Open terminal
+* Activate virtual env: `source venv/bin/activate`
+* start server: `python app.py runserver`
+
+__Note__: When you're done running the code, you're going to want to exit the virtual environment. To deactivate the virtual environment, just type: `deactivate` into the terminal.
+
+### How to Use
+Once you have found a car listing that interests you, go to the ![ancira](ancira.com) website and paste the VIN number into the search bar!
+
+---
 
 ## About the Dataset - Ancira Car Dealership
 `vin_num`: Vehicle Identification Number

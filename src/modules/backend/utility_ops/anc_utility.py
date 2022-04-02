@@ -55,7 +55,7 @@ def ret_car_price(veh):
 	"""
 
     if veh.get('data-price') == "0":
-        return "-1"
+        return "not listed"
     else:
         return veh.get('data-price').strip()
 
@@ -77,7 +77,7 @@ def ret_dealership(veh):
         dealer = deal_display.split(":", 1)[1]
         return dealer.strip()
     else:
-        return "-1"
+        return "not listed"
 
 
 def ret_ext_color(veh):
@@ -97,7 +97,7 @@ def ret_ext_color(veh):
         ext_color = ext_color.split(":", 1)[1]
         return ext_color.strip()
     else:
-        return "-1"
+        return "not listed"
 
 
 def ret_int_color(veh):
@@ -117,7 +117,7 @@ def ret_int_color(veh):
         int_color = int_color.split(":", 1)[1]
         return int_color.strip()
     else:
-        return "-1"
+        return "not listed"
 
 
 def ret_mileage(veh):
@@ -137,7 +137,7 @@ def ret_mileage(veh):
         miles = re.sub('[^0-9]', '', mile_display)
         return miles.strip()
     else:
-        return "-1"
+        return "not listed"
 
 
 def retrieve_vehicles(page_list, domain):
@@ -265,4 +265,4 @@ def ret_vin_num(veh):
         vin_num = vin_display.split(":", 1)[1]
         return vin_num.strip()
     else:
-        return "-1"
+        return "not listed"
