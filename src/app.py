@@ -40,6 +40,9 @@ app = dash.Dash(__name__,
                     ]
                 )
 
+app.title = "MT Tracker"
+
+
 PAGE_SIZE = 15
 
 
@@ -75,6 +78,7 @@ def dash_app_layout(app, dataset, mdataset):
     RETURNS
         Nothing
     """
+
     app.layout = dbc.Container(
         fluid=True,
         className="card background-color",
@@ -86,7 +90,7 @@ def dash_app_layout(app, dataset, mdataset):
                 children=[
                     html.Img(src="/assets/sport-car.png", className="header-emoji", width=80),
                     html.H1(
-                        children="Manual Transmission Car Search",
+                        children="Manual Transmission Car Tracker",
                         className="header-title",
                     ),
                     html.P(
