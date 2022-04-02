@@ -62,7 +62,8 @@ def web_scraping_proc(job_name="Car Web-Scraper",
     veh_df = retrieve_vehicles(page_list, domain)
 
     veh_df["transmission"] = veh_df["transmission"].str.lower()
-    veh_df.loc[veh_df["transmission"] != "manual", "transmission"] = "automatic"
+    veh_df.loc[veh_df['transmission'].str.contains('manual', case=False), 'transmission'] = 'manual'
+    veh_df.loc[veh_df['transmission'] != 'manual', 'transmission'] = 'automatic'
 
     write_to_log(msg=f"{veh_df.shape[0]} rows retrieved.")
     write_to_log(msg=f"{veh_df.shape[1]} columns retrieved.")

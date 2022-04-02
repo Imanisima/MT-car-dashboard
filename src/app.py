@@ -3,6 +3,7 @@ Creates the dash application.
 
 Features to add:
 * add link to car listing
+* adjust for listings containing 'manual' instead of explicitly manual
 """
 
 from modules.backend.process.scraper_proc import web_scraping_proc
@@ -39,7 +40,7 @@ app = dash.Dash(__name__,
                     ]
                 )
 
-PAGE_SIZE = 10
+PAGE_SIZE = 15
 
 
 def data_preprocess(car_csv="modules/frontend/ancira_car_listing.csv"):
@@ -55,7 +56,7 @@ def data_preprocess(car_csv="modules/frontend/ancira_car_listing.csv"):
 
     df = pd.read_csv(car_csv)
 
-    df = df[df.price != "-1"]
+    df = df[df.price != "not listed"]
     df["make"].str.lower()
     # df["transmission"].str.lower()
     df.sort_values("alert_dt", inplace=True)
@@ -85,13 +86,63 @@ def dash_app_layout(app, dataset, mdataset):
                 children=[
                     html.Img(src="/assets/sport-car.png", className="header-emoji", width=80),
                     html.H1(
-                        children="Used Car Analytics",
+                        children="Manual Transmission Car Search",
                         className="header-title",
                     ),
                     html.P(
-                        children="A search for manual transmission cars",
+                        children="This application pulls all the car data from a chain of local San Antonio dealerships and outputs those that are selling manual transmission cars.",
                         className="header-description"
                     ),
+
+                    # DataTable - Manual Transmission Cars
+                    html.Div(
+                        children=[
+                            dbc.Label('When you find a car you like, go to ancira.com and enter the VIN number into the searchbar.'),
+                            dash_table.DataTable(
+
+                                # pagination
+                                id='datatable-paging-page-count',
+                                columns=[
+                                    {"name": i, "id": i} for i in sorted(mdataset.columns)
+                                ],
+                                page_current=0,
+                                page_size=PAGE_SIZE,
+                                page_action='custom',
+
+                                # styling
+                                # - default styling
+                                style_data={
+                                    'color': 'black',
+                                    'backgroundColor': 'white'
+                                },
+
+                                style_table={'overflowX': 'auto'},
+
+                                # - alternating rows
+                                style_data_conditional=[
+                                    {
+                                        'if': {'row_index': 'odd'},
+                                        'backgroundColor': '#E7C8DD',
+                                    }
+                                ],
+
+                                # - header
+                                style_header={
+                                    'backgroundColor': '#E7C8DD',
+                                    'color': 'black',
+                                    'fontWeight': 'bold'
+                                },
+
+                                # - cells
+                                style_cell={'textAlign': 'left', 'padding': '5px'},
+                                style_as_list_view=True,
+
+                            ),
+
+                            html.Br(),
+
+                        ]
+                    ), # end of dataTable container
 
                     html.Div(
                         children=[
@@ -105,12 +156,6 @@ def dash_app_layout(app, dataset, mdataset):
             # Graphs
             html.Div(
                 children=[
-                    # dcc.Input(id="loading-input-1", value=''),
-                    #     dcc.Loading(
-                    #         id="loading-1",
-                    #         type="default",
-                    #         children=html.Div(id="loading-output-1")
-                    #     ),
                     html.Div(
                         [
                             dbc.Row(
@@ -173,67 +218,10 @@ def dash_app_layout(app, dataset, mdataset):
 
             html.Br(),
             html.Br(),
-
-            # DataTable
-            html.Div(
-                children=[
-                    dbc.Label('Manual Transmission Cars'),
-                    dash_table.DataTable(
-
-                        # pagination
-                        id='datatable-paging-page-count',
-                        columns=[
-                            {"name": i, "id": i} for i in sorted(mdataset.columns)
-                        ],
-                        page_current=0,
-                        page_size=PAGE_SIZE,
-                        page_action='custom',
-
-                        # styling
-                        # - default styling
-                        style_data={
-                            'color': 'black',
-                            'backgroundColor': 'white'
-                        },
-
-                        style_table={'overflowX': 'auto'},
-
-                        # - alternating rows
-                        style_data_conditional=[
-                            {
-                                'if': {'row_index': 'odd'},
-                                'backgroundColor': '#E7C8DD',
-                            }
-                        ],
-
-                        # - header
-                        style_header={
-                            'backgroundColor': '#E7C8DD',
-                            'color': 'black',
-                            'fontWeight': 'bold'
-                        },
-
-                        # - cells
-                        style_cell={'textAlign': 'left', 'padding': '5px'},
-                        style_as_list_view=True,
-
-                    ),
-
-                    html.Br(),
-                    html.Br(),
-                    html.Br()
-                ]
-            ) # end of dataTable container
+            html.Br()
 
         ],
     )  # end of container
-
-
-    # callbacks
-    # @app.callback(Output("loading-output-1", "children"), Input("loading-input-1"))
-    # def input_triggers_spinner(value):
-    #     time.sleep(1)
-    #     return value
 
     # DATATABLE CALLBACKS
     @app.callback(
@@ -249,7 +237,6 @@ def dash_app_layout(app, dataset, mdataset):
 
 
 if __name__ == "__main__":
-    # while True:
     web_scraping_proc()
 
     car_data = data_preprocess()
@@ -261,4 +248,3 @@ if __name__ == "__main__":
     webbrowser.open(url, new = 0, autoraise=True)
 
     app.run_server(debug=False)
-        # time.sleep(300)

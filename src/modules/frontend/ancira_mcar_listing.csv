@@ -1,6 +1,12 @@
 vin_num,year,make,model,trim,body_style,ext_color,int_color,transmission,city_mpg,hwy_mpg,mileage,price,dealership,alert_dt
-4T4BE46K78R037949,2008,Toyota,Camry,LE,4dr Car,Silver,-1,manual,21,31,132596,8491,Ancira Buick GMC,2022-04-01
+4T4BE46K78R037949,2008,Toyota,Camry,LE,4dr Car,Silver,not listed,manual,21,31,132596,8491,Ancira Buick GMC,2022-04-01
 1FADP3L92EL340321,2014,Ford,Focus,ST,Hatchback,Performance Blue,Charcoal Black,manual,23,32,157636,12491,Ancira Nissan,2022-04-01
+1FADP3FE0HL295649,2017,Ford,Focus,SE,4D Sedan,White,Charcoal Black,manual,30,40,23111,15991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+JN1AV7AP6EM692021,2014,INFINITI,Q50 Hybrid,Premium,4D Sedan,Moonlight White,Graphite,manual,29,36,81940,19791,Ancira Chevy,2022-04-01
 2B3CJ5DTXAH319626,2010,Dodge,Challenger,R/T,Coupe,Bright White,Dark Slate Gray,manual,15,24,60599,20489,Ancira Nissan,2022-04-01
 1FA6P8TH1G5225245,2016,Ford,Mustang,EcoBoost,Coupe,Oxford White,Ebony,manual,22,31,52425,22955,Ancira Nissan,2022-04-01
 KMHTH6AB3MU032167,2021,Hyundai,Veloster,Turbo R-Spec,3dr Car,Chalk White,Black,manual,26,33,11319,30649,Ancira Volkswagen of San Antonio,2022-04-01
+1C4GJXAG0KW685570,2019,Jeep,Wrangler,Sport,2D Sport Utility,White,Gone,manual,17,25,27753,34991,Ancira Chevy,2022-04-01
+1G1FG1R75G0124408,2016,Chevrolet,Camaro,SS 2SS,2D Coupe,Nightfall Gray Metallic,jet black,manual,16,25,77615,34991,Ancira Chevy,2022-04-01
+1G1YC2D75F5119387,2015,Chevrolet,Corvette,Stingray 2LT,2D Coupe,Torch Red,Jet Black,manual,17,29,33434,52491,Ancira Chevy,2022-04-01
+1FA6P8JZ7J5501771,2018,Ford,Mustang,Shelby GT350,2D Coupe,Shadow Black,Ebony,manual,14,21,8632,59991,Ancira Chevy,2022-04-01
