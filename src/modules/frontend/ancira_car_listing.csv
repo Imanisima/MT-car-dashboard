@@ -1,410 +1,394 @@
 vin_num,year,make,model,trim,body_style,ext_color,int_color,transmission,city_mpg,hwy_mpg,mileage,price,dealership,alert_dt
-ML32A4HJ2EH004492,2014,Mitsubishi,Mirage,ES,Hatchback,Black,Black,automatic,34,42,144525,4991,Ancira Nissan,2021-08-30
-3N1CN7AP1FL886959,2015,Nissan,Versa,S Plus,Sedan,Graphite Blue,Charcoal,automatic,31,40,126098,7291,Ancira Nissan,2021-08-30
-1GKER23D19J189811,2009,GMC,Acadia,SLT1,SUV,Carbon Black Metallic,Ebony,automatic,17,24,149291,7691,Ancira Nissan,2021-08-30
-5NPDH4AE6DH242473,2013,Hyundai,Elantra,GLS,Sedan,Desert Bronze,Beige,automatic,28,38,98722,9291,Ancira Nissan,2021-08-30
-1N6BD06T07C465396,2007,Nissan,Frontier,XE,Extended Cab Pickup,Avalanche,Steel,automatic,19,24,159242,9991,Ancira Nissan,2021-08-30
-1N4AL3AP8DC916119,2013,Nissan,Altima,2.5 S,4dr Car,Java Metallic,Charcoal,automatic,27,38,124357,10475,Ancira Kia,2021-08-30
-2C4RC1BG3DR577177,2013,Chrysler,Town & Country,Touring,4D Passenger Van,Blue,Black/Light Graystone Interior,automatic,17,25,105956,10771,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-3VWDP7AJ5DM405512,2013,Volkswagen,Jetta,2.5L SE,4D Sedan,Silver,Titan Black,automatic,24,31,90999,10991,Ancira Chevy,2021-08-30
-3VWD17AJ1EM370633,2014,Volkswagen,Jetta,SE,Sedan,Platinum Gray Metallic,Black/Carbon,automatic,25,36,45714,10991,Ancira Nissan,2021-08-30
-1C3CCCAB5GN130220,2016,Chrysler,200,Limited,Sedan,Billet Silver Metallic Clearcoat,Black,automatic,23,36,109914,11446,Ancira Nissan,2021-08-30
-1G1PC5SB9F7133348,2015,Chevrolet,Cruze,LT,Sedan,Summit White,Jet Black,automatic,26,38,63662,11991,Ancira Nissan,2021-08-30
-3VW2B7AJ2HM323796,2017,Volkswagen,Jetta,1.4T S,4D Sedan,Black,Titan Black/Palladium Gray,automatic,28,38,31485,12455,Ancira Volkswagen of Laredo,2021-08-30
-5NPE24AF8GH367607,2016,Hyundai,Sonata,2.4L SE,Sedan,Quartz White Pearl,Gray,automatic,25,38,95486,12491,Ancira Nissan,2021-08-30
-5NPD74LF5HH190106,2017,Hyundai,Elantra,SE,Sedan,Phantom Black,Beige,automatic,29,38,80222,12991,Ancira Nissan,2021-08-30
-3N1AB7AP2GY326341,2016,Nissan,Sentra,S,Sedan,Fresh Powder,Charcoal,Manual,27,36,66609,12991,Ancira Nissan,2021-08-30
-3LN6L2J95DR817699,2013,Lincoln,MKZ,Base,4D Sedan,White,Light Dune,automatic,22,31,121028,12991,Ancira Chevy,2021-08-30
-1N4AL3AP3FN366609,2015,Nissan,Altima,2.5 S,Sedan,Java Metallic,Beige,automatic,27,38,74094,13102,Ancira Nissan,2021-08-30
-1G1BE5SM6G7297390,2016,Chevrolet,Cruze,LT,4dr Car,Mosaic Black Metallic,Jet Black,automatic,30,42,70398,13280,Ancira Volkswagen of San Antonio,2021-08-30
-5N1AT2MT1FC925997,2015,Nissan,Rogue,SV,Sport Utility,Gun Metallic,Charcoal,automatic,26,33,98876,13498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-KNDJP3A50G7316205,2016,Kia,Soul,Plus,4D Hatchback,Carribean Blue,Black,automatic,24,31,69344,13691,Ancira Volkswagen of Laredo,2021-08-30
-1N6AD0ERXCC453154,2012,Nissan,Frontier,SV,Crew Cab Pickup,Lava Red,Steel,automatic,15,20,165829,13987,Ancira Nissan,2021-08-30
-1C3CCCAB6GN190183,2016,Chrysler,200,Limited,4dr Car,Billet Silver Metallic Clearcoat,Black,automatic,23,36,88192,13991,Ancira Kia,2021-08-30
-1C4NJCBA5GD524645,2016,Jeep,Compass,Sport,Sport Utility,Bright White Clearcoat,Dark Slate Gray,automatic,22,26,75162,13997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3C4PDCAB2GT247909,2016,Dodge,Journey,SE,Sport Utility,Redline 2 Coat Pearl,Black,automatic,19,26,91344,13997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-5NPE34AF1FH114219,2015,Hyundai,Sonata,2.4L Sport,4dr Car,Nouveau Blue,Gray,automatic,24,35,67729,14356,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-KNDJN2A23J7560749,2018,Kia,Soul,Base,Hatchback,Shadow Black,Black,Manual,24,30,48760,14491,Ancira Kia,2021-08-30
-3C4PDCBB5HT701425,2017,Dodge,Journey,SXT,SUV,Contusion Blue Pearlcoat,Black,automatic,19,25,73632,14491,Ancira Nissan,2021-08-30
-WVGAV7AX2FW587281,2015,Volkswagen,Tiguan,S,SUV,Pepper Gray Metallic,Black,automatic,21,26,83314,14491,Ancira Nissan,2021-08-30
-2HGFG3B5XFH528263,2015,Honda,Civic Coupe,LX,Coupe,Taffeta White,Gray,automatic,30,39,71224,14491,Ancira Nissan,2021-08-30
-1FADP3L92FL334066,2015,Ford,Focus,ST,Hatchback,Oxford White,Charcoal Black,Manual,23,32,109127,14562,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-5TDKK3DC6FS600875,2015,Toyota,Sienna,LE,Minivan,Silver Sky Metallic,Bisque,automatic,18,25,123610,14989,Ancira Nissan,2021-08-30
-3N1AB7AP2GY332771,2016,Nissan,Sentra,S,4D Sedan,Gray,Gone,automatic,27,36,28543,14991,Ancira Chevy,2021-08-30
-3N1AB7AP2KY214471,2019,Nissan,Sentra,SR,4dr Car,Aspen White Tricoat,Charcoal,automatic,29,37,90634,14997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3GNTKGE38BG136157,2011,Chevrolet,Avalanche 1500,LTZ,4D Crew Cab,White Diamond Tricoat,Dark Cashmere/Light Cashmere,automatic,15,21,223824,14997,Ancira Ford Floresville,2021-08-30
-KNAFK4A66G5563711,2016,Kia,Forte,LX,Sedan,Aurora Black Pearl,Black,automatic,26,39,42997,14999,Ancira Nissan,2021-08-30
-3KPFL4A71HE008597,2017,Kia,Forte,LX,Sedan,Aurora Black,Black,automatic,29,38,32387,15491,Ancira Nissan,2021-08-30
-1N4AL3AP4HN345965,2017,Nissan,Altima,2.5 S,Sedan,Glacier White,Charcoal,automatic,27,39,93357,15491,Ancira Nissan,2021-08-30
-JN8AF5MR8HT701103,2017,Nissan,JUKE,S,SUV,Pearl White,Black,automatic,28,32,48819,15798,Ancira Nissan,2021-08-30
-1VWAT7A33GC030192,2016,Volkswagen,Passat,1.8T R-Line,4dr Car,Black,Titan Black,automatic,25,38,76368,15988,Ancira Volkswagen of San Antonio,2021-08-30
-3VWDB7AJ9HM402438,2017,Volkswagen,Jetta,1.4T SE,4dr Car,White,Titan Black,automatic,28,38,76956,15989,Ancira Volkswagen of San Antonio,2021-08-30
-KM8JU3AG4FU118023,2015,Hyundai,Tucson,SE,Sport Utility,Ash Black Mica,Beige Two-tone,automatic,21,28,53713,15997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FADP3H2XJL313924,2018,Ford,Focus,SEL,4dr Car,Oxford White,Charcoal Black,automatic,24,34,47655,15999,Ancira Kia,2021-08-30
-3VW4T7AU3GM002851,2016,Volkswagen,Golf GTI,S,Hatchback,Blue,Titan Black,automatic,25,33,108808,16498,Ancira Volkswagen of San Antonio,2021-08-30
-5XYPG4A52GG027099,2016,Kia,Sorento,LX,4D Sport Utility,Champagne,Stone Beige,automatic,18,26,94797,16591,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-JA4AT4AA5JZ050295,2018,Mitsubishi,Eclipse Cross,LE,Sport Utility,Bronze,-1,automatic,25,26,70739,16597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-KNMAT2MV8HP569856,2017,Nissan,Rogue,S,SUV,Magnetic Black,Charcoal,automatic,25,32,79132,16691,Ancira Nissan,2021-08-30
-1G1ZB5ST0HF184024,2017,Chevrolet,Malibu,LS 1LS,4D Sedan,Nightfall Gray Metallic,Jet Black,automatic,27,36,85361,16991,Ancira Chevy,2021-08-30
-1J4GB39179L734047,2009,Jeep,Wrangler Unlimited,X,SUV,Sunburst Orange Pearl,Dark Slate Gray/Medium Slate Gray,automatic,15,20,116941,16991,Ancira Nissan,2021-08-30
-KMHD04LB2HU354138,2017,Hyundai,Elantra,Sport,4dr Car,Galactic Gray,Black,Manual,22,30,54124,16991,Ancira Buick GMC,2021-08-30
-3GCRCSEA0AG188656,2010,Chevrolet,Silverado 1500,LT,4D Crew Cab,Taupe Gray Metallic,Ebony,automatic,14,19,132928,16991,Ancira Chevy,2021-08-30
-3N1AB7AP1JY215111,2018,Nissan,Sentra,SV,Sedan,Deep Blue Pearl,Charcoal,automatic,29,37,22540,16991,Ancira Nissan,2021-08-30
-5N1AT2MT4GC854876,2016,Nissan,Rogue,SL,SUV,Pearl White,Charcoal,automatic,26,33,91186,16991,Ancira Nissan,2021-08-30
-3VW4T7AJ9HM369597,2017,Volkswagen,Jetta,GLI,4dr Car,White,Black,automatic,24,33,74890,16995,Ancira Volkswagen of Laredo,2021-08-30
-1FMCU0F79JUD20056,2018,Ford,Escape,S,4D Sport Utility,White Gold,Charcoal Black,automatic,21,29,58752,16997,Ancira Ford Floresville,2021-08-30
-1FMCU0GD5HUE27524,2017,Ford,Escape,SE,4D Sport Utility,Gray,Charcoal Black,automatic,23,30,52803,16997,Ancira Ford Floresville,2021-08-30
-3N1AB7AP0HY238504,2017,Nissan,Sentra,SR,4dr Car,Brilliant Silver,Charcoal,automatic,29,37,38384,16999,Ancira Kia,2021-08-30
-1FM5K7DH5GGC73358,2016,Ford,Explorer,XLT,SUV,Black,Ebony Black,automatic,17,24,126974,17692,Ancira Nissan,2021-08-30
-1FTFW1ET3BFD09379,2011,Ford,F-150,FX4,4D SuperCrew,Ingot Silver Metallic,Black,automatic,15,21,133878,17981,Ancira Ford Floresville,2021-08-30
-1C4RJEAG5FC231352,2015,Jeep,Grand Cherokee,Laredo,Sport Utility,Brilliant Black Crystal Pearlcoat,Black,automatic,17,25,85501,17989,Ancira Volkswagen of San Antonio,2021-08-30
-1C4RJECT1EC240154,2014,Jeep,Grand Cherokee,Overland,Sport Utility,Granite Crystal Metallic Clearcoat,Black,automatic,14,22,132486,17997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1HGCR2F3XHA055837,2017,Honda,Accord Sedan,LX,4dr Car,Lunar Silver Metallic,Gray,automatic,27,36,55629,18488,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1N6AD0ER3EN706144,2014,Nissan,Frontier,SV,Crew Cab Pickup,Super Black,Beige,automatic,16,22,101081,18491,Ancira Kia,2021-08-30
-1FMCU0GD5JUA41613,2018,Ford,Escape,SE,Sport Utility,Shadow Black,Charcoal Black,automatic,23,30,40764,18597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-5N1AL0MN6EC538849,2014,INFINITI,QX60,Base,Sport Utility,Liquid Platinum,Graphite,automatic,20,26,72327,18597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-KMHD84LF0KU772832,2019,Hyundai,Elantra,SEL,4dr Car,Galactic Gray,Gray,automatic,28,37,43167,18771,Ancira Volkswagen of San Antonio,2021-08-30
-1N4AA6AP3GC393314,2016,Nissan,Maxima,3.5 Platinum,Sedan,Super Black,Charcoal,automatic,22,30,109091,18951,Ancira Nissan,2021-08-30
-KNDPM3AC9K7567993,2019,Kia,Sportage,LX,Sport Utility,Sparkling Silver,Gray,automatic,23,30,45033,18988,Ancira Volkswagen of San Antonio,2021-08-30
-3N1CP5CU4KL506976,2019,Nissan,Kicks,S,4D Sport Utility,Super Black,Charcoal,automatic,31,36,43447,18991,Ancira Chevy,2021-08-30
-1N4AA6AP6GC443557,2016,Nissan,Maxima,3.5 SV,4D Sedan,Brilliant Silver,Charcoal,automatic,22,30,85551,18991,Ancira Volkswagen of Laredo,2021-08-30
-KL4CJCSB2GB639905,2016,Buick,Encore,Leather,4D Sport Utility,White Pearl Tricoat,saddle,automatic,28,34,51721,18991,Ancira Chevy,2021-08-30
-3KPF24AD3KE019472,2019,Kia,Forte,LXS,4D Sedan,Gravity Gray,Black,automatic,30,40,24831,18991,Ancira Volkswagen of Laredo,2021-08-30
-3G1BE6SM7JS528540,2018,Chevrolet,Cruze,LT,4D Hatchback,Silver,Gone,automatic,29,38,13447,18991,Ancira Chevy,2021-08-30
-1FM5K7BH9HGC09599,2017,Ford,Explorer,Base,4D Sport Utility,Ingot Silver,Med Light Camel,automatic,19,27,109482,18997,Ancira Ford Floresville,2021-08-30
-2G61M5S34H9200252,2017,Cadillac,XTS,Luxury,Sedan,Phantom Gray Metallic,Medium Titanium with Jet Black accents,automatic,18,28,91072,18997,Ancira Nissan,2021-08-30
-1C4PJLDB9HW522496,2017,Jeep,Cherokee,Limited,Sport Utility,Diamond Black Crystal Pearlcoat,Black,automatic,21,30,77834,18998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-2C3CCAAG7HH516650,2017,Chrysler,300,Limited,Sedan,Jazz Blue Pearlcoat,Black,automatic,19,30,52739,19450,Ancira Nissan,2021-08-30
-KNMAT2MT2HP525219,2017,Nissan,Rogue,SV,SUV,Magnetic Black,Charcoal,automatic,26,33,43409,19488,Ancira Nissan,2021-08-30
-NMTKHMBX9JR013457,2018,Toyota,C-HR,XLE,4D Sport Utility,Maroon,Black,automatic,27,31,59664,19491,Ancira Volkswagen of Laredo,2021-08-30
-3MZBN1V3XJM257651,2018,Mazda,Mazda3 4-Door,Touring,Sedan,Soul Red Metallic,Black,automatic,27,36,19790,19491,Ancira Nissan,2021-08-30
-3KPF24AD0LE150344,2020,Kia,Forte,LXS,4dr Car,Clear White,Black,automatic,29,40,4259,19491,Ancira Kia,2021-08-30
-3GNAXJEV3JL115942,2018,Chevrolet,Equinox,LT,Sport Utility,Pepperdust Metallic,Jet Black,automatic,26,32,77296,19980,Ancira Volkswagen of San Antonio,2021-08-30
-1GKS1EEF9CR305727,2012,GMC,Yukon,Denali,4D Sport Utility,White Diamond Tricoat,Light Titanium,automatic,14,18,124454,19991,Ancira Chevy,2021-08-30
-3N1CP5CU3JL528594,2018,Nissan,Kicks,SV,4D Sport Utility,Cayenne Red/Super Black,Charcoal,automatic,31,36,38065,19991,Ancira Chevy,2021-08-30
-2T1BURHE6KC130469,2019,Toyota,Corolla,L,4D Sedan,Gray,Black,automatic,28,36,31038,19991,Ancira Chevy,2021-08-30
-1GKKRRKD0FJ279301,2015,GMC,Acadia,SLT,Sport Utility,White Diamond Pearl,Ebony,automatic,17,24,71377,19994,Ancira Volkswagen of San Antonio,2021-08-30
-3N1CP5CU4JL514428,2018,Nissan,Kicks,SR,Sport Utility,Super Black,Charcoal,automatic,31,36,38687,19997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-5XYPG4A38JG362096,2018,Kia,Sorento,LX,Sport Utility,Sparkling Silver,Satin Black,automatic,21,28,64373,19998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-5FPYK1F73DB016392,2013,Honda,Ridgeline,Sport,Crew Cab Pickup,Crystal Black Pearl,Black,automatic,15,21,85236,19999,Ancira Kia,2021-08-30
-JTMWFREVXHD095494,2017,Toyota,RAV4,XLE,Sport Utility,Magnetic Gray Metallic,Black,automatic,23,30,90975,19999,Ancira Kia,2021-08-30
-3N1AB8BVXLY259291,2020,Nissan,Sentra,S,4D Sedan,Fresh Powder,Charcoal,automatic,29,39,8788,20491,Ancira Volkswagen of Laredo,2021-08-30
-3VWC57BU6KM269110,2019,Volkswagen,Jetta,1.4T SE,4D Sedan,Gray,Titan Black,automatic,30,40,19727,20491,Ancira Volkswagen of Laredo,2021-08-30
-1GNKRFKD0HJ211990,2017,Chevrolet,Traverse,LS,Sport Utility,Tungsten Metallic,Dark Titanium/Light Titanium,automatic,15,22,64986,20597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-JA4AP4AU5KU002132,2019,Mitsubishi,Outlander Sport,SE 2.0,Sport Utility,Labrador Black Metallic,Black,automatic,24,30,29607,20799,Ancira Kia,2021-08-30
-KNMAT2MT5JP614451,2018,Nissan,Rogue,SV,SUV,Gun Metallic,Charcoal,automatic,26,33,31713,20991,Ancira Nissan,2021-08-30
-JTNK4RBE7K3012010,2019,Toyota,Corolla Hatchback,SE,Hatchback,Bronze,White,automatic,32,42,35555,20998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-4T1B11HK5JU593698,2018,Toyota,Camry,L,4dr Car,Silver,Black,automatic,29,41,82473,20998,Ancira Volkswagen of San Antonio,2021-08-30
-5N1AT2MT2KC780964,2019,Nissan,Rogue,SV,Sport Utility,Scarlet Ember Tintcoat,Charcoal,automatic,26,33,53897,20998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3VWH17AU4HM518323,2017,Volkswagen,Golf Alltrack,TSI SE,Station Wagon,White,Titan Black,automatic,22,30,66159,20998,Ancira Volkswagen of San Antonio,2021-08-30
-ZACNJABB6KPJ75595,2019,Jeep,Renegade,Altitude,Sport Utility,Jetset Blue Clearcoat,Black,automatic,22,30,24011,21491,Ancira Kia,2021-08-30
-3C4NJCBB0HT652702,2017,Jeep,New Compass,Latitude,4D Sport Utility,Gray,Black,automatic,22,31,40910,21491,Ancira Chevy,2021-08-30
-19XFC2F69KE023201,2019,Honda,Civic Sedan,LX,4dr Car,White,-1,automatic,30,38,18234,21498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3C4NJDBB9JT179054,2018,Jeep,Compass,Latitude,Sport Utility,White Clearcoat,Black,automatic,22,30,29335,21748,Ancira Volkswagen of San Antonio,2021-08-30
-1FTEW1C86GKE05094,2016,Ford,F-150,XL,4D SuperCrew,Black,Dark Earth Gray,automatic,18,25,121915,21791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-KL4CJASB5MB341008,2021,Buick,Encore,Preferred,SUV,Quicksilver Metallic,Ebony,automatic,25,30,5812,21989,Ancira Nissan,2021-08-30
-ZFBERFABXJ6L01746,2018,RAM,ProMaster City,Tradesman,4D Wagon,White,Black,automatic,21,28,17206,21991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-JTMZFREV7JJ738601,2018,Toyota,RAV4,LE,4D Sport Utility,White,Ash,automatic,23,30,77359,21991,Ancira Chevy,2021-08-30
-2C4RC1BG0HR587462,2017,Chrysler,Pacifica,Touring L,4D Passenger Van,Gray,Toffee/Cognac/Alloy,automatic,19,28,73609,21991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-2GKALPEK8H6309978,2017,GMC,Terrain,SLT,4D Sport Utility,Summit White,Jet Black,automatic,21,31,51983,21991,Ancira Chevy,2021-08-30
-2C4RDGCG4JR268229,2018,Dodge,Grand Caravan,SXT,4D Passenger Van,Granite Crystal Metallic Clearcoat,Black/Light Graystone,automatic,17,25,66501,21997,Ancira Ford Floresville,2021-08-30
-5J6RM3H90GL016735,2016,Honda,CR-V,Touring,Sport Utility,White Diamond Pearl,Beige,automatic,26,33,87115,21998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FMCU0F6XLUA31942,2020,Ford,Escape,S,Sport Utility,Silver,-1,automatic,27,33,30477,21998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-JM3KFACM2J0469384,2018,Mazda,Mazda CX-5,Touring,Sport Utility,Machine Gray Metallic,Black,automatic,25,31,64211,22235,Ancira Volkswagen of San Antonio,2021-08-30
-2T3ZFREV4JW485724,2018,Toyota,RAV4,LE,SUV,Magnetic Gray Metallic,Black,automatic,23,30,26800,22367,Ancira Nissan,2021-08-30
-JTDS4RCE2LJ030589,2020,Toyota,Corolla,SE,4D Sedan,Black,Black,automatic,31,40,13324,22491,Ancira Volkswagen of Laredo,2021-08-30
-JTDEPMAE5MJ163374,2021,Toyota,Corolla,LE,4D Sedan,Barcelona Red Metallic,Light Gray,automatic,30,38,4296,22491,Ancira Volkswagen of Laredo,2021-08-30
-1HGCR2F15HA166794,2017,Honda,Accord,Sport Special Edition,4D Sedan,Black,Black,automatic,26,34,34465,22491,Ancira Volkswagen of Laredo,2021-08-30
-KNMAT2MT3KP503334,2019,Nissan,Rogue,SV,4D Sport Utility,Glacier White,Charcoal,automatic,26,33,36884,22491,Ancira Chevy,2021-08-30
-3VWCB7BU6KM212091,2019,Volkswagen,Jetta,R-Line,4dr Car,Red,Gray,automatic,30,40,29101,22495,Ancira Volkswagen of San Antonio,2021-08-30
-5GAKRAKD2HJ278457,2017,Buick,Enclave,Convenience Group,4D Sport Utility,Crimson Red Tintcoat,Light Titanium,automatic,15,22,72335,22551,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-ZACNJAAB6LPL45781,2020,Jeep,Renegade,Sport,4D Sport Utility,Silver,Black,automatic,22,30,7439,22791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-1C6RR6GT9HS520186,2017,RAM,1500,SLT,4D Extended Cab,Bright White Clearcoat,black,automatic,15,22,89967,22991,Ancira Volkswagen of Laredo,2021-08-30
-2C3CCARG5JH315775,2018,Chrysler,300,Touring,4D Sedan,Ocean Blue Metallic Clearcoat,Black,automatic,18,27,48291,22991,Ancira Chevy,2021-08-30
-1GNKRGKD1HJ305687,2017,Chevrolet,Traverse,LT 1LT,4D Sport Utility,Tungsten Metallic,Ebony,automatic,15,22,69701,22991,Ancira Chevy,2021-08-30
-1C4PJLCB5KD348284,2019,Jeep,Cherokee,Latitude,4D Sport Utility,Billet Silver Metallic Clearcoat,Black,automatic,22,31,35594,22991,Ancira Chevy,2021-08-30
-1J4BA5H13BL515585,2011,Jeep,Wrangler Unlimited,Sahara,Convertible,Bright Silver Metallic,Black/Dark Saddle Interior,automatic,15,19,116381,22998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1GKKNKLAXHZ168962,2017,GMC,Acadia,SLE,Sport Utility,Summit White,Jet Black,automatic,21,26,65554,22999,Ancira Volkswagen of San Antonio,2021-08-30
-7FARW1H59HE029090,2017,Honda,CR-V,EX,Sport Utility,Silver,Gray,automatic,28,34,56164,22999,Ancira Volkswagen of San Antonio,2021-08-30
-SHHFK7H64KU206186,2019,Honda,Civic Hatchback,EX,Hatchback,Platinum White Pearl,Black/Ivory,automatic,31,40,37653,22999,Ancira Kia,2021-08-30
-WBA8A9C56JAH13122,2018,BMW,3 Series,320i,4dr Car,Black Sapphire Metallic,Black,automatic,24,35,32800,23295,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-KNDPN3AC1J7398368,2018,Kia,Sportage,EX,4D Sport Utility,Snow White Pearl,Black,automatic,22,29,37047,23491,Ancira Volkswagen of Laredo,2021-08-30
-5N1AT2MV2LC712215,2020,Nissan,Rogue,S,SUV,Gun Metallic,Charcoal,automatic,25,32,27727,23542,Ancira Nissan,2021-08-30
-5FNRL5H61GB066444,2016,Honda,Odyssey,EX-L,"Mini-van, Passenger",Lunar Silver Metallic,Gray,automatic,19,28,61019,23597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-2FMPK4J90HBB14146,2017,Ford,Edge,SEL,Sport Utility,Black,Black,automatic,20,27,27423,23597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-5TDDKRFH4ES067069,2014,Toyota,Highlander,Limited Platinum V6,Sport Utility,Creme Brulee Mica,Almond,automatic,18,24,79562,23648,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-5XYPG4A58KG554637,2019,Kia,Sorento,LX V6,Sport Utility,Sparkling Silver,Satin Black,automatic,19,26,32068,23659,Ancira Volkswagen of San Antonio,2021-08-30
-2T3RFREV6JW776970,2018,Toyota,RAV4,Adventure,Sport Utility,Black,Black,automatic,22,28,55689,23899,Ancira Volkswagen of San Antonio,2021-08-30
-JN8AT2MT5JW467851,2018,Nissan,Rogue,SL,Sport Utility,Pearl White,Platinum,automatic,26,33,24011,23987,Ancira Volkswagen of San Antonio,2021-08-30
-WBXYJ3C39JEJ75605,2018,BMW,X2,sDrive28i,Sports Activity Vehicle,White,Black,automatic,23,32,65104,23988,Ancira Volkswagen of San Antonio,2021-08-30
-2C3CDZAG9HH650538,2017,Dodge,Challenger,SXT Plus,2D Coupe,Granite Crystal Metallic Clearcoat,Black,automatic,19,30,60332,23991,Ancira Volkswagen of Laredo,2021-08-30
-1FM5K7D85GGC22006,2016,Ford,Explorer,XLT,4D Sport Utility,White,Ebony Black,automatic,17,24,51884,23991,Ancira Volkswagen of Laredo,2021-08-30
-5UXWZ7C3XH0V92368,2017,BMW,X3,sDrive28i,Sports Activity Vehicle,Alpine White,Beige/Black,automatic,21,28,80723,23991,Ancira Chevy,2021-08-30
-1N6AD0ER2GN774664,2016,Nissan,Frontier,SV,Crew Cab Pickup,Brilliant Silver,Steel,automatic,16,22,23399,23991,Ancira Nissan,2021-08-30
-1C4BJWDG4GL279994,2016,Jeep,Wrangler Unlimited,Sport,Convertible,Bright White Clearcoat,Black,Manual,16,21,142239,23998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-2GNAXHEV5L6230168,2020,Chevrolet,Equinox,LS,Sport Utility,Nightfall Gray Metallic,Medium Ash Gray,automatic,26,31,18990,23999,Ancira Kia,2021-08-30
-KNMAT2MT6KP522766,2019,Nissan,Rogue,SV,SUV,Caspian Blue Metallic,Charcoal,automatic,26,33,9185,24188,Ancira Nissan,2021-08-30
-SHHFK7H65KU410950,2019,Honda,Civic Hatchback,EX,Hatchback,Platinum White Pearl,Ivory,automatic,31,40,12737,24355,Ancira Nissan,2021-08-30
-4JGDA5JB1FA591157,2015,Mercedes-Benz,M-Class,ML 350,4D Sport Utility,Black,Almond Beige/Black,automatic,18,24,87194,24391,Ancira Chevy,2021-08-30
-5N1DR2MN1JC631165,2018,Nissan,Pathfinder,SV,4D Sport Utility,Brilliant Silver Metallic,Charcoal,automatic,20,27,53169,24491,Ancira Chevy,2021-08-30
-5N1AT2MTXJC846160,2018,Nissan,Rogue,SL,SUV,Pearl White,Almond,automatic,26,33,35324,24491,Ancira Nissan,2021-08-30
-1C4PJLLB6LD580877,2020,Jeep,Cherokee,Latitude Plus,SUV,Velvet Red Pearlcoat,Black,automatic,22,31,30589,24859,Ancira Nissan,2021-08-30
-JM1NDAD76H0124521,2017,Mazda,Mazda MX-5 Miata,Grand Touring,Convertible,Blue Reflex Mica,Black,Manual,26,33,25981,24892,Ancira Buick GMC,2021-08-30
-2C3CDZAG8JH294900,2018,Dodge,Challenger,SXT,2D Coupe,Maximum Steel Metallic Clearcoat,Black,automatic,19,30,38116,24991,Ancira Volkswagen of Laredo,2021-08-30
-JTHBA1D23G5013263,2016,Lexus,IS,200t,4D Sedan,Nebula Gray Pearl,Black,automatic,22,33,73518,24991,Ancira Chevy,2021-08-30
-1FT7W2A69FEA26913,2015,Ford,F-250SD,XL,4D Crew Cab,White,Steel,automatic,0,0,90691,24991,Ancira Chevy,2021-08-30
-1G1ZG5ST2LF063635,2020,Chevrolet,Malibu,RS,4D Sedan,Cajun Red Tintcoat,Jet Black,automatic,29,36,19284,24991,Ancira Chevy,2021-08-30
-WA1W7AFP2GA052101,2016,Audi,Q5,Prestige,SUV,Scuba Blue Metallic,Chestnut Brown,automatic,18,26,74026,24991,Ancira Nissan,2021-08-30
-2T3RFREV6JW849741,2018,Toyota,RAV4,XLE,Sport Utility,Ruby Flare Pearl,Ash,automatic,22,28,52143,24997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-5TDYKRFH8GS136947,2016,Toyota,Highlander,Limited,Sport Utility,White,-1,automatic,19,25,108646,24998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C4RDHAGXGC455517,2016,Dodge,Durango,SXT,Sport Utility,Billet Silver Metallic Clearcoat,Black,automatic,19,27,52969,24998,Ancira Volkswagen of San Antonio,2021-08-30
-1HGCV2F30JA007037,2018,Honda,Accord Sedan,Sport 2.0T,4dr Car,Platinum White Pearl,Black,automatic,22,32,86503,24999,Ancira Kia,2021-08-30
-2C3CDZAG4JH286633,2018,Dodge,Challenger,SXT,Coupe,White Knuckle Clearcoat,Black,automatic,19,30,52823,25449,Ancira Nissan,2021-08-30
-1N6AD0ER3KN721819,2019,Nissan,Frontier,SV,4D Crew Cab,Magnetic Black Pearl,Steel,automatic,16,23,45448,25491,Ancira Volkswagen of Laredo,2021-08-30
-5J6RW1H5XKA025054,2019,Honda,CR-V,EX,4D Sport Utility,Black,Black,automatic,28,34,75925,25491,Ancira Chevy,2021-08-30
-5N1AZ2MJ5KN126350,2019,Nissan,Murano,S,SUV,Deep Blue Pearl,Graphite,automatic,20,28,29335,25505,Ancira Nissan,2021-08-30
-1C6RR6LT8GS278043,2016,RAM,1500,Lone Star,Crew Cab,True Blue Pearlcoat,Diesel Gray/Black,automatic,15,22,99588,25597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C4RJFBG3HC884768,2017,Jeep,Grand Cherokee,Limited,Sport Utility,Diamond Black Crystal Pearlcoat,Lt Frost Beige/Black,automatic,18,25,80169,25998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-2C3CCAAG0KH590922,2019,Chrysler,300,Touring,4dr Car,Ceramic Grey Clearcoat,Black,automatic,19,30,23678,25999,Ancira Kia,2021-08-30
-JN1BJ1CV0LW548880,2020,Nissan,Rogue Sport,SV,SUV,Pearl White Tricoat,Light Gray,automatic,25,32,878,25999,Ancira Nissan,2021-08-30
-1FA6P8TH4K5108929,2019,Ford,Mustang,EcoBoost,2dr Car,Oxford White,Ebony,automatic,21,32,26441,26287,Ancira Volkswagen of San Antonio,2021-08-30
-1GKS1AKC6FR207231,2015,GMC,Yukon,SLE,Sport Utility,Quicksilver Metallic,Jet Black,automatic,16,23,123298,26491,Ancira Buick GMC,2021-08-30
-1G1FB1RS4H0107068,2017,Chevrolet,Camaro,1LT,2dr Car,Garnet Red Tintcoat,Jet Black,automatic,19,28,49320,26538,Ancira Volkswagen of San Antonio,2021-08-30
-7FARW1H59KE036855,2019,Honda,CR-V,EX,SUV,Lunar Silver Metallic,Black,automatic,28,34,19043,26688,Ancira Nissan,2021-08-30
-2C4RC1AG5KR629181,2019,Chrysler,Pacifica,L,"Mini-van, Passenger",Bright White Clearcoat,Black/Alloy,automatic,18,28,28729,26758,Ancira Volkswagen of San Antonio,2021-08-30
-1FTEW1CF2GKF95913,2016,Ford,F-150,XLT,4D SuperCrew,Magnetic,Medium Earth Gray,automatic,15,22,122050,26991,Ancira Chevy,2021-08-30
-JM3TCACY2J0229221,2018,Mazda,Mazda CX-9,Touring,Sport Utility,Snowflake White Pearl Mica,Black,automatic,22,28,25234,26995,Ancira Volkswagen of San Antonio,2021-08-30
-KNDMB5C12K6548756,2019,Kia,Sedona,EX,"Mini-van, Passenger",Panthera Metal,Gray,automatic,18,24,53555,26999,Ancira Kia,2021-08-30
-2C3CDXBGXKH722079,2019,Dodge,Charger,SXT,4D Sedan,White Knuckle Clearcoat,Black,automatic,19,30,43156,27291,Ancira Chevy,2021-08-30
-5N1AT2MT6KC724753,2019,Nissan,Rogue,SL,SUV,Pearl White Tricoat,Almond,automatic,26,33,9872,27491,Ancira Nissan,2021-08-30
-5N1AT2MTXKC824869,2019,Nissan,Rogue,SL,SUV,Caspian Blue Metallic,Charcoal,automatic,26,33,19608,27491,Ancira Nissan,2021-08-30
-5N1AZ2MG1JN161521,2018,Nissan,Murano,SL,SUV,Cayenne Red Metallic,Graphite,automatic,21,28,14517,27499,Ancira Nissan,2021-08-30
-5TFAX5GN2JX119062,2018,Toyota,Tacoma,SR,Crew Cab Pickup,Red,Gray,automatic,20,23,29048,27598,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C6RR6FG8JS340210,2018,RAM,1500,Tradesman,Crew Cab Pickup,Delmonico Red Pearlcoat,Diesel Gray/Black,automatic,17,25,24161,27773,Ancira Buick GMC,2021-08-30
-3VV3B7AX8KM095503,2019,Volkswagen,Tiguan,2.0T SEL,Sport Utility,Red,Titan Black,automatic,22,29,53211,27988,Ancira Volkswagen of San Antonio,2021-08-30
-1C6RR7LT8GS401250,2016,RAM,1500,Lone Star,4D Crew Cab,Maximum Steel Metallic Clearcoat,Diesel Gray/Black,automatic,15,21,133002,27991,Ancira Chevy,2021-08-30
-1FA6P8TH1K5102411,2019,Ford,Mustang,EcoBoost,2D Coupe,Ruby Red,Ebony,automatic,21,31,16835,27991,Ancira Chevy,2021-08-30
-1C6RR6FG4JS341208,2018,RAM,1500,Tradesman,4D Extended Cab,Bright Silver Metallic Clearcoat,Black,automatic,17,25,16258,27991,Ancira Volkswagen of Laredo,2021-08-30
-JTJYARBZ8H2072240,2017,Lexus,NX,200t,Sport Utility,Atomic Silver,Black,automatic,22,28,34755,27997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-JM1GL1WYXL1518964,2020,Mazda,Mazda6,Grand Touring Reserve,4dr Car,Soul Red Crystal Metallic,Black,automatic,23,31,18256,27997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3GCPCREC3FG332807,2015,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,Silver Ice Metallic,Black,automatic,16,23,84414,28491,Ancira Volkswagen of Laredo,2021-08-30
-1C4HJWEG2EL272208,2014,Jeep,Wrangler Unlimited,Sahara,SUV,Anvil Clear Coat,Dark Saddle/Black,Manual,16,21,94103,28576,Ancira Nissan,2021-08-30
-1N6AA1E65HN512627,2017,Nissan,Titan,SV,4D Crew Cab,Magnetic Black,Beige,automatic,15,21,69173,28791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-1V2DP2CA2JC597714,2018,Volkswagen,Atlas,2.0T SE w/Technology,Sport Utility,Silver,Titan Black,automatic,22,26,56384,28988,Ancira Volkswagen of San Antonio,2021-08-30
-1GTG6DE33G1123173,2016,GMC,Canyon,SLT,Pickup Crew Cab,Quicksilver Metallic,Jet Black,automatic,17,24,63042,28991,Ancira Buick GMC,2021-08-30
-WA1D7AFP9GA078072,2016,Audi,Q5,3.0T Premium Plus quattro,4D Sport Utility,Mythos Black Metallic,Black/Cognac,automatic,18,26,44258,28991,Ancira Chevy,2021-08-30
-1FTEW1EF3FKD77264,2015,Ford,F-150,XLT,Crew Cab Pickup,Race Red,Gray,automatic,15,21,106986,28991,Ancira Nissan,2021-08-30
-1C4BJWEG9GL317881,2016,Jeep,Wrangler Unlimited,Sahara,Convertible,Mojave Sand Clearcoat,Black,automatic,16,20,119120,28998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3C6RR6LTXHG773871,2017,RAM,1500,Lone Star,Crew Cab,Granite Crystal Metallic Clearcoat,Diesel Gray/Black,automatic,15,22,81530,29298,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-JF2GTHRC9MH276252,2021,Subaru,Crosstrek,Sport,Sport Utility,Cool Gray Khaki,Gray w/Yellow Stitching,automatic,27,34,14679,29488,Ancira Volkswagen of San Antonio,2021-08-30
-1GKKNMLA0HZ262232,2017,GMC,Acadia,SLT,Sport Utility,Summit White,Jet Black,automatic,21,26,53691,29489,Ancira Volkswagen of San Antonio,2021-08-30
-JN8AY2ND2H9003031,2017,Nissan,Armada,SL,SUV,Gun Metallic,Charcoal,automatic,14,19,96477,29491,Ancira Nissan,2021-08-30
-1FA6P8CF5H5256689,2017,Ford,Mustang,GT,2dr Car,Blue,-1,automatic,15,24,55611,29498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1N4BL4FVXLN311006,2020,Nissan,Altima,2.5 Platinum,Sedan,Storm Blue Metallic,Light Gray,automatic,27,37,2993,29499,Ancira Nissan,2021-08-30
-2C3CDZAG5LH246595,2020,Dodge,Challenger,SXT,2D Coupe,Red,Black,automatic,19,30,4951,29791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-1C6RR7NM4FS708001,2015,RAM,1500,Laramie,Crew Cab Pickup,Brilliant Black Crystal Pearlcoat,Lt Frost Beige/Brown,automatic,19,27,106530,29810,Ancira Volkswagen of San Antonio,2021-08-30
-1GKKNMLS5JZ144367,2018,GMC,Acadia,SLT-1,4D Sport Utility,Ebony Twilight Metallic,Jet Black,automatic,18,25,47985,29891,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-1V2DR2CA0JC548215,2018,Volkswagen,Atlas,3.6L V6 SE w/Technology,Sport Utility,Black,Titan Black,automatic,18,25,56584,29898,Ancira Volkswagen of San Antonio,2021-08-30
-1V2MR2CA0JC521032,2018,Volkswagen,Atlas,3.6L V6 SEL,Sport Utility,Reflex Silver Metallic,Titan Black,automatic,17,23,58303,29991,Ancira Kia,2021-08-30
-1FM5K7D81KGA51103,2019,Ford,Explorer,XLT,4D Sport Utility,Ruby Red Metallic Tinted Clearcoat,Ebony Black,automatic,17,24,44333,29991,Ancira Chevy,2021-08-30
-1N6BA0EC6FN509916,2015,Nissan,Titan,PRO-4X,Crew Cab Pickup,Magnetic Black,Charcoal II,automatic,12,17,52484,29991,Ancira Buick GMC,2021-08-30
-3GCPCREC7HG407107,2017,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,Summit White,Black,automatic,16,23,77745,29991,Ancira Chevy,2021-08-30
-3GCPCREC3HG303665,2017,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,Black,Black,automatic,16,23,125402,29991,Ancira Chevy,2021-08-30
-1G1FB1RS8L0127042,2020,Chevrolet,Camaro,1LT,2dr Car,Riverside Blue Metallic,Jet Black,automatic,22,31,28066,29997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-2C3CDZAG0LH214895,2020,Dodge,Challenger,SXT,2dr Car,Torred Clearcoat,Black,automatic,19,30,10669,29997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FM5K8HT9GGB33348,2016,Ford,Explorer,Platinum,4D Sport Utility,White Platinum,Ebony Black,automatic,16,22,48114,29997,Ancira Ford Floresville,2021-08-30
-1V2ER2CAXJC529207,2018,Volkswagen,Atlas,3.6L V6 SEL,Sport Utility,Pure White,Titan Black,automatic,18,25,90547,29998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3VV5B7AX4JM165263,2018,Volkswagen,Tiguan,SEL Premium,Sport Utility,White,Gray,automatic,22,27,26285,29999,Ancira Volkswagen of San Antonio,2021-08-30
-5UXKR2C34H0X05670,2017,BMW,X5,sDrive35i,Sports Activity Vehicle,Alpine White,Black,automatic,18,25,78404,29999,Ancira Kia,2021-08-30
-JN8AY2NDXH9010678,2017,Nissan,Armada,SV,4D Sport Utility,Gun Metallic,Charcoal,automatic,14,19,60868,30491,Ancira Volkswagen of Laredo,2021-08-30
-1V2CR2CA7JC579599,2018,Volkswagen,Atlas,3.6L V6 SE,4D Sport Utility,White,Titan Black,automatic,18,25,26305,30491,Ancira Volkswagen of Laredo,2021-08-30
-5N1AZ2MS1KN108372,2019,Nissan,Murano,Platinum,Sport Utility,Magnetic Black Pearl,Graphite,automatic,20,28,39197,30594,Ancira Volkswagen of San Antonio,2021-08-30
-5TDYZRFH3JS242399,2018,Toyota,Highlander,Limited Platinum,Sport Utility,Brown,-1,automatic,21,27,89071,30597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1V2DR2CA6JC556321,2018,Volkswagen,Atlas,3.6L V6 SE w/Technology,Sport Utility,Black,Shetland Beige,automatic,18,25,42923,30820,Ancira Volkswagen of San Antonio,2021-08-30
-WDDPK4HA4FF106508,2015,Mercedes-Benz,SLK,SLK 250,Convertible,White,Black,automatic,22,32,22532,30998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C6RR7NT0FS643266,2015,RAM,1500,Laramie,Crew Cab,Maximum Steel Metallic Clearcoat,Black,automatic,15,21,94170,30998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-2T3C1RFV0KC024803,2019,Toyota,RAV4,XLE Premium,Sport Utility,Silver Sky Metallic,Light Gray,automatic,26,35,26621,30999,Ancira Kia,2021-08-30
-5TDZARFH5KS054903,2019,Toyota,Highlander,LE,SUV,Celestial Silver Metallic,Ash,automatic,20,24,12636,31285,Ancira Nissan,2021-08-30
-3VW6T7BU4MM041063,2021,Volkswagen,Jetta GLI,Autobahn,Sedan,Pyrite Silver Metallic,Titan Black,automatic,24,35,310,31491,Ancira Nissan,2021-08-30
-JTMC1RFV6KD022114,2019,Toyota,RAV4,XLE Premium,4D Sport Utility,Gray,Light Gray,automatic,26,35,26261,31491,Ancira Chevy,2021-08-30
-1C4AJWBG7GL296187,2016,Jeep,Wrangler,Sahara,Convertible,Granite Crystal Metallic Clearcoat,Black,Manual,17,21,46205,31497,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1GYAZAR42KF129518,2019,Cadillac,XT4,FWD Luxury,Sport Utility,Stellar Black Metallic,Light Platinum/Jet Black,automatic,24,30,30112,31498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FTER4EH5KLA02507,2019,Ford,Ranger,XLT,4D Crew Cab,Shadow Black,Ebony,automatic,21,26,40825,31591,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-1C4RJEAG6KC548342,2019,Jeep,Grand Cherokee,Altitude,Sport Utility,Diamond Black Crystal Pearlcoat,Black,automatic,19,26,32146,31958,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-55SWF8DB2KU317686,2019,Mercedes-Benz,C-Class,C 300,4dr Car,Black,Black,automatic,23,34,47717,31990,Ancira Volkswagen of San Antonio,2021-08-30
-JN8AY2ND8H9004166,2017,Nissan,Armada,SL,SUV,Super Black,Charcoal,automatic,14,19,76357,31991,Ancira Nissan,2021-08-30
-1C6RR7LT4GS298618,2016,RAM,1500,Lone Star,Crew Cab Pickup,Brilliant Black Crystal Pearlcoat,Diesel Gray/Black,automatic,15,21,71588,31991,Ancira Buick GMC,2021-08-30
-1FTEW1EG7GKD54158,2016,Ford,F-150,XLT,4D SuperCrew,Gray,Medium Earth Gray,automatic,16,22,94066,31991,Ancira Chevy,2021-08-30
-3C6UR5HJ0JG314219,2018,RAM,2500,Tradesman,Crew Cab,Bright White Clearcoat,Diesel Gray/Black,automatic,0,0,100368,31998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-2C3CDZJG6MH533350,2021,Dodge,Challenger,GT,Coupe,Frostbite,Black,automatic,19,30,3145,32191,Ancira Nissan,2021-08-30
-1C4RJEBM3JC512790,2018,Jeep,Grand Cherokee,Limited,Sport Utility,Billet Silver Metallic Clearcoat,Black,automatic,22,30,27433,32398,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-5UXKU0C58F0F91970,2015,BMW,X6,sDrive35i,Sports Activity Vehicle,White Metallic,Cognac/Black,automatic,19,27,85584,32495,Ancira Volkswagen of San Antonio,2021-08-30
-1FM5K7F83JGC23580,2018,Ford,Explorer,Limited,Sport Utility,Maroon,-1,automatic,19,27,36587,32498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1GYAZAR48KF174351,2019,Cadillac,XT4,FWD Luxury,Sport Utility,Shadow Metallic,Light Platinum/Jet Black,automatic,24,30,24597,32987,Ancira Volkswagen of San Antonio,2021-08-30
-1FT7W2BT9BEA35805,2011,Ford,F-250SD,King Ranch,4D Crew Cab,White Platinum Metallic Tri-Coat,Adobe,automatic,0,0,145700,32991,Ancira Ford Floresville,2021-08-30
-3GCPCREC0GG362543,2016,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,Silver Ice Metallic,Black,automatic,16,23,60768,32991,Ancira Chevy,2021-08-30
-1GKS1FKC0GR304794,2016,GMC,Yukon XL,SLE,4D Sport Utility,Summit White,Jet Black,automatic,16,23,70554,32991,Ancira Chevy,2021-08-30
-1C4RDHDG5JC397965,2018,Dodge,Durango,GT,Sport Utility,Octane Red Pearlcoat,Black,automatic,19,26,37941,32994,Ancira Volkswagen of San Antonio,2021-08-30
-2C4RC1GG1JR186856,2018,Chrysler,Pacifica,Limited,"Mini-van, Passenger",Bright White Clearcoat,Deep Mocha/Black/Dp Mocha,automatic,19,28,42315,32997,Ancira Volkswagen of San Antonio,2021-08-30
-5GAEVBKW9JJ138735,2018,Buick,Enclave,Premium,Sport Utility,White Frost Tricoat,Brandy,automatic,17,25,72576,32998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-2C3CDZJG0LH195149,2020,Dodge,Challenger,GT,2dr Car,Smoke Show,Black,automatic,19,30,16215,32999,Ancira Kia,2021-08-30
-1GNERHKW7KJ319024,2019,Chevrolet,Traverse,LT Leather Leather,4D Sport Utility,Graphite Metallic,Dark Atmosphere/Medium Ash Gray,automatic,18,27,46207,33491,Ancira Volkswagen of Laredo,2021-08-30
-2C4RC1EG3KR668233,2019,Chrysler,Pacifica,Touring L Plus,"Mini-van, Passenger",Granite Crystal Metallic Clearcoat,Black/Black/Black,automatic,19,28,55738,33498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-WDDZF4KB5HA063473,2017,Mercedes-Benz,E-Class,E 300,4dr Car,White,-1,automatic,22,29,39331,33597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1N6AA1E61KN500126,2019,Nissan,Titan,SV,Crew Cab Pickup,Gun Metallic,Black,automatic,15,21,73666,33598,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-2C3CDZJG9LH109952,2020,Dodge,Challenger,GT,2dr Car,Triple Nickel Clearcoat,Black,automatic,19,30,9120,33631,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-JF1VA1H61L9831045,2020,Subaru,WRX,Limited,4D Sedan,Lapis Blue Pearl,black,automatic,21,27,5478,33891,Ancira Chevy,2021-08-30
-1C4RJFAG3JC376419,2018,Jeep,Grand Cherokee,Altitude,4D Sport Utility,Rhino Clearcoat,Black,automatic,18,25,31155,33991,Ancira Chevy,2021-08-30
-1GCPCREC3JF214122,2018,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,Silver Ice Metallic,Black,automatic,16,23,85096,33991,Ancira Chevy,2021-08-30
-1GKS1BKC6GR306154,2016,GMC,Yukon,SLT,4D Sport Utility,Summit White,Jet Black,automatic,16,23,97732,33991,Ancira Volkswagen of Laredo,2021-08-30
-JN8AY2ND1K9086099,2019,Nissan,Armada,SV,4D Sport Utility,Gun Metallic,Charcoal,automatic,14,19,37138,33997,Ancira Ford Floresville,2021-08-30
-1FTEW1CP7HKD07619,2017,Ford,F-150,XLT,Crew Cab Pickup,Oxford White,Black,automatic,19,26,22416,33997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FTEW1CP5KKD45017,2019,Ford,F-150,XL,4D SuperCrew,Oxford White,Medium Earth Gray,automatic,20,26,40299,34491,Ancira Volkswagen of Laredo,2021-08-30
-3GCUCRER3HG505431,2017,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,Summit White,Dark Ash/Jet Black,automatic,18,24,57930,34491,Ancira Chevy,2021-08-30
-4JGDA5HB7HA888281,2017,Mercedes-Benz,GLE,GLE 350,Sport Utility,Black,Black Pearl/Black,automatic,18,23,54109,34577,Ancira Volkswagen of San Antonio,2021-08-30
-1C4BJWDG9HL577507,2017,Jeep,Wrangler Unlimited,Sport,SUV,Black Clearcoat,Black,automatic,16,20,56777,34589,Ancira Nissan,2021-08-30
-1GKKNML44MZ170741,2021,GMC,Acadia,SLT,Sport Utility,Ebony Twilight Metallic,Jet Black,automatic,22,29,9337,34597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C4RJEBG6LC113076,2020,Jeep,Grand Cherokee,Limited,Sport Utility,Granite Crystal Metallic Clearcoat,Black,automatic,19,26,38001,34798,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C6RR7TT3KS551131,2019,RAM,1500 Classic,Big Horn,4D Crew Cab,Bright White Clearcoat,Black,automatic,15,21,33755,34991,Ancira Chevy,2021-08-30
-1GCGTEEN0J1219723,2018,Chevrolet,Colorado,4WD ZR2,Crew Cab Pickup,Cajun Red Tintcoat,Jet Black,automatic,16,18,47451,34991,Ancira Nissan,2021-08-30
-1FTEW1EG3FKE47693,2015,Ford,F-150,Lariat,4D SuperCrew,Blue,Medium Light Camel,automatic,17,23,74272,34991,Ancira Chevy,2021-08-30
-JTEBU5JRXG5397474,2016,Toyota,4Runner,SR5,4D Sport Utility,Midnight Black Metallic,Black,automatic,17,21,32274,34991,Ancira Chevy,2021-08-30
-5FPYK2F61KB004901,2019,Honda,Ridgeline,RTL-T,4D Crew Cab,Obsidian Blue Pearl,Gray,automatic,19,26,52438,34991,Ancira Chevy,2021-08-30
-5LMCJ1C91LUL17821,2020,Lincoln,Corsair,Standard,Sport Utility,Black,-1,automatic,22,29,27045,34991,Ancira Buick GMC,2021-08-30
-1GNSCBKC1FR710796,2015,Chevrolet,Tahoe,LT,4D Sport Utility,Black,Black,automatic,16,23,87020,34991,Ancira Chevy,2021-08-30
-WA1VAAF73HD013448,2017,Audi,Q7,Prestige,Sport Utility,Gray,Black,automatic,19,25,77306,34994,Ancira Volkswagen of San Antonio,2021-08-30
-1C6RR7YT6HS750076,2017,RAM,1500,Rebel,Crew Cab,Bright White Clearcoat,Black,automatic,15,21,83402,34997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3GTU2WEC8FG403956,2015,GMC,Sierra 1500,Denali,Pickup Crew Cab,Sonoma Red Metallic,Cocoa/Dune,automatic,16,22,78726,35335,Ancira Nissan,2021-08-30
-3GCPCREC5HG431647,2017,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,White,Black,automatic,16,23,36200,35591,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-5FNYF6H98KB018886,2019,Honda,Pilot,Touring 8-Passenger,Sport Utility,Red,Beige,automatic,19,26,66213,35749,Ancira Volkswagen of San Antonio,2021-08-30
-1C6RR6GT5KS697406,2019,RAM,1500 Classic,Warlock,Crew Cab Pickup,Bright White Clearcoat,Diesel Gray/Black,automatic,15,22,15916,35789,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3GTU2NEC9HG127221,2017,GMC,Sierra 1500,SLT,Pickup Crew Cab,Crimson Red Tintcoat,Jet Black,automatic,16,22,97671,35997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FTEW1EF8HFA85881,2017,Ford,F-150,Platinum,4D SuperCrew,Ruby Red,Brunello,automatic,15,21,107031,35997,Ancira Ford Floresville,2021-08-30
-3TMAZ5CN6LM124337,2020,Toyota,Tacoma 2WD,SR5,Crew Cab Pickup,White,Gray,automatic,19,24,20249,35997,Ancira Volkswagen of San Antonio,2021-08-30
-5TDKZRFH5KS357769,2019,Toyota,Highlander,SE,Sport Utility,Predawn Gray Mica,Black,automatic,21,27,27847,35999,Ancira Kia,2021-08-30
-3GCPCREC4JG585014,2018,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,Silver Ice Metallic,Jet Black,automatic,16,23,55327,36391,Ancira Chevy,2021-08-30
-1GNSCAKC3JR108713,2018,Chevrolet,Tahoe,LS,Sport Utility,Summit White,Jet Black,automatic,16,23,80170,36491,Ancira Buick GMC,2021-08-30
-1C6RREFG7LN390110,2020,RAM,1500,Lone Star,Crew Cab,Bright White Clearcoat,Diesel Gray/Black,automatic,20,25,40500,36498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C6RR6LT4KS705016,2019,RAM,1500 Classic,Warlock,Crew Cab,Delmonico Red Pearlcoat,Diesel Gray/Black,automatic,15,22,33877,36498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3GCUKSEC7GG227413,2016,Chevrolet,Silverado 1500,LTZ,Pickup Crew Cab,Black,Jet Black,automatic,15,21,84983,36991,Ancira Buick GMC,2021-08-30
-1GNSCHKCXJR131835,2018,Chevrolet,Suburban,LT,4D Sport Utility,Summit White,Black,automatic,16,23,102707,36997,Ancira Ford Floresville,2021-08-30
-1FTEW1C51KKC20062,2019,Ford,F-150,XLT,Crew Cab Pickup,Blue,-1,automatic,17,23,21458,36998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C4HJXDG6JW179465,2018,Jeep,Wrangler Unlimited,Sport,Convertible,Bright White Clearcoat,Black,automatic,18,23,33258,36998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3GCPWBEH8LG455198,2020,Chevrolet,Silverado 1500,Custom,Pickup Crew Cab,Summit White,Jet Black,automatic,16,21,10082,36998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1N6AA1EF5LN507078,2020,Nissan,Titan,SV,Crew Cab Pickup,Deep Blue Pearl Metallic,Black,automatic,16,22,18703,37491,Ancira Nissan,2021-08-30
-1C4BJWDG4GL252245,2016,Jeep,Wrangler Unlimited,Sport,Convertible,Mojave Sand Clearcoat,Black,automatic,16,20,47434,37597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C6SRFMT9KN554110,2019,RAM,1500,Big Horn/Lone Star,Crew Cab,Bright White Clearcoat,Black,automatic,15,21,47203,37988,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FTEW1CP0KKD03581,2019,Ford,F-150,XLT,4D SuperCrew,Ingot Silver,Medium Earth Gray,automatic,20,26,40832,37991,Ancira Chevy,2021-08-30
-1GCGTEENXJ1125994,2018,Chevrolet,Colorado,ZR2,4D Crew Cab,Black,Black,automatic,16,18,56617,37991,Ancira Chevy,2021-08-30
-JTEZU5JR3J5184324,2018,Toyota,4Runner,Limited,4D Sport Utility,Magnetic Gray Metallic,Black Graphite,automatic,17,21,44509,37997,Ancira Ford Floresville,2021-08-30
-3GCUKREC4JG215008,2018,Chevrolet,Silverado 1500,LT LT2,4D Crew Cab,Black,Black,automatic,16,22,58603,37997,Ancira Ford Floresville,2021-08-30
-5TFRM5F15KX137227,2019,Toyota,Tundra 2WD,SR5,Crew Cab Pickup,Cavalry Blue,Graphite,automatic,15,19,27953,37998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C4BJWFG9FL739484,2015,Jeep,Wrangler Unlimited,Rubicon,Convertible,Black Clearcoat,Dark Saddle/Black,Manual,16,21,40822,37998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FA6P8CF5L5154477,2020,Ford,Mustang,GT,2dr Car,Shadow Black,Ebony,automatic,16,25,14561,37998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C6RR7YT4JS199345,2018,RAM,1500,Rebel,Crew Cab,Delmonico Red Pearlcoat,Black,automatic,15,21,75744,38498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3GTU2NEC7HG173940,2017,GMC,Sierra 1500,SLT,Pickup Crew Cab,Summit White,Jet Black,automatic,16,22,70677,38498,Ancira Buick GMC,2021-08-30
-1GCPWCED9KZ115589,2019,Chevrolet,Silverado 1500,LT,Pickup Crew Cab,Iridescent Pearl Tricoat,Jet Black,automatic,17,23,29389,38597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-5TFEY5F17KX249952,2019,Toyota,Tundra 2WD,SR5,Crew Cab Pickup,-1,-1,automatic,13,18,61859,38774,Ancira Buick GMC,2021-08-30
-3TMCZ5AN7JM122220,2018,Toyota,Tacoma,TRD Sport V6,4D Double Cab,Magnetic Gray Metallic,Black/Orange,automatic,18,22,37133,38791,Ancira Chevy,2021-08-30
-3TMCZ5AN9LM331736,2020,Toyota,Tacoma 4WD,TRD Offroad,Crew Cab Pickup,Gray,-1,automatic,18,22,23198,38898,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FTEW1C59JKD05391,2018,Ford,F-150,XLT,4D SuperCrew,Lightning Blue,Black,automatic,17,23,19785,38991,Ancira Volkswagen of Laredo,2021-08-30
-2T2ZZMCAXKC149934,2019,Lexus,RX,350,4D Sport Utility,Silver Lining Metallic,Black,automatic,20,28,21879,38997,Ancira Ford Floresville,2021-08-30
-JTEBU5JRXJ5532721,2018,Toyota,4Runner,TRD Off-Road Premium,Sport Utility,Black,Black,automatic,17,20,66126,38999,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1GCUYDEDXLZ233011,2020,Chevrolet,Silverado 1500,LT,4D Crew Cab,Silver Ice Metallic,Jet Black,automatic,16,22,28163,39991,Ancira Chevy,2021-08-30
-3GCPWCED9LG430037,2020,Chevrolet,Silverado 1500,LT,Pickup Crew Cab,Shadow Gray Metallic,Gideon/Very Dark Atmosphere,automatic,17,24,8251,39991,Ancira Nissan,2021-08-30
-1FTEW1EP9LKE71038,2020,Ford,F-150,XLT,4D SuperCrew,Oxford White,Medium Earth Gray,automatic,18,23,4206,39991,Ancira Chevy,2021-08-30
-3GCPWCED8KG187450,2019,Chevrolet,Silverado 1500,LT Texas Edition,4D Crew Cab,Silver Ice Metallic,Black,automatic,17,23,45972,39991,Ancira Chevy,2021-08-30
-3GCPYCEF2KG256421,2019,Chevrolet,Silverado 1500,Custom Trail Boss,4D Crew Cab,Summit White,Black,automatic,15,20,64925,39991,Ancira Chevy,2021-08-30
-1GKS1CKJ7HR383461,2017,GMC,Yukon,Denali,4D Sport Utility,Onyx Black,Cocoa/Shale,automatic,15,22,94731,39991,Ancira Chevy,2021-08-30
-3GCPWBEH0LG112031,2020,Chevrolet,Silverado 1500,Custom,4D Crew Cab,Summit White,Black,automatic,16,21,16849,39991,Ancira Volkswagen of Laredo,2021-08-30
-1FTEW1E4XKFB03416,2019,Ford,F-150,XLT,Crew Cab Pickup,Red,-1,automatic,17,23,45720,39991,Ancira Buick GMC,2021-08-30
-2C3CDXGJ0HH618987,2017,Dodge,Charger,R/T Scat Pack,4D Sedan,Destroyer Gray Clearcoat,Black,automatic,15,25,53794,39991,Ancira Chevy,2021-08-30
-JN8AY2ND4K9085285,2019,Nissan,Armada,SL,SUV,Pearl White Tricoat,Charcoal,automatic,14,19,30727,39991,Ancira Nissan,2021-08-30
-1FA6P8CF4L5186465,2020,Ford,Mustang,GT,Coupe,Kona Blue,Ebony,automatic,16,25,5736,39991,Ancira Nissan,2021-08-30
-3GCPWBEH4MG145535,2021,Chevrolet,Silverado 1500,Custom,4D Crew Cab,Gray,Black,automatic,16,21,11644,39991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-1GCPWCED5KZ112933,2019,Chevrolet,Silverado 1500,LT Texas Edition,4D Crew Cab,Havana Brown Metallic,Black,automatic,17,23,37077,40491,Ancira Chevy,2021-08-30
-1GC1KXC88EF150015,2014,Chevrolet,Silverado 2500HD,LT,Pickup Crew Cab,Silver Ice Metallic,Ebony,automatic,0,0,53687,40899,Ancira Nissan,2021-08-30
-5TFHW5F12GX541759,2016,Toyota,Tundra,Limited CrewMax,4D CrewMax,Black,Black,automatic,13,17,60234,40991,Ancira Chevy,2021-08-30
-1FMJU1HT5JEA30298,2018,Ford,Expedition,XLT,SUV,White Gold,Medium Stone,automatic,17,24,61655,40991,Ancira Nissan,2021-08-30
-3GTP1NEC9JG193130,2018,GMC,Sierra 1500,SLT,Pickup Crew Cab,Summit White,Cocoa/Dune,automatic,16,23,19464,40997,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-JTJBM7FX4J5188694,2018,Lexus,GX,460,Sport Utility,Silver,-1,automatic,15,18,33508,41491,Ancira Buick GMC,2021-08-30
-3GCUKSEC9HG216334,2017,Chevrolet,Silverado 1500,LTZ,Pickup Crew Cab,Iridescent Pearl Tricoat,Cocoa/Dune,automatic,15,20,60986,41521,Ancira Nissan,2021-08-30
-1FTEW1E42LFA38014,2020,Ford,F-150,XL,Crew Cab Pickup,Black,Black,automatic,16,22,23473,41646,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3GTU2PEC0HG280744,2017,GMC,Sierra 1500,Denali,4D Crew Cab,White Frost Tricoat,Cocoa/Dune,automatic,15,21,83250,41691,Ancira Chevy,2021-08-30
-1GCGTEEN7L1105687,2020,Chevrolet,Colorado,ZR2,Crew Cab Pickup,Silver Ice Metallic,Jet Black,automatic,16,18,25590,41773,Ancira Buick GMC,2021-08-30
-1C4RDHDGXMC715762,2021,Dodge,Durango,GT,4D Sport Utility,Red,Black,automatic,19,26,2861,41791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-1C6RREFT9MN768071,2021,RAM,1500,Lone Star,Crew Cab,Granite Crystal Metallic Clearcoat,Black,automatic,15,22,741,41988,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1GCPWCED2LZ165221,2020,Chevrolet,Silverado 1500,LT,4D Crew Cab,Satin Steel Metallic,Gideon/Very Dark Atmosphere,automatic,17,23,30486,41991,Ancira Chevy,2021-08-30
-1GNSCCKC3HR159182,2017,Chevrolet,Tahoe,Premier,4D Sport Utility,Iridescent Pearl Tricoat,Cocoa/Dune,automatic,16,23,87449,41991,Ancira Chevy,2021-08-30
-5TFEM5F11KX142942,2019,Toyota,Tundra,SR5 4.6L V8,4D CrewMax,White,Graphite,automatic,15,19,27358,41991,Ancira Chevy,2021-08-30
-1C6SRFFT1KN624017,2019,RAM,1500,Big Horn/Lone Star,4D Crew Cab,Gray,Diesel Gray/Black,automatic,19,24,39673,42791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-JN8AY2ND9LX015908,2020,Nissan,Armada,SL,4D Sport Utility,Gun Metallic,Black,automatic,14,19,18555,42991,Ancira Chevy,2021-08-30
-1C6SRFFT8LN105323,2020,RAM,1500,Big Horn/Lone Star,4D Crew Cab,Flame Red Clearcoat,Black,automatic,19,24,62659,42991,Ancira Chevy,2021-08-30
-3GTP8CED4LG132943,2020,GMC,Sierra 1500,Elevation,Pickup Crew Cab,Dark Sky Metallic,Jet Black,automatic,17,23,25509,42999,Ancira Kia,2021-08-30
-3GCPWCED9LG385648,2020,Chevrolet,Silverado 1500,LT Texas Edition,4D Crew Cab,Black,Black,automatic,17,23,20608,43491,Ancira Chevy,2021-08-30
-1C4HJXEG7JW175374,2018,Jeep,Wrangler Unlimited,Sahara,Convertible,Black Clearcoat,Black,automatic,18,23,28250,43498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FTEW1E54KKE60073,2019,Ford,F-150,XLT,Crew Cab Pickup,Silver Spruce Metallic,Gray,automatic,16,22,17843,43500,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-2C3CDZFJ1KH694674,2019,Dodge,Challenger,R/T Scat Pack,2dr Car,Pitch Black Clearcoat,Black,automatic,15,24,6141,43798,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FTEW1EG0HFA25036,2017,Ford,F-150,King Ranch,4D SuperCrew,White Platinum,Java,automatic,16,22,34836,43971,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-1C6SRFFT1LN420626,2020,RAM,1500,Big Horn,Crew Cab,Bright White Clearcoat,Black,automatic,15,21,22549,43988,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3C6UR5DL1GG347584,2016,RAM,2500,Lone Star,Crew Cab Pickup,Granite Crystal Metallic Clearcoat,Diesel Gray/Black,automatic,0,0,92687,43988,Ancira Volkswagen of San Antonio,2021-08-30
-1C6JJTBG1LL138928,2020,Jeep,Gladiator,Rubicon,4D Crew Cab,Bright White Clearcoat,Black,automatic,17,22,35280,43991,Ancira Chevy,2021-08-30
-5TFDW5F16HX658924,2017,Toyota,Tundra,TRD Pro,4D CrewMax,Silver,Black,automatic,13,17,74855,43991,Ancira Volkswagen of Laredo,2021-08-30
-3C6UR5CJ2KG641021,2019,RAM,2500,Tradesman,Crew Cab,Bright White Clearcoat,Black,automatic,0,0,29298,44298,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C6SRFJT7KN504231,2019,RAM,1500,Laramie,Crew Cab,Billet Silver Metallic Clearcoat,Black,automatic,15,21,40488,44448,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1GC1KWEG0FF195434,2015,Chevrolet,Silverado 2500HD,LTZ,4D Crew Cab,Black,jet black,automatic,0,0,83469,44491,Ancira Chevy,2021-08-30
-2T2BZMCA5KC178551,2019,Lexus,RX,RX 350 F SPORT,SUV,Atomic Silver,Rioja Red,automatic,19,26,27464,44691,Ancira Nissan,2021-08-30
-2C3CDZFJ2LH218077,2020,Dodge,Challenger,R/T Scat Pack,2dr Car,Torred Clearcoat,Black,automatic,15,24,19909,44998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-3GTU2NEJ3JG518398,2018,GMC,Sierra 1500,SLT,Pickup Crew Cab,Summit White,Jet Black,automatic,15,20,24847,45597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1GNSKHKC9JR113491,2018,Chevrolet,Suburban,LT,4D Sport Utility,Silver Ice Metallic,Jet Black/Dark Ash,automatic,15,22,80845,45991,Ancira Chevy,2021-08-30
-1GC1KWEG4JF143703,2018,Chevrolet,Silverado 2500HD,LTZ,4D Crew Cab,Black,Jet Black,automatic,0,0,109642,45991,Ancira Chevy,2021-08-30
-3GCUWDED8KG246764,2019,Chevrolet,Silverado 1500,RST,Pickup Crew Cab,Oakwood Metallic,Jet Black,automatic,17,23,24523,45991,Ancira Buick GMC,2021-08-30
-1FTEW1EG3HFB21260,2017,Ford,F-150,King Ranch,Crew Cab Pickup,White Platinum Metallic Tri-Coat,Medium Light Camel,automatic,15,21,38663,45991,Ancira Buick GMC,2021-08-30
-1FT7W2BT6HEB28368,2017,Ford,F-250SD,Lariat,4D Crew Cab,White Platinum Metallic Tri-Coat,Black,automatic,0,0,145329,46497,Ancira Ford Floresville,2021-08-30
-1G1FH1R72L0149273,2020,Chevrolet,Camaro,SS 2SS,2D Coupe,White,Tan,automatic,16,27,12446,46971,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-1GC1KTEY2KF114208,2019,Chevrolet,Silverado 2500HD,LTZ,4D Crew Cab,Summit White,Black,automatic,0,0,151709,46997,Ancira Ford Floresville,2021-08-30
-5TFCZ5AN7KX193929,2019,Toyota,Tacoma 4WD,TRD Pro,Crew Cab Pickup,Super White,Black,automatic,18,22,22694,47440,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FMJU1HT9KEA39877,2019,Ford,Expedition,XLT,SUV,Stone Gray,Medium Stone,automatic,17,24,16208,47990,Ancira Nissan,2021-08-30
-3GCUKTEJ4JG366717,2018,Chevrolet,Silverado 1500,High Country,4D Crew Cab,Deep Ocean Blue Metallic,Saddle,automatic,15,20,18403,48991,Ancira Chevy,2021-08-30
-1C6SRFFT3MN670421,2021,RAM,1500,Big Horn,Crew Cab,Maximum Steel Metallic Clearcoat,Black,automatic,15,21,4795,48998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-4JGDF6EE2JB136817,2018,Mercedes-Benz,GLS,GLS 450,Sport Utility,Black,Black,automatic,17,22,43391,48999,Ancira Kia,2021-08-30
-3GCUYEED3LG219246,2020,Chevrolet,Silverado 1500,RST,4D Crew Cab,Black,Jet Black,automatic,16,22,18169,49491,Ancira Chevy,2021-08-30
-1C6RREJTXLN353962,2020,RAM,1500,Laramie,4D Crew Cab,Ivory White Tri-Coat Pearlcoat,Black,automatic,20,25,9141,49991,Ancira Chevy,2021-08-30
-3GTP8DED6LG142010,2020,GMC,Sierra 1500,SLT,4D Crew Cab,Satin Steel Metallic,Jet Black,automatic,17,24,28598,49991,Ancira Chevy,2021-08-30
-1FT7W2BT3JEB59339,2018,Ford,F-250SD,XL,4D Crew Cab,Oxford White,Medium Earth Gray,automatic,0,0,75497,49991,Ancira Chevy,2021-08-30
-JN8AZ2NF1K9685695,2019,INFINITI,QX80,LUXE,Sport Utility,Black Obsidian,Graphite,automatic,14,20,31000,50999,Ancira Kia,2021-08-30
-3C6TR5EJ2JG314464,2018,RAM,2500,Power Wagon,Crew Cab,Flame Red Clearcoat,Diesel Gray/Black,automatic,0,0,36347,52988,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1C6SRFHT2KN759620,2019,RAM,1500,Limited,Crew Cab,Granite Crystal Metallic Clearcoat,Black,automatic,15,21,35272,52988,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1N6AA1ED8MN505261,2021,Nissan,Titan,PRO-4X,Crew Cab Pickup,Super Black,Black,automatic,15,20,6209,52991,Ancira Nissan,2021-08-30
-3GTU9DET5LG282315,2020,GMC,Sierra 1500,SLT,Pickup Crew Cab,Quicksilver Metallic,Jet Black,automatic,22,26,28839,53498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FMJU1HT4LEA13673,2020,Ford,Expedition,XLT,4D Sport Utility,Bronze,Ebony,automatic,17,23,9753,54591,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-1GTU9FEL7KZ423802,2019,GMC,Sierra 1500,Denali,Pickup Crew Cab,Satin Steel Metallic,Jet Black,automatic,15,20,34257,54991,Ancira Buick GMC,2021-08-30
-1GC4KXEY4KF196706,2019,Chevrolet,Silverado 3500HD,LTZ,4D Crew Cab,Havana Brown Metallic,Cocoa/Dune,automatic,0,0,96388,54997,Ancira Ford Floresville,2021-08-30
-1FMJU1LT3JEA40917,2018,Ford,Expedition,Platinum,SUV,White Platinum,Medium Soft Ceramic,automatic,17,24,33487,55991,Ancira Nissan,2021-08-30
-1FTEW1E59KFA61412,2019,Ford,F-150,King Ranch,4D SuperCrew,Black,Camelback,automatic,16,22,20906,56591,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2021-08-30
-3GCPYFED1MG252752,2021,Chevrolet,Silverado 1500,LT Trail Boss,4D Crew Cab,Silver Ice Metallic,Jet Black,automatic,16,21,450,56991,Ancira Chevy,2021-08-30
-1FT7W2BT8GEB14096,2016,Ford,F-250SD,King Ranch,4D Crew Cab,Brown,Adobe,automatic,0,0,52001,56991,Ancira Chevy,2021-08-30
-1C6SRFHT6LN112025,2020,RAM,1500,Limited,Crew Cab Pickup,Billet Silver Metallic Clearcoat,Indigo/Frost,automatic,15,21,17109,57982,Ancira Buick GMC,2021-08-30
-1FT8W3BT6KEC97050,2019,Ford,Super Duty F-350 SRW,Limited,Crew Cab Pickup,-1,-1,automatic,0,0,110069,57991,Ancira Buick GMC,2021-08-30
-1FT7W2BT8HEB75885,2017,Ford,Super Duty F-250 SRW,Platinum,Crew Cab Pickup,Shadow Black,Black,automatic,0,0,118301,58221,Ancira Nissan,2021-08-30
-1FT8W3BT1KEG41254,2019,Ford,F-350SD,XL,4D Crew Cab,Ingot Silver,Medium Earth Gray,automatic,0,0,41617,58981,Ancira Ford Floresville,2021-08-30
-1FT8W3BT4HEF36149,2017,Ford,F-350SD,Lariat,4D Crew Cab,White Platinum,Black,automatic,0,0,89201,58991,Ancira Ford Floresville,2021-08-30
-1G1YB2D75K5111187,2019,Chevrolet,Corvette,Stingray 1LT,2D Coupe,Elkhart Lake Blue Metallic,Jet Black,automatic,15,25,19051,59991,Ancira Chevy,2021-08-30
-1GTU9FEL2KZ216959,2019,GMC,Sierra 1500,Denali,Pickup Crew Cab,Pacific Blue Metallic,Jet Black,automatic,15,20,10675,59991,Ancira Buick GMC,2021-08-30
-1FT8W3DT6JEB18890,2018,Ford,F-350SD,Lariat DRW,4D Crew Cab,Oxford White,Camel,automatic,0,0,62407,64997,Ancira Ford Floresville,2021-08-30
-1FT7W2BT2LED20542,2020,Ford,Super Duty F-250 SRW,Lariat,Crew Cab Pickup,Silver,-1,automatic,0,0,33900,66991,Ancira Buick GMC,2021-08-30
-1FT8W3BT9HEF11246,2017,Ford,F-350SD,King Ranch,4D Crew Cab,White Gold,Java,automatic,0,0,76053,67997,Ancira Ford Floresville,2021-08-30
-1FT8W3BT7KED81717,2019,Ford,Super Duty F-350 SRW,Lariat,Crew Cab Pickup,White,-1,automatic,0,0,25220,68991,Ancira Buick GMC,2021-08-30
-3C63RRJL8JG339366,2018,RAM,3500,Laramie,Crew Cab,Pearl White,Black,automatic,0,0,19502,69597,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FT8W4DTXHEB14700,2017,Ford,F-450SD,King Ranch DRW,4D Crew Cab,Blue Jeans Metallic,Java,automatic,0,0,67431,69997,Ancira Ford Floresville,2021-08-30
-3C6UR5NL8LG147293,2020,RAM,2500,Laramie,Mega Cab,Bright White Clearcoat,Black,automatic,0,0,25180,69998,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1FT8W3BT3KEF80635,2019,Ford,F-350SD,Lariat,4D Crew Cab,Ingot Silver,Black / Dark Marsala,automatic,0,0,20258,71997,Ancira Ford Floresville,2021-08-30
-1FT8W3BT5LEC19604,2020,Ford,F-350SD,King Ranch,4D Crew Cab,White,Java,automatic,0,0,69836,73997,Ancira Ford Floresville,2021-08-30
-1FT8W2BT3MEC87802,2021,Ford,Super Duty F-250 SRW,LARIAT,Crew Cab Pickup,White,Black,automatic,0,0,11085,77498,Ancira Chrysler Jeep Dodge Ram,2021-08-30
-1GT19REY4MF178669,2021,GMC,Sierra 2500HD,Denali,4D Crew Cab,Black,Jet Black,automatic,0,0,8889,80491,Ancira Chevy,2021-08-30
-1FT8W4DT2KED52189,2019,Ford,F-450SD,Platinum DRW,4D Crew Cab,Black,Black / Dark Marsala,automatic,0,0,42887,83977,Ancira Ford Floresville,2021-08-30
-3VW2B7AJ8HM348427,2017,Volkswagen,Jetta,1.4T S,4D Sedan,Gray,Titan Black,automatic,28,38,25501,-1,Ancira Volkswagen of Laredo,2021-08-30
-5TDZZRAH3LS512794,2020,Toyota,Highlander,L,4D Sport Utility,Blizzard Pearl,Gray,automatic,21,29,25587,-1,Ancira Volkswagen of Laredo,2021-08-30
-3N1AB7AP9FY336380,2015,Nissan,Sentra,SR,4dr Car,Aspen White,Charcoal,automatic,29,39,43710,-1,Ancira Volkswagen of Laredo,2021-08-30
-1GCGSCE32G1248350,2016,Chevrolet,Colorado,2WD LT,Crew Cab Pickup,Black,Jet Black,automatic,18,26,117627,-1,Ancira Volkswagen of Laredo,2021-08-30
-5N1AR2MN6DC689800,2013,Nissan,Pathfinder,S,4D Sport Utility,Super Black Metallic,charcoal,automatic,20,26,73825,-1,Ancira Volkswagen of Laredo,2021-08-30
+KMHDU46D39U697849,2009,Hyundai,Elantra,GLS,Sedan,Captiva White,Beige,automatic,25,33,151935,5991,Ancira Nissan,2022-04-01
+KNAFU4A24D5682229,2013,Kia,Forte,EX,Sedan,Snow White Pearl,Stone,automatic,26,36,170920,6291,Ancira Nissan,2022-04-01
+1G1JA5SH0G4125397,2016,Chevrolet,Sonic,LS,4D Sedan,Blue Velvet Metallic,Jet Black/Dark Titanium,automatic,24,35,187286,6991,Ancira Chevy,2022-04-01
+4T4BF3EK3BR120620,2011,Toyota,Camry,LE,Sedan,Blue Ribbon Metallic,Bisque,automatic,22,32,230409,6991,Ancira Nissan,2022-04-01
+2G4GN5EC4B9176473,2011,Buick,Regal,CXL,4dr Car,Cyber Gray Metallic,Ebony,automatic,19,30,125949,7991,Ancira Buick GMC,2022-04-01
+4T4BE46K78R037949,2008,Toyota,Camry,LE,4dr Car,Silver,-1,Manual,21,31,132596,8491,Ancira Buick GMC,2022-04-01
+4T1BK36B49U331095,2009,Toyota,Avalon,Limited,Sedan,Black,Graphite,automatic,19,28,166872,8991,Ancira Nissan,2022-04-01
+JM3ER2A54C0421037,2012,Mazda,CX-7,i SV,SUV,Brilliant Black,Black,automatic,20,27,126144,8991,Ancira Nissan,2022-04-01
+WBAWL73519P180270,2009,BMW,3 Series,335i,Convertible,Blue Water Metallic,Black,automatic,17,26,164825,9387,Ancira Nissan,2022-04-01
+1G1JA5SH4F4217188,2015,Chevrolet,Sonic,LS,Sedan,Blue Velvet Metallic,Jet Black/Dark Titanium,automatic,25,35,107766,9991,Ancira Nissan,2022-04-01
+SAJWA51A17WJ22841,2007,Jaguar,X-TYPE,3.0,4D Sedan,Liquid Silver Metallic,Stone,automatic,18,24,91903,9991,Ancira Chevy,2022-04-01
+1G4HJ5EM0BU143224,2011,Buick,Lucerne,CXL Premium,4D Sedan,Sand Beige Metallic,Cocoa/Cashmere,automatic,17,27,146967,9991,Ancira Chevy,2022-04-01
+1FTRX14W07FB80885,2007,Ford,F-150,XL,Extended Cab Pickup,Redfire Clearcoat Metallic,Medium Flint,automatic,15,19,142844,9991,Ancira Nissan,2022-04-01
+1GCCS13E098100523,2009,Chevrolet,Colorado,LT,4D Crew Cab,Victory Red,Ebony,automatic,17,23,150715,9991,Ancira Chevy,2022-04-01
+1YVHZ8BH8A5M24812,2010,Mazda,Mazda6,i Sport,4dr Car,Black Cherry Metallic,Black,automatic,21,30,76463,10495,Ancira Volkswagen of San Antonio,2022-04-01
+2GNFLPE52C6293806,2012,Chevrolet,Equinox,LT w/2LT,SUV,Graystone Metallic,Jet Black,automatic,17,24,118218,10791,Ancira Nissan,2022-04-01
+1ZVBP8AMXD5221051,2013,Ford,Mustang,V6,2D Coupe,Performance White,Charcoal Black,automatic,19,0,158746,10987,Ancira Ford Floresville,2022-04-01
+3FA6P0HR5DR342709,2013,Ford,Fusion,SE,4D Sedan,Tuxedo Black Metallic,Dune,automatic,0,0,106702,10997,Ancira Ford Floresville,2022-04-01
+1GNFK13068R238066,2008,Chevrolet,Tahoe,LTZ,Sport Utility,Black,Ebony,automatic,14,19,203885,11398,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1G1PA5SH8E7368378,2014,Chevrolet,Cruze,LS,Sedan,Blue Ray Metallic,Jet Black/Medium Titanium,automatic,22,35,89257,11491,Ancira Nissan,2022-04-01
+1GKFC23C89R176827,2009,GMC,Yukon,SLE w/3SA,SUV,Onyx Black,Ebony,automatic,14,19,209867,11691,Ancira Nissan,2022-04-01
+5TDZA3EH9BS009686,2011,Toyota,Highlander,Base,SUV,Shoreline Blue Pearl,Ash,automatic,20,25,200485,11691,Ancira Nissan,2022-04-01
+5TFRT54187X008637,2007,Toyota,Tundra,SR5,Crew Cab Pickup,Radiant Red,Sand Beige,automatic,15,18,196551,12491,Ancira Nissan,2022-04-01
+1FADP3L92EL340321,2014,Ford,Focus,ST,Hatchback,Performance Blue,Charcoal Black,Manual,23,32,157636,12491,Ancira Nissan,2022-04-01
+5NPE24AF7HH565323,2017,Hyundai,Sonata,2.4L,Sedan,Shale Gray Metallic,Gray,automatic,25,36,127727,12978,Ancira Nissan,2022-04-01
+1C4NJPBB8GD502400,2016,Jeep,Patriot,Sport,SUV,Billet Silver Metallic Clearcoat,Dark Slate Gray,automatic,21,28,100149,12991,Ancira Nissan,2022-04-01
+1D4PT4GXXBW506650,2011,Dodge,Nitro,Heat,4D Sport Utility,Inferno Red Crystal Pearlcoat,Dark Slate Gray,automatic,16,21,39014,12991,Ancira Chevy,2022-04-01
+4USBT33505LS54400,2005,BMW,Z4,2.5i,2D Convertible,Red,Beige,automatic,20,28,56438,12991,Ancira Chevy,2022-04-01
+1GNKRFKD0GJ199452,2016,Chevrolet,Traverse,LS,SUV,Summit White,Dark Titanium/Light Titanium,automatic,15,22,168581,13193,Ancira Nissan,2022-04-01
+1G1PE5SB9G7127819,2016,Chevrolet,Cruze Limited,1LT,4D Sedan,Summit White,Jet Black,automatic,26,38,89028,13591,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+3C4PDCAB3FT747009,2015,Dodge,Journey,AVP,4D Sport Utility,Gray,Black,automatic,19,26,86603,13791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+2G1FE1ED9B9137596,2011,Chevrolet,Camaro,1LS,2dr Car,Black,Black,automatic,17,28,78331,13988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+KL4CJBSB3FB042058,2015,Buick,Encore,Convenience,Sport Utility,Satin Steel Gray Metallic,Ebony,automatic,25,33,100011,13991,Ancira Buick GMC,2022-04-01
+1FM5K7B81EGB09475,2014,Ford,Explorer,Base,SUV,Ingot Silver Metallic,Medium Light Stone,automatic,17,24,156514,13991,Ancira Nissan,2022-04-01
+3VW2K7AJ9FM403772,2015,Volkswagen,Jetta,2.0L S,4dr Car,Red,Titan Black,automatic,23,34,54652,13991,Ancira Volkswagen of Laredo,2022-04-01
+JTDKN3DU9E0384408,2014,Toyota,Prius,Four,Hatchback,Black,Gray,automatic,51,48,139558,13991,Ancira Nissan,2022-04-01
+1N4AL3AP6FN347701,2015,Nissan,Altima,2.5 S,Sedan,Saharan Stone,Beige,automatic,27,38,105486,14241,Ancira Nissan,2022-04-01
+2C4RDGBG9FR550567,2015,Dodge,Grand Caravan,SE,"Mini-van, Passenger",Brilliant Black Crystal Pearlcoat,Gone,automatic,17,25,94627,14398,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+KNDJN2A20G7846373,2016,Kia,Soul,Base,Hatchback,Shadow Black,Gray 2-Tone,automatic,24,30,76695,14491,Ancira Nissan,2022-04-01
+KNDJP3A57F7113133,2015,Kia,Soul,+,Hatchback,Solar Yellow,Black,automatic,23,31,55000,14491,Ancira Volkswagen of Laredo,2022-04-01
+1GCSCSE02AZ189154,2010,Chevrolet,Silverado 1500,LT Texas Edition,4D Extended Cab,Taupe Gray Metallic,Dark Titanium,automatic,15,21,158902,14491,Ancira Chevy,2022-04-01
+5NPD74LF5HH148213,2017,Hyundai,Elantra,SE,4dr Car,Symphony Silver,Gray,automatic,29,38,101764,14591,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+2GNALBEK3F6314914,2015,Chevrolet,Equinox,LT,Sport Utility,Summit White,Light Titanium/Jet Black,automatic,22,32,121930,14597,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1G1BC5SM0J7139558,2018,Chevrolet,Cruze,LS,Sedan,Summit White,Jet Black,automatic,29,40,89758,14991,Ancira Nissan,2022-04-01
+5UXZV4C51CL750662,2012,BMW,X5,35i Premium,SUV,Space Gray Metallic,Black,automatic,16,23,100899,14991,Ancira Nissan,2022-04-01
+1FAHP2J86EG147992,2014,Ford,Taurus,Limited,4D Sedan,Silver,Dune,automatic,18,26,116042,14991,Ancira Chevy,2022-04-01
+1FMEU3BEXAUF04193,2010,Ford,Explorer Sport Trac,XLT,4D Sport Utility,Silver,-1,automatic,14,20,112761,14991,Ancira Chevy,2022-04-01
+1G1BE5SM4J7123390,2018,Chevrolet,Cruze,LT,4D Sedan,Red Hot,Black,automatic,29,40,67632,14997,Ancira Ford Floresville,2022-04-01
+1C4RJEJT1EC252033,2014,Jeep,Grand Cherokee,Summit,Sport Utility,Cashmere Pearlcoat,Brown,automatic,14,22,195861,14998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+5N1AR2MN2EC683056,2014,Nissan,Pathfinder,Platinum,SUV,Moonlight White,Charcoal,automatic,20,26,130548,15216,Ancira Nissan,2022-04-01
+3GCEC23J59G122066,2009,Chevrolet,Silverado 1500,LT,4D Crew Cab,Graystone Metallic,Light Titanium/Ebony,automatic,14,20,139697,15700,Ancira Chevy,2022-04-01
+1FTSW21P36EA37893,2006,Ford,F-250SD,XL,Crew Cab Pickup,Oxford White Clearcoat,Tan,automatic,0,0,201018,15966,Ancira Nissan,2022-04-01
+3VW267AJ2GM301414,2016,Volkswagen,Jetta,1.4T S,4dr Car,White,Titan Black,automatic,28,39,68065,15975,Ancira Volkswagen of San Antonio,2022-04-01
+2T3WFREV3DW012128,2013,Toyota,RAV4,XLE,Sport Utility,Black,-1,automatic,24,31,107625,15991,Ancira Buick GMC,2022-04-01
+3N1CE2CP5HL377511,2017,Nissan,Versa Note,S Plus,Hatchback,Super Black,Charcoal,automatic,31,39,26474,15991,Ancira Nissan,2022-04-01
+1GTEC19028Z222830,2008,GMC,Sierra 1500,SLE1,Extended Cab,Dark Crimson Metallic,Ebony,automatic,15,20,95001,15991,Ancira Chevy,2022-04-01
+1FADP3FE0HL295649,2017,Ford,Focus,SE,4D Sedan,White,Charcoal Black,automatic,30,40,23111,15991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+5XXGN4A77FG407999,2015,Kia,Optima,EX,4D Sedan,Smokey Blue,Gray,automatic,23,34,70064,16491,Ancira Chevy,2022-04-01
+3C4PDCGG3GT195032,2016,Dodge,Journey,Crossroad Plus,Sport Utility,Granite Crystal Metallic Clearcoat,Black,automatic,17,25,95550,16491,Ancira Kia,2022-04-01
+5N1AR2MN3DC675725,2013,Nissan,Pathfinder,SL,SUV,Dark Slate,Almond,automatic,20,26,80490,16491,Ancira Nissan,2022-04-01
+1VWBT7A33EC085338,2014,Volkswagen,Passat,1.8T Sport,4dr Car,Silver,Moonrock,automatic,24,34,79123,16624,Ancira Volkswagen of San Antonio,2022-04-01
+3C4PDCBB8GT127496,2016,Dodge,Journey,SXT,Sport Utility,Granite Crystal Metallic Clearcoat,Black,automatic,19,26,66758,16909,Ancira Volkswagen of San Antonio,2022-04-01
+3KPFK4A74HE111449,2017,Kia,Forte,LX,Sedan,Deep Sea Blue,Black,automatic,29,38,43251,16990,Ancira Nissan,2022-04-01
+1G1ZA5ST3GF323225,2016,Chevrolet,Malibu,L,4dr Car,Silver Ice Metallic,Dark Atmosphere/Medium Ash Gray,automatic,27,37,60640,16991,Ancira Volkswagen of San Antonio,2022-04-01
+5TDYK3DC7ES469982,2014,Toyota,Sienna,L 7 Passenger,4D Passenger Van,Predawn Gray Mica,Bisque,automatic,18,25,135975,16991,Ancira Chevy,2022-04-01
+1N4AL3AP1HN313538,2017,Nissan,Altima,2.5 SR,4D Sedan,Gun Metallic,Sport Interior,automatic,26,37,94006,16991,Ancira Chevy,2022-04-01
+1G1BC5SM6J7180986,2018,Chevrolet,Cruze,LS,4D Sedan,Mosaic Black Metallic,Dark Atmosphere/Medium Atmosphere,automatic,29,40,82295,16991,Ancira Chevy,2022-04-01
+2G1125S31E9229571,2014,Chevrolet,Impala,LT,4dr Car,Crystal Red Tintcoat,Jet Black/Brownstone,automatic,19,29,48955,16997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+KL8CB6SA4JC477880,2018,Chevrolet,Spark,LS,Hatchback,Silver Ice,Jet Black,automatic,30,38,43064,16998,Ancira Volkswagen of San Antonio,2022-04-01
+1GNSCHE0XCR325513,2012,Chevrolet,Suburban 1500,LS,Sport Utility,Crystal Red Tintcoat,Ebony,automatic,15,21,101448,17298,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3MZBN1U76HM115666,2017,Mazda,Mazda3 4-Door,Sport,4dr Car,Sonic Silver Metallic,Black,automatic,28,37,97986,17445,Ancira Volkswagen of San Antonio,2022-04-01
+KNDPM3AC8J7315716,2018,Kia,Sportage,LX,SUV,Sparkling Silver,Black,automatic,23,30,80411,17491,Ancira Nissan,2022-04-01
+1N4AL3AP8HC492530,2017,Nissan,Altima,2.5 SR,Sedan,Gun Metallic,Sport Interior,automatic,26,37,80228,17538,Ancira Nissan,2022-04-01
+VNKJTUD36JA093083,2018,Toyota,Yaris,L,Hatchback,Magnetic Gray Metallic,Gray,automatic,30,35,18832,17990,Ancira Nissan,2022-04-01
+JM3KE2CY1G0870297,2016,Mazda,Mazda CX-5,Touring,Sport Utility,Crystal White Pearl Mica,Black,automatic,26,33,102878,17991,Ancira Volkswagen of Laredo,2022-04-01
+JN8AT2MT9HW399712,2017,Nissan,Rogue,S,Sport Utility,Palatial Ruby,Charcoal,automatic,26,33,77546,17991,Ancira Kia,2022-04-01
+1N6AD0ER6AC434582,2010,Nissan,Frontier,SE,Crew Cab Pickup,Super Black,Steel,automatic,15,20,0,17991,Ancira Nissan,2022-04-01
+1N6AD0ER6EN760537,2014,Nissan,Frontier,SV,Crew Cab Pickup,Night Armor,Steel,automatic,16,22,131033,18488,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1N4AL3AP6HC478299,2017,Nissan,Altima,2.5 S,Sedan,Scarlet Ember,Charcoal,automatic,27,39,41105,18741,Ancira Nissan,2022-04-01
+1FMJU1H57DEF41341,2013,Ford,Expedition,XLT,Sport Utility,Green Gem Metallic,Camel,automatic,14,20,111941,18928,Ancira Volkswagen of San Antonio,2022-04-01
+1FT7W2B69CEB77986,2012,Ford,F-250SD,Lariat,Crew Cab Pickup,Black,Black,automatic,0,0,283237,18991,Ancira Nissan,2022-04-01
+1G1JB5SB4K4102934,2019,Chevrolet,Sonic,LS,4D Sedan,Nightfall Gray Metallic,Jet Black/Dark Titanium,automatic,26,34,22611,18991,Ancira Chevy,2022-04-01
+1GNSCJE02CR133915,2012,Chevrolet,Suburban 1500,LT,SUV,Summit White,Light Titanium/Dark Titanium,automatic,15,21,130236,18991,Ancira Nissan,2022-04-01
+3FA6P0H95HR266494,2017,Ford,Fusion,SE,4dr Car,Shadow Black,Ebony,automatic,21,32,77996,18991,Ancira Kia,2022-04-01
+5TFRY5F1XDX143760,2013,Toyota,Tundra,Grade,Crew Cab Pickup,White,Graphite,automatic,13,18,166699,18991,Ancira Nissan,2022-04-01
+3C4PDCAB6GT238968,2016,Dodge,Journey,SE,4D Sport Utility,White,Gone,automatic,19,26,18550,18991,Ancira Chevy,2022-04-01
+1GC4KXB6XAF125611,2010,Chevrolet,Silverado 2500HD,LT,Crew Cab Pickup,Summit White,Ebony,automatic,0,0,235150,19491,Ancira Nissan,2022-04-01
+1C6RR6GG2HS703335,2017,RAM,1500,SLT,4D Quad Cab,Maximum Steel Metallic Clearcoat,Black,automatic,17,25,107925,19497,Ancira Ford Floresville,2022-04-01
+JN1AV7AP6EM692021,2014,INFINITI,Q50 Hybrid,Premium,4D Sedan,Moonlight White,Graphite,automatic,29,36,81940,19791,Ancira Chevy,2022-04-01
+3C4PDCABXJT507707,2018,Dodge,Journey,SE,4D Sport Utility,Red,Black,automatic,19,25,44054,19791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1FM5K8D83FGB76048,2015,Ford,Explorer,XLT,4D Sport Utility,Tuxedo Black Metallic,Charcoal Black,automatic,17,23,118119,19941,Ancira Chevy,2022-04-01
+2T2ZK1BA7FC179712,2015,Lexus,RX,350,4D Sport Utility,Satin Cashmere Metallic,Saddle Tan,automatic,18,25,117315,19991,Ancira Chevy,2022-04-01
+5N1AT2MT2JC732055,2018,Nissan,Rogue,SV,Sport Utility,Pearl White,Charcoal,automatic,26,33,78013,19991,Ancira Kia,2022-04-01
+1C6RR6KG0FS536039,2015,RAM,1500,Express,4D Crew Cab,Flame Red Clearcoat,Black,automatic,17,25,92827,19997,Ancira Ford Floresville,2022-04-01
+1FTFW1EFXDKD52847,2013,Ford,F-150,XLT,4D SuperCrew,Red,Steel Gray,automatic,14,19,136826,19997,Ancira Ford Floresville,2022-04-01
+55SWF4KB6FU029087,2015,Mercedes-Benz,C-Class,C 300,4dr Car,Lunar Blue Metallic,Almond,automatic,24,31,118264,19997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1FMJK1K53EEF23094,2014,Ford,Expedition EL,Limited,4D Sport Utility,Silver,Stone,automatic,14,20,134896,19997,Ancira Ford Floresville,2022-04-01
+WDCGG5HB8EG291434,2014,Mercedes-Benz,GLK,GLK 350,Sport Utility,Red,Black,automatic,19,26,93102,20401,Ancira Volkswagen of San Antonio,2022-04-01
+2B3CJ5DTXAH319626,2010,Dodge,Challenger,R/T,Coupe,Bright White,Dark Slate Gray,Manual,15,24,60599,20489,Ancira Nissan,2022-04-01
+1FTFW1EF6DFA90723,2013,Ford,F-150,Lariat,Crew Cab Pickup,Oxford White,Pale Adobe,automatic,14,19,155624,20491,Ancira Nissan,2022-04-01
+1G6AG5RX2G0100997,2016,Cadillac,ATS,2.0L Turbo,4D Sedan,Phantom Gray Metallic,Jet Black With Jet Black Accents,automatic,22,30,99336,20491,Ancira Chevy,2022-04-01
+5GAKRAKD4HJ187979,2017,Buick,Enclave,Convenience Group,4D Sport Utility,Red,Light Titanium,automatic,15,22,95100,20991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+JM3KE4CY9G0619362,2016,Mazda,Mazda CX-5,Touring,SUV,Soul Red Metallic,Black,automatic,24,30,55910,20991,Ancira Nissan,2022-04-01
+3GNMCFE01DG370404,2013,Chevrolet,Avalanche 1500,LT,4D Crew Cab,Black,Ebony,automatic,15,21,156512,20991,Ancira Chevy,2022-04-01
+KNDJ23AU4N7166649,2022,Kia,Soul,LX,Hatchback,Inferno Red,Black,automatic,29,35,6690,20991,Ancira Kia,2022-04-01
+1GKS1EEF0DR170820,2013,GMC,Yukon,Denali,4D Sport Utility,Summit White,Cocoa/Light Cashmere,automatic,14,18,123811,20991,Ancira Chevy,2022-04-01
+1C4RDHAG3FC937843,2015,Dodge,Durango,SXT,4D Sport Utility,Black,Black,automatic,18,25,99486,20991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1VWAA7A39JC014060,2018,Volkswagen,Passat,2.0T R-Line,4dr Car,Gray,Gray,automatic,25,36,51141,20991,Ancira Volkswagen of Laredo,2022-04-01
+2C4RDGEG9KR659200,2019,Dodge,Grand Caravan,GT,Minivan,Octane Red Pearlcoat,Black,automatic,17,25,78245,20991,Ancira Nissan,2022-04-01
+5N1AZ2MG2GN143473,2016,Nissan,Murano,S,Sport Utility,Arctic Blue Metallic,Beige,automatic,21,28,74091,20994,Ancira Volkswagen of San Antonio,2022-04-01
+1VWAA7A31JC048316,2018,Volkswagen,Passat,R-Line,4dr Car,Black,Titan Black,automatic,25,36,45663,21491,Ancira Volkswagen of Laredo,2022-04-01
+5N1AT2MT8HC832770,2017,Nissan,Rogue,SV,SUV,Brilliant Silver,Charcoal,automatic,26,33,47678,21491,Ancira Nissan,2022-04-01
+JN8AZ2NF8C9518865,2012,INFINITI,QX56,Base,Sport Utility,Moonlight White,Wheat,automatic,14,20,94584,21491,Ancira Buick GMC,2022-04-01
+1FMCU0GD8JUD50430,2018,Ford,Escape,SE,Sport Utility,Magnetic,Charcoal Black,automatic,23,30,49869,21491,Ancira Volkswagen of Laredo,2022-04-01
+5N1AZ2MG2FN265992,2015,Nissan,Murano,Platinum,Sport Utility,Arctic Blue Metallic,Black,automatic,21,28,93027,21491,Ancira Kia,2022-04-01
+1C6RR6FT8ES180090,2014,RAM,1500,Express,Crew Cab Pickup,True Blue Pearlcoat,Diesel Gray/Black,automatic,14,20,83996,21498,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+JA4AT4AA6KZ021681,2019,Mitsubishi,Eclipse Cross,LE,SUV,Alloy Silver Metallic,Black,automatic,25,26,54412,21691,Ancira Nissan,2022-04-01
+5N1AZ2MG6HN107500,2017,Nissan,Murano,SL,SUV,Gun Metallic,Graphite,automatic,21,28,85041,21991,Ancira Nissan,2022-04-01
+KL4CJASB5LB047865,2020,Buick,Encore,Preferred,Sport Utility,Satin Steel Metallic,Ebony,automatic,26,30,24130,21991,Ancira Buick GMC,2022-04-01
+JF2GPAFC5FH302879,2015,Subaru,XV Crosstrek,Premium,SUV,Crystal White Pearl,Ivory,automatic,26,34,33091,21991,Ancira Nissan,2022-04-01
+5J6RM4H74GL030397,2016,Honda,CR-V,EX-L,Sport Utility,White Diamond Pearl,Black,automatic,25,31,97964,21997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+2GNAXMEV2J6220185,2018,Chevrolet,Equinox,Premier,Sport Utility,Orange Burst Metallic,Jet Black/Brandy,automatic,26,32,81771,22488,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4BJWFGXCL114006,2012,Jeep,Wrangler,Rubicon,Convertible,Black,Black/Dark Saddle Interior,automatic,16,20,133362,22488,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+KNDJ63AU4L7062941,2020,Kia,Soul,GT-Line,Hatchback,Gravity Grey,Black,automatic,27,33,24633,22491,Ancira Volkswagen of Laredo,2022-04-01
+ZACCJABBXJPJ69546,2018,Jeep,Renegade,Latitude,4D Sport Utility,Solar Yellow,Black,automatic,22,30,37854,22491,Ancira Chevy,2022-04-01
+2GNAXHEV4K6287427,2019,Chevrolet,Equinox,LS,SUV,Nightfall Gray Metallic,Medium Ash Gray,automatic,26,32,64983,22576,Ancira Nissan,2022-04-01
+JN1BJ1CP3JW189202,2018,Nissan,Rogue Sport,S,SUV,Brilliant Silver,Charcoal,automatic,25,32,24901,22588,Ancira Nissan,2022-04-01
+1C6RR7GT0ES141157,2014,RAM,1500,SLT,Crew Cab Pickup,Bright Silver Metallic Clearcoat,Diesel Gray/Black,automatic,15,21,123976,22598,Ancira Nissan,2022-04-01
+1FA6P8TH1G5225245,2016,Ford,Mustang,EcoBoost,Coupe,Oxford White,Ebony,Manual,22,31,52425,22955,Ancira Nissan,2022-04-01
+KNDPM3AC3L7726296,2020,Kia,Sportage,LX,Sport Utility,Steel Gray,Gray,automatic,23,30,25470,22991,Ancira Kia,2022-04-01
+4JGDA5JB4FA565667,2015,Mercedes-Benz,M-Class,ML 350,Sport Utility,Black,Black,automatic,18,24,76366,22991,Ancira Kia,2022-04-01
+1N4AA6AP8HC456408,2017,Nissan,Maxima,S,Sedan,Deep Blue Pearl,Charcoal,automatic,21,30,32044,22991,Ancira Nissan,2022-04-01
+1FMCU0F66LUA55171,2020,Ford,Escape,S,4D Sport Utility,Orange Metallic,Ebony,automatic,27,33,21576,22997,Ancira Ford Floresville,2022-04-01
+5N1DR2MN0KC634852,2019,Nissan,Pathfinder,S,Sport Utility,Gun Metallic,Charcoal,automatic,20,27,77563,22998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3VV1B7AX3LM052664,2020,Volkswagen,Tiguan,S,SUV,Pyrite Silver Metallic,Titan Black,automatic,22,29,59116,23491,Ancira Nissan,2022-04-01
+WDCTG4GB2GJ228992,2016,Mercedes-Benz,GLA,GLA 250,SUV,Cosmos Black Metallic,Beige,automatic,24,32,82235,23543,Ancira Nissan,2022-04-01
+1GCRCREC9EZ397913,2014,Chevrolet,Silverado 1500,LT,Double Cab,Deep Ruby Metallic,Jet Black/Dark Ash,automatic,16,23,98685,23891,Ancira Buick GMC,2022-04-01
+2FMPK3J96KBC72881,2019,Ford,Edge,SEL,SUV,Blue Metallic,Ebony,automatic,22,29,77144,23991,Ancira Nissan,2022-04-01
+5N1AZ2MG2FN283151,2015,Nissan,Murano,Platinum,SUV,Pearl White,Beige,automatic,21,28,28015,23991,Ancira Nissan,2022-04-01
+3N1AB8DV5LY243917,2020,Nissan,Sentra,SR,4dr Car,Scarlet Ember Tintcoat,Sport,automatic,28,37,18033,24491,Ancira Volkswagen of Laredo,2022-04-01
+1C4PJLCB8KD357965,2019,Jeep,Cherokee,Latitude,SUV,Diamond Black Crystal Pearlcoat,Black,automatic,22,31,28952,24491,Ancira Nissan,2022-04-01
+3GTP1VE09DG174443,2013,GMC,Sierra 1500,SLE,Pickup Crew Cab,Quicksilver Metallic,Ebony,automatic,15,21,73173,24491,Ancira Buick GMC,2022-04-01
+3GTP2WE78CG309071,2012,GMC,Sierra 1500,SLT,4D Crew Cab,Gray,Light Cashmere/Very Dark Cashmere Accents,automatic,15,21,121473,24491,Ancira Chevy,2022-04-01
+2C4RDGBG1KR795129,2019,Dodge,Grand Caravan,SE,4D Passenger Van,Red,Black,automatic,17,25,30770,24551,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1N6DD0EV8HN733340,2017,Nissan,Frontier,SV,Crew Cab Pickup,Brilliant Silver,Steel,automatic,15,21,61635,24981,Ancira Buick GMC,2022-04-01
+1G6AG5RX2H0109992,2017,Cadillac,ATS Sedan,AWD,4dr Car,White,Jet Black,automatic,22,30,60862,24987,Ancira Volkswagen of San Antonio,2022-04-01
+JTDEBRBE6LJ029269,2020,Toyota,Corolla Hybrid,Hybrid LE,Sedan,Classic Silver Metallic,Black,automatic,53,52,15135,24991,Ancira Nissan,2022-04-01
+1C4PJLCB9LD507437,2020,Jeep,Cherokee,Latitude,SUV,Diamond Black Crystal Pearlcoat,Black,automatic,22,31,31318,24991,Ancira Nissan,2022-04-01
+5N1AT2MT6JC727022,2018,Nissan,Rogue,SV,Sport Utility,Magnetic Black,Charcoal,automatic,26,33,29125,24991,Ancira Volkswagen of Laredo,2022-04-01
+1FM5K7D80HGE37259,2017,Ford,Explorer,XLT,4D Sport Utility,White,Black,automatic,17,24,85622,24991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+3C4PDCGB1KT738505,2019,Dodge,Journey,Crossroad,Sport Utility,Billet Clearcoat,Black,automatic,19,25,42267,24997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1FMCU0F67LUA32109,2020,Ford,Escape,S,SUV,Ingot Silver,Ebony,automatic,27,33,2416,25491,Ancira Nissan,2022-04-01
+1FTEW1CP3FKD77745,2015,Ford,F-150,XLT,Crew Cab Pickup,White,-1,automatic,19,26,99935,25898,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+5UXKR2C58F0H38916,2015,BMW,X5,sDrive35i,Sports Activity Vehicle,White Metallic,Mocha,automatic,19,27,92839,25990,Ancira Volkswagen of San Antonio,2022-04-01
+ZACNJCAB2MPM26399,2021,Jeep,Renegade,Sport,4D Sport Utility,Green,Black,automatic,22,30,12491,25991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+5N1AT2MT2KC813168,2019,Nissan,Rogue,SV,SUV,Scarlet Ember Tintcoat,Charcoal,automatic,26,33,12819,25991,Ancira Nissan,2022-04-01
+KNDPM3AC9L7813457,2020,Kia,Sportage,LX,Sport Utility,Sparkling Silver,Black,automatic,23,30,15634,25991,Ancira Kia,2022-04-01
+3VV3B7AX9JM104630,2018,Volkswagen,Tiguan,2.0T SEL,Sport Utility,White,Gray,automatic,22,27,32743,25991,Ancira Volkswagen of Laredo,2022-04-01
+3VV5B7AX7JM094611,2018,Volkswagen,Tiguan,SEL Premium,Sport Utility,Pure White,Titan Black,automatic,22,27,93561,25998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3GNAXHEV0LS704996,2020,Chevrolet,Equinox,LS,4D Sport Utility,Midnight Blue Metallic,Medium Ash Gray,automatic,26,31,15857,26391,Ancira Chevy,2022-04-01
+JTMZFREV4JJ212281,2018,Toyota,RAV4,LE,Sport Utility,Blue,Black,automatic,23,30,36022,26593,Ancira Volkswagen of San Antonio,2022-04-01
+5TFRM5F19GX106103,2016,Toyota,Tundra,SR,Crew Cab Pickup,Red,-1,automatic,15,19,78850,26698,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3VWC57BU4MM080264,2021,Volkswagen,Jetta,1.4T SE,4dr Car,Pure White,Titan Black,automatic,29,39,1177,26952,Ancira Volkswagen of San Antonio,2022-04-01
+1FA6P8TH6K5125683,2019,Ford,Mustang,EcoBoost,2dr Car,Green,Black,automatic,21,32,36622,26988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1GCRCRECXHZ233574,2017,Chevrolet,Silverado 1500,LT LT1,4D Double Cab,Black,Black,automatic,16,23,114185,26991,Ancira Chevy,2022-04-01
+3VV1B7AX2LM180197,2020,Volkswagen,Tiguan,2.0T S,4D Sport Utility,Black,Storm Gray,automatic,22,29,3209,26991,Ancira Chevy,2022-04-01
+1N6BA0EC1FN503182,2015,Nissan,Titan,PRO-4X,4D Crew Cab,Cayenne Red Pearl,Charcoal,automatic,12,17,103157,26991,Ancira Chevy,2022-04-01
+5TFRX5GN5KX145708,2019,Toyota,Tacoma,SR,4D Access Cab,Super White,Cement Gray,automatic,20,23,52732,26991,Ancira Chevy,2022-04-01
+1C4BJWDGXFL507186,2015,Jeep,Wrangler Unlimited,Sport,4D Sport Utility,Hydro Blue Pearl Coat,Black,automatic,16,20,102511,26991,Ancira Chevy,2022-04-01
+5FPYK2F13HB004413,2017,Honda,Ridgeline,Sport,Crew Cab Pickup,Crystal Black Pearl,Black,automatic,19,26,79490,26991,Ancira Kia,2022-04-01
+WDCTG4EB6HJ317226,2017,Mercedes-Benz,GLA,GLA 250,Sport Utility,Silver,Sahara Beige,automatic,24,33,52759,27247,Ancira Volkswagen of San Antonio,2022-04-01
+1C6RR6FG4KS555732,2019,RAM,1500 Classic,Tradesman,Crew Cab Pickup,Bright Silver Metallic Clearcoat,Diesel Gray/Black,automatic,17,25,60722,27488,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1GKKNMLSXJZ183696,2018,GMC,Acadia,SLT,SUV,Summit White,Jet Black,automatic,18,25,82546,27491,Ancira Nissan,2022-04-01
+3GCPCREC9EG498845,2014,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,Summit White,Black,automatic,16,23,63813,27491,Ancira Chevy,2022-04-01
+2GNAXKEV0L6219916,2020,Chevrolet,Equinox,LT,4D Sport Utility,Midnight Blue Metallic,Jet Black,automatic,26,31,1,27491,Ancira Chevy,2022-04-01
+1C4RDHEG6GC353223,2016,Dodge,Durango,Citadel,Sport Utility,Red Pearl Coat,Lt Frost Beige/Black,automatic,19,27,87706,27491,Ancira Kia,2022-04-01
+1HGCV2F51JA033695,2018,Honda,Accord Sedan,EX-L 2.0T,4dr Car,Blue,-1,automatic,23,34,34528,27981,Ancira Buick GMC,2022-04-01
+2GNAXHEV5M6128127,2021,Chevrolet,Equinox,LS,4D Sport Utility,Nightfall Gray Metallic,Medium Ash Gray,automatic,26,31,16094,27987,Ancira Ford Floresville,2022-04-01
+4T1M11AKXLU918495,2020,Toyota,Camry,SE,4D Sedan,Black,Ash,automatic,28,39,28053,27987,Ancira Ford Floresville,2022-04-01
+1C4BJWFG8DL661339,2013,Jeep,Wrangler,Rubicon,Convertible,Bright White,Black Interior,automatic,16,20,125632,27988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3VV3B7AX4JM110416,2018,Volkswagen,Tiguan,2.0T SEL,Sport Utility,White Silver,Titan Black,automatic,22,27,33770,27991,Ancira Volkswagen of Laredo,2022-04-01
+5UXKR2C52G0R72290,2016,BMW,X5,sDrive35i,Sports Activity Vehicle,White Metallic,Black,automatic,18,25,81001,27991,Ancira Chevy,2022-04-01
+2T3W1RFV5KC033266,2019,Toyota,RAV4,XLE,4D Sport Utility,Midnight Black Metallic,Light Gray,automatic,26,35,75256,27991,Ancira Chevy,2022-04-01
+2C3CDXBG9JH173781,2018,Dodge,Charger,SXT,4dr Car,Granite Pearlcoat,Black,automatic,19,30,35914,27991,Ancira Volkswagen of Laredo,2022-04-01
+2T3H1RFV0LC037879,2020,Toyota,RAV4,LE,Sport Utility,Ruby Flare Pearl,Black,automatic,27,35,34730,27991,Ancira Kia,2022-04-01
+5N1AZ2BJ1LN115849,2020,Nissan,Murano,SV,SUV,Super Black Metallic,Graphite,automatic,20,28,33366,27991,Ancira Nissan,2022-04-01
+3GKALPEV3KL336020,2019,GMC,Terrain,SLT,Sport Utility,Summit White,Jet Black,automatic,26,30,41392,27991,Ancira Volkswagen of Laredo,2022-04-01
+3VV3B7AXXKM056380,2019,Volkswagen,Tiguan,2.0T SE,Sport Utility,Pure White,Titan Black,automatic,22,29,38571,27991,Ancira Kia,2022-04-01
+5N1DR2MN8KC582600,2019,Nissan,Pathfinder,SV,SUV,Brilliant Silver Metallic,Charcoal,automatic,20,27,32084,27991,Ancira Nissan,2022-04-01
+1FM5K8GT2GGC66891,2016,Ford,Explorer,Sport,Sport Utility,Oxford White,Ebony Black,automatic,16,22,58610,27998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C6RR6KT5HS841570,2017,RAM,1500,Tradesman,Crew Cab,Bright White Clearcoat,Diesel Gray/Black,automatic,15,22,64967,27998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+5XYPG4A36LG623101,2020,Kia,Sorento,LX,Sport Utility,Snow White Pearl,Black,automatic,22,29,19503,28491,Ancira Kia,2022-04-01
+1FTEW1CB8JKC08219,2018,Ford,F-150,XLT,4D SuperCrew,Gray,Dark Earth Gray,automatic,20,25,55088,28991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1GCGTCE36F1165970,2015,Chevrolet,Colorado,4WD Z71,Crew Cab Pickup,Black,Jet Black,automatic,17,24,54555,28991,Ancira Nissan,2022-04-01
+1N4BL4EV8LN301964,2020,Nissan,Altima,2.5 SL,Sedan,Pearl White Tricoat,Charcoal,automatic,28,39,14101,28991,Ancira Nissan,2022-04-01
+3GCPCREC2FG251409,2015,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,Brownstone Metallic,Black,automatic,16,23,81263,28991,Ancira Chevy,2022-04-01
+2FMPK3J96LBA42288,2020,Ford,Edge,SEL,4D Sport Utility,White,Ebony,automatic,21,29,27871,28997,Ancira Ford Floresville,2022-04-01
+4T1B61HK6KU197069,2019,Toyota,Camry,XSE,4dr Car,Silver,Ash,automatic,28,39,62886,28998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1GYKNARS9JZ145291,2018,Cadillac,XT5,Base,4D Sport Utility,Crystal White Tricoat,Sahara Beige,automatic,19,26,20635,29591,Ancira Chevy,2022-04-01
+JTEZU5JR7G5122238,2016,Toyota,4Runner,SR5,Sport Utility,Gray,Black/Graphite,automatic,17,22,91357,29790,Ancira Volkswagen of San Antonio,2022-04-01
+1V2DR2CAXJC530921,2018,Volkswagen,Atlas,3.6L V6 SE w/Technology,4D Sport Utility,Reflex Silver Metallic,Titan Black,automatic,18,25,62555,29987,Ancira Ford Floresville,2022-04-01
+2FMPK3J9XLBA69185,2020,Ford,Edge,SEL,Sport Utility,Oxford White,Ebony,automatic,21,29,12260,29988,Ancira Volkswagen of San Antonio,2022-04-01
+1C4BJWEG9GL317881,2016,Jeep,Wrangler,Sahara,Convertible,Mojave Sand Clearcoat,Black,automatic,16,20,121755,29988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+WA1BNAFY6J2106367,2018,Audi,Q5,Premium Plus,Sport Utility,Black,Black,automatic,23,27,70079,29990,Ancira Volkswagen of San Antonio,2022-04-01
+5TFAX5GN8LX179429,2020,Toyota,Tacoma 2WD,SR5,Crew Cab Pickup,Cement,Black,automatic,20,23,61054,29991,Ancira Kia,2022-04-01
+5J6RW1H55LA004954,2020,Honda,CR-V,EX,4D Sport Utility,Gray,Gray,automatic,28,34,27816,29991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+4T1BZ1HK3JU006245,2018,Toyota,Camry,XLE V6,Sedan,Super White,Macadamia,automatic,22,33,36613,29991,Ancira Nissan,2022-04-01
+2C4RC1EG8JR338599,2018,Chrysler,Pacifica,Touring L Plus,"Mini-van, Passenger",Velvet Red Pearlcoat,Toffee/Cognac/Alloy,automatic,19,28,51703,29991,Ancira Kia,2022-04-01
+1C4BJWFGXFL734973,2015,Jeep,Wrangler Unlimited,Rubicon,Convertible,Anvil Clearcoat,Black,automatic,16,20,88648,29991,Ancira Kia,2022-04-01
+2C3CDXBG1LH248444,2020,Dodge,Charger,SXT,Sedan,Sinamon Stick,Black,automatic,19,30,21676,29991,Ancira Nissan,2022-04-01
+5GAKRCKD7HJ350507,2017,Buick,Enclave,Premium,Sport Utility,White Frost Tricoat,Light Titanium,automatic,15,22,42514,29991,Ancira Kia,2022-04-01
+1C6RR6KG6JS177319,2018,RAM,1500,Express,4D Crew Cab,Granite Crystal Metallic Clearcoat,Black,automatic,17,25,25336,29991,Ancira Chevy,2022-04-01
+1FMJK1JT8HEA48708,2017,Ford,Expedition EL,XLT,4D Sport Utility,Silver,Ebony,automatic,15,19,73480,29997,Ancira Ford Floresville,2022-04-01
+1C4BJWDG0HL731666,2017,Jeep,Wrangler,Sport,Convertible,Granite Crystal Metallic Clearcoat,Black,automatic,16,20,110859,29998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4RDHAG9KC604525,2019,Dodge,Durango,SXT,Sport Utility,Octane Red Pearlcoat,Lt Frost Beige/Black,automatic,19,26,56466,30597,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+KMHTH6AB3MU032167,2021,Hyundai,Veloster,Turbo R-Spec,3dr Car,Chalk White,Black,Manual,26,33,11319,30649,Ancira Volkswagen of San Antonio,2022-04-01
+1C4HJWDG9FL682748,2015,Jeep,Wrangler,Sport,Convertible,Black Clearcoat,Black,automatic,16,20,64711,30788,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4RDHAG8KC717477,2019,Dodge,Durango,SXT,Sport Utility,Destroyer Gray Clearcoat,Black,automatic,19,26,52714,30988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4RDHDG2KC650287,2019,Dodge,Durango,GT Plus,SUV,White Knuckle Clearcoat,Black,automatic,19,26,61475,30991,Ancira Nissan,2022-04-01
+JN8AT3BA6MW007934,2021,Nissan,Rogue,SV,SUV,Scarlet Ember Tintcoat,Gray,automatic,26,34,8152,30991,Ancira Nissan,2022-04-01
+1GKKNLLS8KZ239534,2019,GMC,Acadia,SLE,Sport Utility,White Frost Tricoat,Dark Ash Gray/ Light Ash Gray,automatic,18,25,41566,30998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1GCGSCEN8K1108538,2019,Chevrolet,Colorado,LT,4D Crew Cab,Blue,Black,automatic,18,25,28234,31491,Ancira Chevy,2022-04-01
+1C6RR6GG8JS149708,2018,RAM,1500,Lone Star,Crew Cab Pickup,Granite Crystal Metallic Clearcoat,Diesel Gray/Black,automatic,17,25,13320,31988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C6RR7MT6HS672405,2017,RAM,1500,Sport,4D Crew Cab,Brilliant Black Crystal Pearlcoat,Black,automatic,15,21,101346,31991,Ancira Chevy,2022-04-01
+3GCPCREC3JG484059,2018,Chevrolet,Silverado 1500,LT LT1,4D Crew Cab,Black,Black,automatic,16,23,107764,31991,Ancira Chevy,2022-04-01
+WA1JCCFS0JR013506,2018,Audi,Q3,2.0T Premium quattro,4D Sport Utility,Hainan Blue Metallic,Black,automatic,20,28,29201,31991,Ancira Chevy,2022-04-01
+1C6RR6LT0JS271689,2018,RAM,1500,Lone Star Silver,Crew Cab,Bright Silver Metallic Clearcoat,Diesel Gray/Black,automatic,15,22,78608,31997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+2C3CDXHG0KH713723,2019,Dodge,Charger,GT,4dr Car,Granite Pearlcoat,Black,automatic,19,30,23563,31998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4HJWDG5HL601828,2017,Jeep,Wrangler Unlimited,Unlimited Sport,Convertible,Billet Silver Metallic Clearcoat,Black,automatic,16,20,72935,32491,Ancira Buick GMC,2022-04-01
+1C6RR6LTXKS515348,2019,RAM,1500 Classic,Lone Star,Crew Cab Pickup,Delmonico Red Pearlcoat,Diesel Gray/Black,automatic,15,22,78663,32637,Ancira Volkswagen of San Antonio,2022-04-01
+5TFAX5GN5KX160223,2019,Toyota,Tacoma,SR,Crew Cab Pickup,Gray,Gone,automatic,20,23,6417,32988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+KNDPR3A65M7925508,2021,Kia,Sportage,SX Turbo,Sport Utility,Pacific Blue,Black,automatic,20,28,7374,32991,Ancira Kia,2022-04-01
+5TDKZRFH7JS545305,2018,Toyota,Highlander,XLE,4D Sport Utility,Gray,Black,automatic,0,27,44965,32997,Ancira Ford Floresville,2022-04-01
+5N1AT2MT4LC763164,2020,Nissan,Rogue,SL,SUV,Gun Metallic,Charcoal,automatic,26,33,2750,33448,Ancira Nissan,2022-04-01
+1FTEW1CB7KKD96703,2019,Ford,F-150,XLT,4D SuperCrew,Red,Medium Earth Gray,automatic,19,25,62753,33551,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1FTEW1EG3FFC14700,2015,Ford,F-150,Platinum,4D SuperCrew,Black,Black,automatic,17,23,125502,33592,Ancira Ford Floresville,2022-04-01
+2C4RC1FG0LR150774,2020,Chrysler,Pacifica,Touring,4D Passenger Van,Billet Silver Metallic Clearcoat,Black,automatic,19,28,36122,33791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1GCVKREC5JZ195033,2018,Chevrolet,Silverado 1500,LT LT1,4D Double Cab,Summit White,Black,automatic,16,22,72065,33991,Ancira Chevy,2022-04-01
+JTMW1RFV9MD073588,2021,Toyota,RAV4,XLE,SUV,Lunar Rock,Black,automatic,28,35,11476,33991,Ancira Nissan,2022-04-01
+ZAM57RTA1F1142110,2015,Maserati,Ghibli,S Q4,Sedan,Grigio Metallic,Nero,automatic,15,25,36778,33991,Ancira Nissan,2022-04-01
+5UXKR2C38H0U22639,2017,BMW,X5,sDrive35i,Sports Activity Vehicle,White Metallic,Black,automatic,18,25,68986,33994,Ancira Volkswagen of San Antonio,2022-04-01
+1FTEW1E54JKC80428,2018,Ford,F-150,Lariat,4D SuperCrew,Ingot Silver,Black,automatic,16,22,99658,33997,Ancira Ford Floresville,2022-04-01
+KM8J33AL5MU390089,2021,Hyundai,Tucson,Ultimate,4D Sport Utility,Black,Black,automatic,22,28,11264,33998,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+5TFRY5F14LX271703,2020,Toyota,Tundra,SR5,Crew Cab Pickup,Super White,Graphite,automatic,13,18,26981,34498,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1N6AA1E61JN517779,2018,Nissan,Titan,SV,Crew Cab Pickup,Pearl White,Black,automatic,15,21,44231,34557,Ancira Volkswagen of San Antonio,2022-04-01
+1FTEW1CP8KKC01879,2019,Ford,F-150,XLT,Crew Cab Pickup,Stone Gray,Medium Light Camel,automatic,20,26,59429,34691,Ancira Nissan,2022-04-01
+2C3CDXCT9KH633289,2019,Dodge,Charger,R/T,4D Sedan,White Knuckle Clearcoat,Black,automatic,16,25,36905,34991,Ancira Chevy,2022-04-01
+1C4GJXAG0KW685570,2019,Jeep,Wrangler,Sport,2D Sport Utility,White,Gone,automatic,17,25,27753,34991,Ancira Chevy,2022-04-01
+3GNKBBRA1MS568032,2021,Chevrolet,Blazer,LT,4D Sport Utility,Silver Ice Metallic,Jet Black,automatic,21,27,23826,34991,Ancira Chevy,2022-04-01
+JTEZU5JR4H5157952,2017,Toyota,4Runner,Limited,4D Sport Utility,Magnetic Gray Metallic,Black,automatic,17,21,65230,34991,Ancira Chevy,2022-04-01
+1G1FG1R75G0124408,2016,Chevrolet,Camaro,SS 2SS,2D Coupe,Nightfall Gray Metallic,jet black,automatic,16,25,77615,34991,Ancira Chevy,2022-04-01
+JTEZU5JRXJ5174048,2018,Toyota,4Runner,SR5,Sport Utility,Super White,Black Graphite,automatic,17,21,57876,34991,Ancira Kia,2022-04-01
+2FMPK3K91LBA69509,2020,Ford,Edge,Titanium,4D Sport Utility,Iconic Silver Metallic,Ebony,automatic,21,29,29412,34997,Ancira Ford Floresville,2022-04-01
+2FMPK3K91KBB12972,2019,Ford,Edge,Titanium,4D Sport Utility,Ruby Red,Ceramic,automatic,22,29,11119,34997,Ancira Ford Floresville,2022-04-01
+1C4RDJDG3KC651889,2019,Dodge,Durango,GT Plus,Sport Utility,Octane Red Pearlcoat,Black,automatic,18,25,42468,34998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1N6AA1E51JN539871,2018,Nissan,Titan,SV,Crew Cab Pickup,Pearl White,Black,automatic,15,21,40809,35491,Ancira Nissan,2022-04-01
+3GTU2MEC7JG207147,2018,GMC,Sierra 1500,SLE,4D Crew Cab,Summit White,Black,automatic,16,22,85877,35497,Ancira Ford Floresville,2022-04-01
+1FM5K7D85KGA15849,2019,Ford,Explorer,XLT,Sport Utility,Magnetic Metallic,Ebony Black,automatic,17,24,7344,35991,Ancira Volkswagen of Laredo,2022-04-01
+5TFDY5F12JX698854,2018,Toyota,Tundra,SR5,4D CrewMax,Silver,Black,automatic,13,17,88292,35991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1GNSCHKC4JR101830,2018,Chevrolet,Suburban,LT,Sport Utility,Black,Jet Black,automatic,16,23,93938,35991,Ancira Buick GMC,2022-04-01
+1C4RJEAG6KC710714,2019,Jeep,Grand Cherokee,Altitude,4D Sport Utility,Black,Black,automatic,19,26,15919,35991,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+5TDKZRFH4KS559602,2019,Toyota,Highlander,XLE,Sport Utility,Celestial Silver Metallic,Ash,automatic,21,27,37513,35991,Ancira Kia,2022-04-01
+1GNSCAKC5GR461348,2016,Chevrolet,Tahoe,LS,Sport Utility,Black,Jet Black,automatic,16,23,40232,35991,Ancira Buick GMC,2022-04-01
+5N1AZ2CJ1LN118913,2020,Nissan,Murano,SL,SUV,Cayenne Red Metallic,Graphite,automatic,20,28,13091,36494,Ancira Nissan,2022-04-01
+1FTEW1CP2LFC22656,2020,Ford,F-150,XL,4D SuperCrew,Gray,Medium Earth Gray,automatic,20,26,33256,36591,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1FTEW1CP5LKE86753,2020,Ford,F-150,XLT,4D SuperCrew,Oxford White,Medium Earth Gray,automatic,20,26,24106,36997,Ancira Ford Floresville,2022-04-01
+1C4BJWFG1GL107600,2016,Jeep,Wrangler,Rubicon,Convertible,Bright White Clearcoat,Black,automatic,16,20,78865,36997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+5N1AZ2CJ4LN175106,2020,Nissan,Murano,SL,Sport Utility,Gun Metallic,Graphite,automatic,20,28,15126,36998,Ancira Volkswagen of San Antonio,2022-04-01
+JTJYARBZ9K2132534,2019,Lexus,NX,NX 300 F SPORT,Sport Utility,Silver Lining Metallic,Circuit Red,automatic,22,28,37040,37298,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4HJXDG2LW252236,2020,Jeep,Wrangler Unlimited,Sport Altitude,SUV,Bright White Clearcoat,Black,automatic,18,22,32997,37491,Ancira Nissan,2022-04-01
+JTHBE1D24H5031406,2017,Lexus,IS,350,Sedan,Silver Lining Metallic,Black,automatic,19,28,26354,37491,Ancira Nissan,2022-04-01
+1GNEVJKW4JJ235485,2018,Chevrolet,Traverse,Premier,Sport Utility,Summit White,Jet Black,automatic,17,25,65811,37498,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+ZAM57RSL7H1206575,2017,Maserati,Ghibli,S,4dr Car,Bronzo Siena Metallescent,Nero,automatic,16,24,44561,37498,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1GNERGKW9LJ155917,2020,Chevrolet,Traverse,LT 1LT,4D Sport Utility,Iridescent Pearl Tricoat,Jet Black,automatic,18,27,21897,37591,Ancira Chevy,2022-04-01
+1C4HJXDGXJW126848,2018,Jeep,Wrangler,Sport S,Convertible,Billet Silver Metallic Clearcoat,Black/Heritage Tan,automatic,18,23,64306,37597,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3GCUKRER9JG436771,2018,Chevrolet,Silverado 1500,LT,Pickup Crew Cab,Summit White,Jet Black,automatic,16,21,51285,37988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3GCUKREC7JG515867,2018,Chevrolet,Silverado 1500,LT LT2,4D Crew Cab,Silver Ice Metallic,Black,automatic,16,22,76386,37991,Ancira Chevy,2022-04-01
+1GKKNKLA8MZ195572,2021,GMC,Acadia,SLE,Sport Utility,Cayenne Red Tintcoat,Jet Black,automatic,21,27,4266,37998,Ancira Volkswagen of San Antonio,2022-04-01
+3GCUYDED6LG154497,2020,Chevrolet,Silverado 1500,LT,Pickup Crew Cab,Silver Ice Metallic,Jet Black,automatic,16,22,63638,38491,Ancira Kia,2022-04-01
+1FTEW1CP1LKE59629,2020,Ford,F-150,XLT,Crew Cab Pickup,Oxford White,Gray,automatic,20,26,25521,38491,Ancira Nissan,2022-04-01
+SADCL2BVXHA881874,2017,Jaguar,F-PACE,35t R-Sport,SUV,Ultimate Black Metallic,Red,automatic,18,23,65579,38491,Ancira Nissan,2022-04-01
+2C4RC1BG5MR503260,2021,Chrysler,Pacifica,Touring L,4D Passenger Van,Beige / Tan,Black,automatic,19,28,30467,38791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+3GCPWBEK4MG191944,2021,Chevrolet,Silverado 1500,Custom,Pickup Crew Cab,Silver Ice Metallic,Jet Black,automatic,20,23,3676,38929,Ancira Nissan,2022-04-01
+1FTEW1EP1LKD65828,2020,Ford,F-150,XL,Crew Cab Pickup,Abyss Gray Metallic,Medium Earth Gray,automatic,18,23,27732,38991,Ancira Kia,2022-04-01
+WDDWK4JBXHF427602,2017,Mercedes-Benz,C-Class,C 300,2D Convertible,designo Selenite Gray Magno (Matte Finish),A,automatic,23,31,49647,38991,Ancira Chevy,2022-04-01
+1FA6P8CF3K5143301,2019,Ford,Mustang,GT,2D Coupe,Shadow Black,Ebony,automatic,0,0,12612,38997,Ancira Ford Floresville,2022-04-01
+1V2WC2CA9MC203053,2021,Volkswagen,Atlas Cross Sport,2.0T SE w/Technology,Sport Utility,Red,Titan Black,automatic,21,24,14728,38998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+5TDYZRFH1KS354152,2019,Toyota,Highlander,Limited,Sport Utility,Alumina Jade Metallic,Black,automatic,21,27,22086,39491,Ancira Volkswagen of Laredo,2022-04-01
+1C4BJWFG4HL687605,2017,Jeep,Wrangler Unlimited,Rubicon,SUV,Firecracker Red Clearcoat,Black,automatic,16,20,50853,39491,Ancira Nissan,2022-04-01
+1C6HJTAG5LL185153,2020,Jeep,Gladiator,Sport S,Crew Cab Pickup,Hydro Blue Pearlcoat,Black,automatic,17,22,22884,39991,Ancira Kia,2022-04-01
+3GCPWCED5LG395822,2020,Chevrolet,Silverado 1500,LT Texas Edition,4D Crew Cab,Northsky Blue Metallic,Black,automatic,17,23,32588,39991,Ancira Chevy,2022-04-01
+1FTEW1EP4KKD03578,2019,Ford,F-150,XLT,4D SuperCrew,Ruby Red,Medium Earth Gray,automatic,19,24,27974,39991,Ancira Chevy,2022-04-01
+3C6UR5HJ4KG604142,2019,RAM,2500,Tradesman,4D Crew Cab,Pearl White,Medium Slate Gray/Black,automatic,0,0,93025,39991,Ancira Chevy,2022-04-01
+3TMAZ5CN0NM166330,2022,Toyota,Tacoma,TRD Sport,Crew Cab Pickup,Magnetic Gray Metallic,Black,automatic,19,24,2494,39997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+5LMCJ1C9XNUL01801,2022,Lincoln,Corsair,Standard,Sport Utility,Gray,Ebony,automatic,22,29,1921,39999,Ancira Volkswagen of San Antonio,2022-04-01
+1C4HJXEG4KW551885,2019,Jeep,Wrangler Unlimited,Sahara,SUV,Bright White Clearcoat,Black,automatic,18,23,63565,40491,Ancira Nissan,2022-04-01
+SALVD2BGXHH240775,2017,Land Rover,Range Rover Evoque,HSE Dynamic,SUV,Phoenix Orange Metallic,Ebony/Pimento/Ebony,automatic,21,29,40527,40491,Ancira Nissan,2022-04-01
+1N6AA1E53KN532244,2019,Nissan,Titan,SV,Crew Cab Pickup,Brilliant Silver Metallic,Black,automatic,15,21,26418,40491,Ancira Nissan,2022-04-01
+1C6RREFT1LN361229,2020,RAM,1500,Lone Star,Crew Cab Pickup,Diamond Black Crystal Pearlcoat,Gray,automatic,15,22,26218,40859,Ancira Volkswagen of San Antonio,2022-04-01
+1GNSKHKC1JR156531,2018,Chevrolet,Suburban,LT,4D Sport Utility,Silver Ice Metallic,Black,automatic,15,22,80404,41791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1C4HJWFG5HL505176,2017,Jeep,Wrangler,Rubicon,Convertible,Black Clearcoat,Black,automatic,16,20,42046,41997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C6RREFT0LN232723,2020,RAM,1500,Big Horn/Lone Star,4D Crew Cab,Diamond Black Crystal Pearlcoat,Black,automatic,0,0,28509,41997,Ancira Ford Floresville,2022-04-01
+3C7WRVKG5LE131544,2020,RAM,ProMaster 3500 Cutaway,Low Roof,Specialty Vehicle,Bright White Clearcoat,Black,automatic,0,0,51178,41998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1FA6P8CF9L5187109,2020,Ford,Mustang,GT Premium,2dr Car,Charcoal,-1,automatic,16,25,9291,41998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1GCGTEEN1K1344845,2019,Chevrolet,Colorado,4WD ZR2,Crew Cab Pickup,Summit White,Jet Black,automatic,16,18,21245,42291,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4SDHCT9KC806647,2019,Dodge,Durango,R/T,Sport Utility,DB Black Clearcoat,Black,automatic,14,22,43030,42398,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C6RREFT9LN276588,2020,RAM,1500,Big Horn/Lone Star,4D Crew Cab,Diamond Black Crystal Pearlcoat,Diesel Gray/Black,automatic,20,25,29794,42591,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1GNSCCKC9JR112888,2018,Chevrolet,Tahoe,Premier,Sport Utility,Tungsten Metallic,Jet Black,automatic,16,23,88756,42891,Ancira Buick GMC,2022-04-01
+1GC4KYCY0JF101999,2018,Chevrolet,Silverado 3500HD,Work Truck,4D Crew Cab,Silver Ice Metallic,Dark Ash With Jet Black Interior Accents,automatic,0,0,120936,42897,Ancira Ford Floresville,2022-04-01
+WA1EECF32M1046997,2021,Audi,Q3,Premium S line quattro,4D Sport Utility,Black,Okapi Brown,automatic,20,28,6020,42991,Ancira Chevy,2022-04-01
+1FTEW1CP1MFB09363,2021,Ford,F-150,XL,4D SuperCrew,Gray,Black,automatic,20,26,10431,42997,Ancira Ford Floresville,2022-04-01
+1C6JJTAG2ML546552,2021,Jeep,Gladiator,Sport S,Crew Cab Pickup,Black Clearcoat,Black,automatic,17,22,9746,43991,Ancira Volkswagen of Laredo,2022-04-01
+1C4HJXEN8LW282757,2020,Jeep,Wrangler Unlimited,Unlimited Sahara,Convertible,Sting-Gray Clearcoat,Black,automatic,21,22,20676,43991,Ancira Buick GMC,2022-04-01
+5J8YD7H70LL000974,2020,Acura,MDX,Advance Package,Sport Utility,Black,-1,automatic,26,27,53137,43991,Ancira Buick GMC,2022-04-01
+3GNKBERS9LS591485,2020,Chevrolet,Blazer,RS,4D Sport Utility,Red,Black,automatic,19,26,12812,43991,Ancira Chevy,2022-04-01
+1V2NR2CA6KC545034,2019,Volkswagen,Atlas,3.6L V6 SEL Premium,Sport Utility,White,Titan Black,automatic,17,23,22951,43997,Ancira Volkswagen of San Antonio,2022-04-01
+KM8R34HE1MU265199,2021,Hyundai,Palisade,SEL,Sport Utility,Steel Graphite,Gray,automatic,19,26,11080,43998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1GNSKHKC8KR384043,2019,Chevrolet,Suburban,LT,Sport Utility,Pepperdust Metallic,Jet Black,automatic,14,21,66429,44491,Ancira Kia,2022-04-01
+WA1AHAF77KD039648,2019,Audi,Q7,45 SE Premium quattro,4D Sport Utility,White,Cedar Brown,automatic,19,25,41131,44791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+3C6UR5FL8GG223826,2016,RAM,2500,Laramie,Crew Cab Pickup,Granite Crystal Metallic Clearcoat,Black,automatic,0,0,127489,44981,Ancira Buick GMC,2022-04-01
+1C4HJXDN9LW332096,2020,Jeep,Wrangler,Willys,Convertible,Granite Crystal Metallic Clearcoat,Black,automatic,18,22,9970,44988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+WDD1J6FB4JF012606,2018,Mercedes-Benz,E-Class,E 400,2dr Car,Black,Black,automatic,20,26,47643,44988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C6SRFFT5LN107143,2020,RAM,1500,Big Horn/Lone Star,4D Crew Cab,Patriot Blue Pearlcoat,Black,automatic,19,24,22940,44991,Ancira Chevy,2022-04-01
+1GKS2BKC6LR153511,2020,GMC,Yukon,SLT,4D Sport Utility,Summit White,Jet Black,automatic,15,21,68986,44991,Ancira Chevy,2022-04-01
+3GTU2NEC3JG609169,2018,GMC,Sierra 1500,SLT,Pickup Crew Cab,Onyx Black,Cocoa/Dune,automatic,15,20,55703,44991,Ancira Buick GMC,2022-04-01
+3GCPWCEDXMG454056,2021,Chevrolet,Silverado 1500,LT Texas Edition,4D Crew Cab,Satin Steel Metallic,Black,automatic,20,23,10675,44991,Ancira Chevy,2022-04-01
+1C4HJXEG7JW175374,2018,Jeep,Wrangler Unlimited,Sahara,Convertible,Black Clearcoat,Black,automatic,18,23,41068,44999,Ancira Volkswagen of San Antonio,2022-04-01
+JTEZU5JR4L5222419,2020,Toyota,4Runner,Limited,Sport Utility,Barcelona Red Metallic,Sand Beige,automatic,16,19,26523,45498,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1GNSCGKC9KR264937,2019,Chevrolet,Suburban,LS,4D Sport Utility,Black,Jet Black,automatic,15,22,47087,45991,Ancira Chevy,2022-04-01
+WA1BAAFY9M2011107,2021,Audi,Q5,Premium Plus,Sport Utility,Silver,Black,automatic,23,28,19726,45997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C6SRFFT3LN348716,2020,RAM,1500,Lone Star,Crew Cab,Maximum Steel Metallic Clearcoat,Diesel Gray/Black,automatic,17,22,22901,46488,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3GCPWDED8MG130061,2021,Chevrolet,Silverado 1500,RST,Pickup Crew Cab,Silver Ice Metallic,Jet Black,automatic,17,23,19335,46491,Ancira Volkswagen of Laredo,2022-04-01
+1C6HJTFG2ML511047,2021,Jeep,Gladiator,Overland,Crew Cab Pickup,Granite Crystal Metallic Clearcoat,Black,automatic,17,22,10459,46990,Ancira Volkswagen of San Antonio,2022-04-01
+1C6HJTFG0ML504159,2021,Jeep,Gladiator,Overland,4D Crew Cab,Black Clearcoat,Black,automatic,17,22,27177,46991,Ancira Chevy,2022-04-01
+5TFDY5F13MX976178,2021,Toyota,Tundra,SR5,Crew Cab Pickup,Silver,Graphite,automatic,13,17,23650,47299,Ancira Nissan,2022-04-01
+3C6UR5MLXJG209310,2018,RAM,2500,Lone Star,4D Crew Cab,Gray,Black,automatic,0,0,97103,47591,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1GYS4BKJ7HR130664,2017,Cadillac,Escalade,Luxury,Sport Utility,Crystal White Tricoat,Jet Black,automatic,15,20,82500,47597,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1FT8W3BTXFEB94008,2015,Ford,F-350SD,Lariat,4D Crew Cab,White,Black.,automatic,0,0,105381,47697,Ancira Ford Floresville,2022-04-01
+1V2TR2CA2MC501140,2021,Volkswagen,Atlas,3.6L V6 SEL Premium,Sport Utility,Blue,Titan Black,automatic,16,22,33495,47961,Ancira Volkswagen of San Antonio,2022-04-01
+2C3CDXGJXMH559246,2021,Dodge,Charger,Scat Pack,Sedan,Sinamon Stick,Black,automatic,15,24,9481,47987,Ancira Nissan,2022-04-01
+3GCUYEED3MG101778,2021,Chevrolet,Silverado 1500,RST,4D Crew Cab,Shadow Gray Metallic,Black,automatic,16,22,11658,47991,Ancira Chevy,2022-04-01
+1GNSKHKC2JR313015,2018,Chevrolet,Suburban,LT,4D Sport Utility,Black,Black,automatic,15,22,44275,47991,Ancira Chevy,2022-04-01
+1C6RREJT2MN543904,2021,RAM,1500,Laramie,Crew Cab,Bright White Clearcoat,Black,automatic,17,23,28001,47997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1GC1KWE82FF191426,2015,Chevrolet,2500HD Silverado,LTZ,Pickup Crew Cab,Summit White,Cocoa/Dune,automatic,0,0,92181,48491,Ancira Buick GMC,2022-04-01
+KNAE55LC7M6096011,2021,Kia,Stinger,GT2,4dr Car,Ceramic Silver,Black,automatic,17,25,10125,48597,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1GCPYFED1KZ144919,2019,Chevrolet,Silverado 1500,LT Trail Boss,4D Crew Cab,Red,Jet Black,automatic,15,20,43087,48791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1C6JJTBG2ML524582,2021,Jeep,Gladiator,Rubicon,4D Crew Cab,Snazzberry Pearlcoat,Black,automatic,17,22,9755,48991,Ancira Chevy,2022-04-01
+SALZJ2FX4LH115784,2020,Land Rover,Range Rover Evoque,S,Sport Utility,Santorini Black Metallic,Ebony,automatic,20,27,13432,48997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4HJXEGXLW184752,2020,Jeep,Wrangler Unlimited,Sahara Altitude,Convertible,Sting-Gray Clearcoat,Black,automatic,19,22,17206,49491,Ancira Volkswagen of Laredo,2022-04-01
+1GNSKJKC3JR300474,2018,Chevrolet,Suburban,Premier,Sport Utility,Pepperdust Metallic,Jet Black,automatic,15,22,46957,49991,Ancira Buick GMC,2022-04-01
+1C4RJKBG3M8202610,2021,Jeep,Grand Cherokee L,Limited,Sport Utility,Diamond Black Crystal Pearlcoat,Wicker Beige/Black,automatic,18,25,2841,49998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4HJXCG4MW669344,2021,Jeep,Wrangler,Rubicon,Convertible,Snazzberry Pearlcoat,Black,automatic,20,24,6506,50488,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4HJXFG1KW662294,2019,Jeep,Wrangler,Rubicon,Convertible,Bikini Pearlcoat,Heritage Tan/Black,automatic,18,23,34600,50898,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4SDHCT6MC863732,2021,Dodge,Durango,R/T,Sport Utility,Destroyer Gray Clearcoat,Black,automatic,14,22,4573,50988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3C6UR5FJ8JG177646,2018,RAM,2500,Laramie,4D Crew Cab,Granite Crystal Metallic Clearcoat,Black,automatic,0,0,54342,50997,Ancira Ford Floresville,2022-04-01
+2C3CDZFJ6MH590118,2021,Dodge,Challenger,R/T Scat Pack,2dr Car,Pitch Black Clearcoat,Black,automatic,15,24,7659,50998,Ancira Volkswagen of San Antonio,2022-04-01
+1C6JJTEG2ML515795,2021,Jeep,Gladiator,Mojave,Crew Cab Pickup,Bright White Clearcoat,Black,automatic,17,22,18000,51988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+JN8AZ2NF1L9703369,2020,INFINITI,QX80,LUXE,Sport Utility,Liquid Platinum,Graphite,automatic,14,20,52276,51991,Ancira Buick GMC,2022-04-01
+1G1YB2D74G5108305,2016,Chevrolet,Corvette,1LT,Coupe,Long Beach Red Metallic Tintcoat,Jet Black,automatic,16,29,12068,51991,Ancira Nissan,2022-04-01
+1GYS3HKJ8HR263682,2017,Cadillac,Escalade ESV,Luxury,SUV,Crystal White Tricoat,Shale with Cocoa Accents,automatic,15,22,41661,52323,Ancira Nissan,2022-04-01
+1G1YC2D75F5119387,2015,Chevrolet,Corvette,Stingray 2LT,2D Coupe,Torch Red,Jet Black,automatic,17,29,33434,52491,Ancira Chevy,2022-04-01
+1FTEW1E55KFB35876,2019,Ford,F-150,Platinum,4D SuperCrew,Gray,Black,automatic,16,22,47826,52551,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+KM8R7DHE4MU240978,2021,Hyundai,Palisade,Calligraphy,Sport Utility,Hyper White,Dark Brown,automatic,19,24,17295,52698,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C6SRFJM1LN395842,2020,RAM,1500,Laramie,4D Crew Cab,Patriot Blue Pearlcoat,Black,automatic,21,29,32682,52987,Ancira Ford Floresville,2022-04-01
+1C6JJTEG8NL101485,2022,Jeep,Gladiator,Mojave,Crew Cab Pickup,Granite Crystal Metallic Clearcoat,Black,automatic,17,22,5711,53997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3C6UR5FL9JG237371,2018,RAM,2500,Laramie,Crew Cab,Maximum Steel Metallic Clearcoat,Black,automatic,0,0,108859,54798,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+WAUM2AF28KN035785,2019,Audi,A6,Prestige,4dr Car,White,Black,automatic,22,29,26688,56997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+JN8AY2BB6M9793785,2021,Nissan,Armada,SL,Sport Utility,Mocha Almond Pearl,Charcoal,automatic,13,18,8228,57491,Ancira Buick GMC,2022-04-01
+1FT7W2BT4HED30917,2017,Ford,Super Duty F-250 SRW,Lariat,Crew Cab Pickup,Red,-1,automatic,0,0,85410,57991,Ancira Buick GMC,2022-04-01
+KMUHB4SBXMU048586,2021,Genesis,GV80,2.5T,Sport Utility,Black,Beige/Black,automatic,21,25,6315,58139,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4RJKDG1M8164291,2021,Jeep,Grand Cherokee L,Overland,Sport Utility,Baltic Gray Metallic Clearcoat,Global Black,automatic,18,25,15965,58498,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1FTEW1E54LFB54145,2020,Ford,F-150,King Ranch,4D SuperCrew,White,Java,automatic,15,21,18697,58791,Ancira Chrysler Dodge Jeep Ram Eagle Pass,2022-04-01
+1GNSCMKD7MR488248,2021,Chevrolet,Tahoe,LS,4D Sport Utility,Black,Jet Black,automatic,16,20,8791,58991,Ancira Chevy,2022-04-01
+1FT7W2BT9LEC10121,2020,Ford,Super Duty F-250 SRW,XLT,Crew Cab Pickup,Blue,-1,automatic,0,0,61479,59981,Ancira Buick GMC,2022-04-01
+1FA6P8JZ7J5501771,2018,Ford,Mustang,Shelby GT350,2D Coupe,Shadow Black,Ebony,automatic,14,21,8632,59991,Ancira Chevy,2022-04-01
+1FT7W2BT2KEE20638,2019,Ford,F-250SD,Lariat,4D Crew Cab,Ruby Red,Black / Dark Marsala,automatic,0,0,100778,59997,Ancira Ford Floresville,2022-04-01
+1FT8W3BT8HEE68602,2017,Ford,F-350SD,Lariat,4D Crew Cab,Oxford White,Black,automatic,0,0,64785,60987,Ancira Ford Floresville,2022-04-01
+1FT7W2BT6KEG39179,2019,Ford,F-250SD,Lariat,4D Crew Cab,Ruby Red,Medium Light Camel,automatic,0,0,84101,62487,Ancira Ford Floresville,2022-04-01
+1C4RJKEG1M8104512,2021,Jeep,Grand Cherokee L,Summit,Sport Utility,Velvet Red Pearlcoat,Global Black,automatic,18,25,8965,62498,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1FT7W2BT0HED08199,2017,Ford,F-250SD,Platinum,Crew Cab Pickup,White Platinum Metallic Tri-Coat,Black,automatic,0,0,77853,62988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+3C6UR5FL4JG399747,2018,RAM,2500,Laramie,Crew Cab,Pearl White,Black,automatic,0,0,37435,63597,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1FT7W2BT2KEG02890,2019,Ford,F-250SD,Lariat,4D Crew Cab,Ingot Silver,Black / Dark Marsala,automatic,0,0,60263,65997,Ancira Ford Floresville,2022-04-01
+1GNSCNKD5MR213418,2021,Chevrolet,Tahoe,LT,Sport Utility,Empire Beige Metallic,Gideon/Very Dark Atmosphere,automatic,16,20,34522,66388,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1FT8W3BT6KEC50018,2019,Ford,F-350SD,King Ranch,4D Crew Cab,Black,Java,automatic,0,0,81478,69997,Ancira Ford Floresville,2022-04-01
+3C6UR5FL0MG511903,2021,RAM,2500,Laramie,4D Crew Cab,Billet Silver Metallic Clearcoat,Black,automatic,0,0,41801,70987,Ancira Ford Floresville,2022-04-01
+1GT49RE7XMF266162,2021,GMC,Sierra 2500HD,Denali,4D Crew Cab,Pacific Blue Metallic,Dark Walnut/Dark Ash Grey,automatic,0,0,12018,72987,Ancira Ford Floresville,2022-04-01
+1GKS1BKD5MR117371,2021,GMC,Yukon,SLT,Sport Utility,Summit White,Dark Walnut/Slate,automatic,16,20,26678,73751,Ancira Volkswagen of San Antonio,2022-04-01
+WA1VXAF79MD020607,2021,Audi,Q7,Prestige,Sport Utility,Gray,Black,automatic,18,23,8269,73839,Ancira Volkswagen of San Antonio,2022-04-01
+3C6UR5SL2KG653236,2019,RAM,2500,Limited,Crew Cab,Diamond Black Crystal Pearlcoat,Black,automatic,0,0,67090,74997,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1C4SJVBT2NS106424,2022,Jeep,Wagoneer,Series II,Sport Utility,Silver Zynith,Sea Salt/Black,automatic,15,20,478,76988,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+5UXCX4C57KLB39536,2019,BMW,X7,xDrive50i,Sports Activity Vehicle,Arctic Gray Metallic,Black,automatic,15,21,40915,76998,Ancira Chrysler Jeep Dodge Ram,2022-04-01
+1G1YS2D6XK5605178,2019,Chevrolet,Corvette,Z06,2dr Car,Torch Red,Jet Black,automatic,14,23,14055,82991,Ancira Buick GMC,2022-04-01
+1G1FB1RS3J0191048,2018,Chevrolet,Camaro,1LT,2D Coupe,Gray,Gone,automatic,19,29,26739,-1,Ancira Chevy,2022-04-01

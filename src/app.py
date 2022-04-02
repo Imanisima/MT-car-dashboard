@@ -2,13 +2,13 @@
 Creates the dash application.
 
 Features to add:
-* check that all packages have been installed. If not, automatically run the install.
+* add link to car listing
 """
 
 from modules.backend.process.scraper_proc import web_scraping_proc
 from modules.frontend.dashboard_figures import *
 
-import dash
+import dash, dash_table
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 from dash.dependencies import Input, Output
@@ -19,6 +19,9 @@ import time
 import numpy as np
 import pandas as pd
 
+import plotly.express as px
+
+import webbrowser
 
 external_stylesheets = [
         {
@@ -36,9 +39,10 @@ app = dash.Dash(__name__,
                     ]
                 )
 
+PAGE_SIZE = 10
 
 
-def data_preprocess(data_file="modules/frontend/ancira_car_listing.csv"):
+def data_preprocess(car_csv="modules/frontend/ancira_car_listing.csv"):
     """
     Preprocesses data in preparation for dashboard
     PARAMETERS
@@ -49,17 +53,18 @@ def data_preprocess(data_file="modules/frontend/ancira_car_listing.csv"):
         df : dataframe
     """
 
-    df = pd.read_csv(data_file)
+    df = pd.read_csv(car_csv)
+
     df = df[df.price != "-1"]
     df["make"].str.lower()
-    df["transmission"].str.lower()
+    # df["transmission"].str.lower()
     df.sort_values("alert_dt", inplace=True)
 
     return df
 
 
 # UI
-def dash_app_layout(app, dataset):
+def dash_app_layout(app, dataset, mdataset):
     """
     Responsible for the dashboard layout.
     PARAMETERS
@@ -84,7 +89,7 @@ def dash_app_layout(app, dataset):
                         className="header-title",
                     ),
                     html.P(
-                        children="Analyzing the behavior of used cars from a local dealership.",
+                        children="A search for manual transmission cars",
                         className="header-description"
                     ),
 
@@ -96,62 +101,6 @@ def dash_app_layout(app, dataset):
                     ),
                 ], style={'textAlign': 'center'}
             ),  # end of header section
-
-            # filter
-            html.Div(
-                className="card",
-                children=[
-                    # drop down menu option 1
-                    html.Div(
-                        children=[
-                            html.Div(children="Make", className="menu-title"),
-                            dcc.Dropdown(
-                                id="make-filter",
-                                options=[
-                                    {"label": make, "value": make}
-                                    for make in np.sort(dataset.make.unique())
-                                ],
-                                # value="Select one",
-                                clearable=False,
-                                className="dropdown",
-                            ),
-                        ]
-                    ),
-
-                    # drop down
-                    html.Div(
-                        children=[
-                            html.Div(children="Transmission Type", className="menu-title"),
-                            dcc.Dropdown(
-                                id="trans-filter",
-                                options=[
-                                    {"label": transmission, "value": transmission}
-                                    for transmission in np.sort(dataset.transmission.unique())
-                                ],
-                                # value="manual",
-                                clearable=False,
-                                searchable=False,
-                                className="dropdown",
-                            ),
-                        ]
-                    ),
-
-                    # range slider menu
-                    html.Div(
-                        children=[
-                            html.Div(children="Year", className="menu-title"),
-                            dcc.RangeSlider(
-                                id="year-filter",
-                                min=dataset["year"].min(),
-                                max=dataset["year"].max(),
-                                step=1,
-                                allowCross=False
-                            ),
-                        ]
-                    ),
-
-                ]
-            ),
 
             # Graphs
             html.Div(
@@ -217,9 +166,65 @@ def dash_app_layout(app, dataset):
                             ),
                         ]  # end of row div
 
-                    )  # end of div
+                    ),  # end of div - first 3 charts
+
                 ]
             ),  # end graphs section
+
+            html.Br(),
+            html.Br(),
+
+            # DataTable
+            html.Div(
+                children=[
+                    dbc.Label('Manual Transmission Cars'),
+                    dash_table.DataTable(
+
+                        # pagination
+                        id='datatable-paging-page-count',
+                        columns=[
+                            {"name": i, "id": i} for i in sorted(mdataset.columns)
+                        ],
+                        page_current=0,
+                        page_size=PAGE_SIZE,
+                        page_action='custom',
+
+                        # styling
+                        # - default styling
+                        style_data={
+                            'color': 'black',
+                            'backgroundColor': 'white'
+                        },
+
+                        style_table={'overflowX': 'auto'},
+
+                        # - alternating rows
+                        style_data_conditional=[
+                            {
+                                'if': {'row_index': 'odd'},
+                                'backgroundColor': '#E7C8DD',
+                            }
+                        ],
+
+                        # - header
+                        style_header={
+                            'backgroundColor': '#E7C8DD',
+                            'color': 'black',
+                            'fontWeight': 'bold'
+                        },
+
+                        # - cells
+                        style_cell={'textAlign': 'left', 'padding': '5px'},
+                        style_as_list_view=True,
+
+                    ),
+
+                    html.Br(),
+                    html.Br(),
+                    html.Br()
+                ]
+            ) # end of dataTable container
+
         ],
     )  # end of container
 
@@ -230,13 +235,30 @@ def dash_app_layout(app, dataset):
     #     time.sleep(1)
     #     return value
 
+    # DATATABLE CALLBACKS
+    @app.callback(
+        Output('datatable-paging-page-count', 'data'),
+        Input('datatable-paging-page-count', "page_current"),
+        Input('datatable-paging-page-count', "page_size")
+    )
+
+    def update_table(page_current,page_size):
+        return mdataset.iloc[
+            page_current*page_size:(page_current+ 1)*page_size
+        ].to_dict('records')
+
 
 if __name__ == "__main__":
     # while True:
     web_scraping_proc()
-    
-    car_data = data_preprocess()
-    dash_app_layout(app, car_data)
 
-    app.run_server(debug=True)
+    car_data = data_preprocess()
+    mcar_data = data_preprocess(car_csv="modules/frontend/ancira_mcar_listing.csv")
+
+    dash_app_layout(app, car_data, mcar_data)
+
+    url = "http://127.0.0.1:8050"
+    webbrowser.open(url, new = 0, autoraise=True)
+
+    app.run_server(debug=False)
         # time.sleep(300)

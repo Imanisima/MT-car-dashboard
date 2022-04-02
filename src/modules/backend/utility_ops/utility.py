@@ -57,4 +57,4 @@ def write_to_log(msg,
     f.write(f"{alert_time} : {msg} \n")
     f.close()
 
-    print(f"{alert_time} : {msg} \n")
+    # print(f"{alert_time} : {msg} \n")

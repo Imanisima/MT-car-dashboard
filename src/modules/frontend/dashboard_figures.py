@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import plotly.express as px
+import plotly.graph_objects as go
 from app import data_preprocess
 
 

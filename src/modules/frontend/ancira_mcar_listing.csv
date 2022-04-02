@@ -1,0 +1,6 @@
+vin_num,year,make,model,trim,body_style,ext_color,int_color,transmission,city_mpg,hwy_mpg,mileage,price,dealership,alert_dt
+4T4BE46K78R037949,2008,Toyota,Camry,LE,4dr Car,Silver,-1,manual,21,31,132596,8491,Ancira Buick GMC,2022-04-01
+1FADP3L92EL340321,2014,Ford,Focus,ST,Hatchback,Performance Blue,Charcoal Black,manual,23,32,157636,12491,Ancira Nissan,2022-04-01
+2B3CJ5DTXAH319626,2010,Dodge,Challenger,R/T,Coupe,Bright White,Dark Slate Gray,manual,15,24,60599,20489,Ancira Nissan,2022-04-01
+1FA6P8TH1G5225245,2016,Ford,Mustang,EcoBoost,Coupe,Oxford White,Ebony,manual,22,31,52425,22955,Ancira Nissan,2022-04-01
+KMHTH6AB3MU032167,2021,Hyundai,Veloster,Turbo R-Spec,3dr Car,Chalk White,Black,manual,26,33,11319,30649,Ancira Volkswagen of San Antonio,2022-04-01

@@ -21,7 +21,8 @@ from modules.backend.utility_ops.utility import check_path, write_to_log
 # @tl.job(interval=timedelta(seconds=10))
 def web_scraping_proc(job_name="Car Web-Scraper",
                       dataset_dir="modules/frontend/",
-                      car_csv_file="ancira_car_listing.csv"):
+                      car_csv_file="ancira_mcar_listing.csv",
+                      mcar_csv_file="ancira_mcar_listing.csv"):
 
     """
 	Web scraper that pulls data and creates a dataset to track manual transmission and automatic transmission cars.
@@ -39,9 +40,6 @@ def web_scraping_proc(job_name="Car Web-Scraper",
 	RETURNS
 		Nothing
 	"""
-
-
-    print("----------SCRAPPER.PY----------")
 
     write_to_log(msg=f"Now starting {job_name} process")
 
@@ -63,17 +61,27 @@ def web_scraping_proc(job_name="Car Web-Scraper",
     write_to_log(msg=f"Retrieving vehicle information")
     veh_df = retrieve_vehicles(page_list, domain)
 
-    veh_df.loc[veh_df["transmission"].str.lower() != "manual", "transmission"] = "automatic"
+    veh_df["transmission"] = veh_df["transmission"].str.lower()
+    veh_df.loc[veh_df["transmission"] != "manual", "transmission"] = "automatic"
 
     write_to_log(msg=f"{veh_df.shape[0]} rows retrieved.")
     write_to_log(msg=f"{veh_df.shape[1]} columns retrieved.")
     write_to_log(msg=f"Column names are {veh_df.columns}")
 
     # check_path(dataset_dir)
+    # all car data
+    write_to_log(msg=f"saving all car data.")
     dataset_path = dataset_dir + car_csv_file
     veh_df.to_csv(dataset_path, index=False)
     write_to_log(msg=f"{veh_df.shape[0]} rows saved.")
     write_to_log(msg=f"{veh_df.shape[1]} columns saved.")
+
+    # manual transmission data
+    write_to_log(msg=f"saving manual_trans data.")
+    mveh_df = veh_df.loc[veh_df['transmission'] == "manual"]
+    mveh_df.to_csv(dataset_dir + mcar_csv_file, index=False)
+    write_to_log(msg=f"{mveh_df.shape[0]} rows saved.")
+    write_to_log(msg=f"{mveh_df.shape[1]} columns saved.")
 
     write_to_log(msg=f"Process finished running! \n")
 

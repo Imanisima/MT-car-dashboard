@@ -1,5 +1,0 @@
-dash==0.5.11.2
-pandas>=0.25.3
-numpy
-time
-bs4==4.9.3

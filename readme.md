@@ -1,5 +1,5 @@
 # MT Car Dealership Scraper
-An application that monitors and pulls used __manual transmission__ and __automatic transmission__ car data from dealerships near me.
+An application that monitors and pulls used __manual transmission__ and __automatic transmission__ car data from dealerships near me. List refreshes daily.
 
 ### The Problem
 My motivations for creating this script was due to dealerships not having a functional filter for stick-shift cars. Even if the option is there available to filter, often times the automatic cars are added to the list anyway. This forces more work on the user to click on each listing and make sure the car indeed is a manual **despite** already choosing the manual transmission filter.
@@ -37,11 +37,16 @@ My motivations for creating this script was due to dealerships not having a func
 
 ---
 
+### Technologies Used
+* Python
+* Flask
+* Bootstrap
+
 ## Instructions for Running via Terminal
 
 * Open terminal
 * Activate virtual env: `source venv/bin/activate`
-* Run setup script: `python setup.py install`
+<!-- * Run setup script: `python setup.py install` -->
 * start server: `python app.py runserver`
 
 __Note__: When you're done running the code, you're going to want to exit the virtual environment. To deactivate the virtual environment, just type: `deactivate` into the terminal.
