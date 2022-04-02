@@ -1,7 +1,7 @@
 # MT Car Dealership Scraper 🏎️
 An application that monitors and pulls used __manual transmission__ and __automatic transmission__ car data from a chain of local dealerships in San Antonio, TX. List refreshes daily.
 
-<img src="https://github.com/Imanisima/ancira-car-dashboard/blob/multithreading/mt_tracker_gif.gif" width="700" height="400" />
+<img src="https://github.com/Imanisima/ancira-car-dashboard/blob/master/mt_tracker_gif.gif" width="700" height="400" />
 
 ### The Problem :bell:
 Dealerships do not always have a functional filter for stick-shift cars. Even when the transmission filtering option is available, it is quite common that automatic cars are added to the results. This forces the user to double check that the car they are viewing is a manual **despite** using the filter or entering the keywords `manual transmission cars` into the searchbar.
